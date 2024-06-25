@@ -7,6 +7,8 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="icon" href="images/favicon.ico" type="image/x-icon">
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+
 	</head>
 	<body class="is-preload">
 
@@ -20,6 +22,7 @@
 							<li><a href="#teaching">Teaching</a></li>
 							<li><a href="#experience">Experience</a></li>
 							<li><a href="#contact">Contact</a></li>
+							<li><a href="javascript:void(0)" onclick="toggleDarkMode()" title="Toggle Dark Mode"><i id="theme-icon" class="fas fa-moon"></i></a></li>
 						</ul>
 					</nav>
 
@@ -33,16 +36,11 @@
 										<header class="major">
 											<h2>About Hunter</h2>
 										</header>
-										<p>Hunter Ng graduated from Nanyang Technological University, Singapore in 2021 with double first
-											class honours degrees in Accountancy and Business Analytics. He has worked in Tokyo under Fujitsu's cloud computing department,
-											worked in Singapore's Central Bank under the fintech division, and has run a floral boutique school in Singapore.
+										<p>Hunter Ng has worked in Fujitsu's cloud computing department, Tokyo Japan, Singapore's Central Bank's (Monetary Authority of Singapore) fintech division on cryptocurrency, 
+											and ran his own floral boutique school in Singapore.
 										</p>
 										<p>Hunter is currently a PhD candidate in Accountancy at Baruch College, City University of New York. His research interests lie in Generative AI,
-											Cybersecurity and Accounting, Firm SEC Textual Disclosures and Environmental-Social-Governance ESG issues. Hunter is also experienced in web design, full-stack development and writing. 
-											He published his first novel - "As Coarse As Emporium" in 2021 under Jettison Books Pte. Ltd.
-										</p>
-										<p>Hunter has speaking proficiency in English, Mandarin and Hindi. In his free time, he enjoys meditation, going to the gym,
-											and appreciating movies.
+											Cybersecurity and Accounting, Firm SEC Textual Disclosures and Environmental-Social-Governance ESG issues.
 										</p>
 									</div>
 									<span class="image"><img src="images/pic07.jpg" alt="" /></span>
@@ -129,6 +127,30 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script>
+				function toggleDarkMode() {
+					document.body.classList.toggle('dark-mode');
+					const themeIcon = document.getElementById('theme-icon');
+					if (document.body.classList.contains('dark-mode')) {
+						localStorage.setItem('theme', 'dark');
+						themeIcon.classList.remove('fa-moon');
+						themeIcon.classList.add('fa-sun');
+					} else {
+						localStorage.setItem('theme', 'light');
+						themeIcon.classList.remove('fa-sun');
+						themeIcon.classList.add('fa-moon');
+					}
+				}
+		
+				window.onload = function() {
+					const themeIcon = document.getElementById('theme-icon');
+					if (localStorage.getItem('theme') === 'dark') {
+						document.body.classList.add('dark-mode');
+						themeIcon.classList.remove('fa-moon');
+						themeIcon.classList.add('fa-sun');
+					}
+				}
+			</script>
 
 	</body>
 </html>

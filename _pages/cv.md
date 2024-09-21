@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my CV](files/cv.docx)
+
+[Download my CV](/files/cv.docx)

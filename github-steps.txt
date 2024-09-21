@@ -1,0 +1,7 @@
+Set up 4 A records with name @ (which stands for empty space) and github dns
+Set up CNAME which points to hunterng.github.io (to verify https)
+
+For Google scholar, we have to link to a random article first, create the profile, 
+then delink the article.
+
+For google search console, create txt record with name @

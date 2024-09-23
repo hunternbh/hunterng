@@ -22,7 +22,6 @@ redirect_from:
 - Is Cryptocurrency Wash Trading Strategic?
   - This paper investigates the phenomenon of wash trading in cryptocurrencies, where traders simultaneously place buy and sell orders to inflate trading volumes artificially. Using high-frequency transaction data from the Mt.Gox Bitcoin exchange, I find that wash trades are strategic in response to low natural trading volume. When wash-trading in an exchange is high, the exchange's activity also mirrors on-chain transactions and other markets' transactions more closely. Wash-trading also takes place more when other asset classes trade less. Additionally, when the information environment is weak and there is more information asymmetry, wash trading's effect is slower but more sticky in the market. Wash traders also take advantage of contemporary events and induce more wash trading to boost volume. The results highlight the finding that wash trades are strategic in nature and this has implications for the financial and legal literature in allowing a better characterization of how wash trades take place, and thus, how they can be detected.
   - [Download Slides]({{ site.baseurl }}/files/crypto.pdf)
-  - [Download Paper]({{ site.baseurl }}/files/crypto-paper.pdf)
 
 **Conferences and Presentations**
 - Hawaii Doctoral Institute Summer 2025

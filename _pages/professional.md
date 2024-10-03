@@ -15,13 +15,14 @@ redirect_from:
 - Director (2021-2022)
 
 **Raffles Town Club, Singapore**
-- Assistant to Chairman of Board of Directors (2021-2022)
+- Assistant to Chairman of Board of Directors (2021)
 
 **Monetary Authority of Singapore**
 - Fintech Division (2021)
+- Worked with Toh Wee Kee on Project Ubin
 
-**KPMG Singapore, Digital Trust Division**
+**KPMG Singapore**
 - Digital Trust Department (2020)
 
-**Fujitsu, Shin-Kawasaki Tokyo Japan, Cloud Computing Division**
+**Fujitsu, Shin-Kawasaki Tokyo Japan**
 - Cloud Computing Department (2020)

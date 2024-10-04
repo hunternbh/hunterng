@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+**Mentor**
+- Kalin Kolev (Baruch College)
+
 **Dissertation Committee**
 - Edward Li (Baruch College)
 - Lin Peng (Baruch College)

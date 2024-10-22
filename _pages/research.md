@@ -29,11 +29,6 @@ redirect_from:
   - This paper introduces BigBird-ESG, a domain-specific transformer architecture pre-trained on manually classified paragraphs from Chinese ESG reports between 2016 to 2020. Our results show that BigBird-ESG, with its sparse attention mechanisms, more efficiently processes Chinese ESG reports due to innate qualities of the Chinese language and its difference from the English language. We show that BigBird-ESG outperforms BERT and FinBERT under specific conditions in both sentiment and category classification tasks. The findings suggest that language specificity affects the accuracy of LLM models in parsing textual data. Our findings affect the future advancement of multi-modal LLMs and transfer learning, which should consider language-specific qualities when interpreting sources of financial information. We also use state-of-the-art OCR to coherently extract paragraphs from the ESG reports, which preserves the meaning of the textual data and we use this new methodology to show that tone in Chinese ESG reports is correlated with ESG ratings.
   - [Download Paper]({{ site.baseurl }}/files/bigbird.pdf)
 
-- Decreasing Familial Welfare: The Fluid Welfare State in post-COVID Singapore
-  - Submitted as term paper for Paul Krugman's class
-  - Under Review - Sociology Compass
-  - This paper investigates social policies of Singapore post COVID, and finds that  Singapore’s strong grip on legitimacy has created a fluid welfare state. The fluid welfare state is  defined as a welfare state built on legitimacy and guided by values. In Singapore’s case, it is guided by the core values of rational, financially lean and effective policy-making. In choosing  the fluid welfare state, Singapore has chosen to sacrifice to some extent, the functional form of its welfare state, as evidence by the decreasing emphasis on familial welfare. This form of fluid welfare state is Singapore’s answer to a constantly, changing global landscape. By redefining its approach to welfare, Singapore’s answer to the ideal welfare state is an epitome for other states struggling with various issues.
-
 **Conferences and Presentations**
 - Hawaii Doctoral Institute Summer 2025
 - 2024 The Chinese Finance Association TCFA 30th Annual Conference

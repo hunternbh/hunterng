@@ -36,8 +36,14 @@ redirect_from:
 
 **Conferences and Presentations**
 - Hawaii Doctoral Institute Summer 2025
+- 2024 The Chinese Finance Association TCFA 30th Annual Conference
+  - Participant
 - NYU Accounting Theory Summer School 2024
   - Taught by Ilan Guttman, Judson Caskey, Jeremy Bertomeu
 - Duke University Accounting Theory Summer School 2024
   - Presented paper - "Cybersecurity Disclosures".
   - Taught by Itay Goldstein, Qi Chen, Chandra Kanodia, Thomas Hemmer
+
+**Paper Review**
+- 2023 Management Science Reproducibility Project
+  - Reproduced a published paper on text-mining

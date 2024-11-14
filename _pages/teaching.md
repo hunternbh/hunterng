@@ -16,6 +16,10 @@ redirect_from:
 - ACC 3202 Accounting Information Systems and Data Analytics - Summer 2024
   - Instructor Rating: 4.5/5.0
 
+**Tutor - Marxe School of Public and International Affairs**
+- Quantitative tutor for Masters students including Masters of Public Administration and Masters of International Affairs
+  - PAF9130, PAF 9415, PAF9272, PAF9271
+
 **Teaching Assistant - Baruch College**
 - ACC 3202 Accounting Information Systems and Data Analytics - Spring 2024
   - Instructor Rating: 4.5/5.0

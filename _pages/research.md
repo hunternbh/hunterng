@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-**Mentor**
+**Advisors**
+- Yen Tong (Nanyang Technological University)
 - Kalin Kolev (Baruch College)
 
 **Dissertation Committee**

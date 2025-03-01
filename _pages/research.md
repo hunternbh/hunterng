@@ -8,14 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
-**Advisors**
-- Yen Tong (Nanyang Technological University)
-- Kalin Kolev (Baruch College)
-
 **Dissertation Committee**
 - Edward Li (Baruch College)
 - Lin Peng (Baruch College)
 - Svenja Dube (Baruch College)
+- Diana Weng (Baruch College)
+
+**Advisors**
+- Yen Tong (Nanyang Technological University)
+- Kalin Kolev (Baruch College)
 
 **Working Papers**
 - Strategic Control of Facial Expressions by the Fed Chair

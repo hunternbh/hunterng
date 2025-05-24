@@ -32,7 +32,7 @@ redirect_from:
 - BigBird for ESG Reports - A Sparse Attention Model For Differences Between Languages In Textual Analysis
   - Coauthored with Shuai Xu (Shanghai University of Finance and Economics, Singapore Management University)
   - This paper introduces BigBird-ESG, a domain-specific transformer architecture pre-trained on manually classified paragraphs from Chinese ESG reports between 2016 to 2020. Our results show that BigBird-ESG, with its sparse attention mechanisms, more efficiently processes Chinese ESG reports due to innate qualities of the Chinese language and its difference from the English language. We show that BigBird-ESG outperforms BERT and FinBERT under specific conditions in both sentiment and category classification tasks. The findings suggest that language specificity affects the accuracy of LLM models in parsing textual data. Our findings affect the future advancement of multi-modal LLMs and transfer learning, which should consider language-specific qualities when interpreting sources of financial information. We also use state-of-the-art OCR to coherently extract paragraphs from the ESG reports, which preserves the meaning of the textual data and we use this new methodology to show that tone in Chinese ESG reports is correlated with ESG ratings.
-  - [Download Paper]({{ site.baseurl }}/files/bigbird.pdf)
+  <!-- - [Download Paper]({{ site.baseurl }}/files/bigbird.pdf) -->
 
 **Conferences and Presentations**
 - Hawaii Doctoral Institute Summer 2025
@@ -42,7 +42,15 @@ redirect_from:
   - Presented paper
   - [Download Agenda]({{ site.baseurl }}/files/2025 Baruch-SWUFE Research Symposium Agenda.pdf)
 - 2025 Baruch PhD Research Day in Finance
+  - Presented Paper
+  - [Download Email]({{ site.baseurl }}/files/2025 Baruch PhD Research Day in Finance V3.pdf)
+- 2025 Finance Brownbag
+  - Presented Paper
   - [Download Email]({{ site.baseurl }}/files/2025-finance-brownbag.PNG)
+- 2025 Baruch/JFQA Climate Finance Conference
+  - Participant
+- 2025 Baruch-Fordham-Rutgers Trischool Conference
+  - Participant
 - 2024 The Chinese Finance Association TCFA 30th Annual Conference
   - Participant
 - NYU Accounting Theory Summer School 2024

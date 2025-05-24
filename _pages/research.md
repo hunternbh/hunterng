@@ -17,6 +17,7 @@ redirect_from:
 **Advisors**
 - Yen Tong (Nanyang Technological University)
 - Kalin Kolev (Baruch College)
+- Mingcherng Deng (Baruch College)
 
 **Working Papers**
 - Strategic Control of Facial Expressions by the Fed Chair
@@ -35,6 +36,13 @@ redirect_from:
 
 **Conferences and Presentations**
 - Hawaii Doctoral Institute Summer 2025
+  - Taught by Hans Christensen, Brian White, Joe Schroeder, Jennifer Blouin
+  - [Download Agenda]({{ site.baseurl }}/files/HARDI_2025_Book of Resume.pdf)
+- 2025 Baruch-SWUFE Research Symposium
+  - Presented paper
+  - [Download Agenda]({{ site.baseurl }}/files/2025 Baruch-SWUFE Research Symposium Agenda.pdf)
+- 2025 Baruch PhD Research Day in Finance
+  - [Download Email]({{ site.baseurl }}/files/2025-finance-brownbag.PNG)
 - 2024 The Chinese Finance Association TCFA 30th Annual Conference
   - Participant
 - NYU Accounting Theory Summer School 2024
@@ -42,6 +50,9 @@ redirect_from:
 - Duke University Accounting Theory Summer School 2024
   - Presented paper - "Cybersecurity Disclosures".
   - Taught by Itay Goldstein, Qi Chen, Chandra Kanodia, Thomas Hemmer
+
+**Awards**
+- Mills & Tenn
 
 **Paper Review**
 - 2023 Management Science Reproducibility Project

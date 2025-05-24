@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 **Instructor - Baruch College**
-- ACC 2300 Cost Accounting - Spring 2025
+- ACC 3202 Accounting Information Systems and Data Analytics - Fall 2025
   - Instructor Rating: NA
+- ACC 2203 Cost Accounting - Spring 2025
+  - Instructor Rating: 4.5/5.0
 - ACC 3202 Accounting Information Systems and Data Analytics - Fall 2024
-  - Instructor Rating: NA
+  - Instructor Rating: 4.5/5.0
 - ACC 3202 Accounting Information Systems and Data Analytics - Summer 2024
   - Instructor Rating: 4.5/5.0
 

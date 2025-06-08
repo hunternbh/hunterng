@@ -53,6 +53,7 @@ redirect_from:
   - Taught by Hans Christensen, Brian White, Joe Schroeder, Jennifer Blouin
   - [Download Agenda]({{ site.baseurl }}/files/HARDI_2025_Book of Resume.pdf)
   - [Download SchroederClass_PPT]({{ site.baseurl }}/files/hardi_2025_presentation.pdf)
+  - [Download BlouinClass_PPT]({{ site.baseurl }}/files/hardi_blouin.pdf)
 - 2025 Baruch-SWUFE Research Symposium
   - Presented paper
   - [Download Agenda]({{ site.baseurl }}/files/2025 Baruch-SWUFE Research Symposium Agenda.pdf)

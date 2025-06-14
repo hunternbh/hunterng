@@ -54,6 +54,7 @@ redirect_from:
   - [Download Agenda]({{ site.baseurl }}/files/HARDI_2025_Book of Resume.pdf)
   - [Download SchroederClass_PPT]({{ site.baseurl }}/files/hardi_2025_presentation.pdf)
   - [Download BlouinClass_PPT]({{ site.baseurl }}/files/hardi_blouin.pdf)
+  - [Download WhiteClass_PPT]({{ site.baseurl }}/files/white_ppt.pdf)
 - 2025 Baruch-SWUFE Research Symposium
   - Presented paper
   - [Download Agenda]({{ site.baseurl }}/files/2025 Baruch-SWUFE Research Symposium Agenda.pdf)

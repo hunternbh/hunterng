@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+**Resources**
+- A Fun Introduction to Accounting Information Systems and Data Analytics
+A Fun Introduction to Accounting Information Systems and Data Analytics is a lively and accessible guide to how financial data powers modern organizations. Blending history, storytelling, and hands-on learning, the book traces accounting’s evolution from medieval friars and double-entry bookkeeping to cloud systems, artificial intelligence, and real-time analytics. Readers explore real-world cases, from corporate fraud to data-driven business strategy, while gaining practical skills in tools like Excel, SQL, Power BI, ERP systems, and XBRL. With clear explanations and engaging examples, the book helps students and professionals understand, analyze, and improve how information moves through today’s financial systems.
+- [Download Textbook]({{ site.baseurl }}/files/textbook-1.pdf)
+
 **Instructor - Baruch College**
 - ACC 3202 Accounting Information Systems and Data Analytics - Fall 2025
   - Instructor Rating: NA

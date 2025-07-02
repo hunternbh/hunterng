@@ -24,7 +24,7 @@ redirect_from:
   - Instructor Rating: 4.5/5.0
 
 **Tutor - Marxe School of Public and International Affairs**
-- Quantitative tutor for Masters students including Masters of Public Administration and Masters of International Affairs
+- Quantitative tutor for Masters of Public Administration and Masters of International Affairs - Spring 2024
   - PAF9130, PAF 9415, PAF9272, PAF9271
 
 **Teaching Assistant - Baruch College**

@@ -47,12 +47,6 @@ redirect_from:
 - Kalin Kolev (Baruch College)
 - Mingcherng Deng (Baruch College)
 
-
-
-
-
-
-
 **Peer Reviews**
 - 2025 Reviewer for Journal of International Financial Markets, Institutions & Money
 - 2023 Management Science Reproducibility Project

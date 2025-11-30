@@ -18,6 +18,6 @@ In 2021, I set up my own floral boutique school in Singapore. I have also incorp
 
 I have sat on the executive committee board of a SGD$800 million private shopping mall in Singapore together with [Lawrence Leow](https://www.sgengrs.com/our-team/lawrence-leow/) from Crescendas Group.
 
-I have received teachings from NoPaul Krugman and many other top scholars during my PhD journey.
+I have received teachings from Paul Krugman and many other top scholars during my PhD journey.
 
 <!-- I identify as a programmer, accountant, researcher and a business man. My dream is to commercialize my research or set up my own hedge-crypto fund, then create an endowment that will fund scholarships for children. It is our duty as humanity to make the next generation better than us. We must nurture conscious, empowered human beings. -->

@@ -8,10 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-**My Approach towards Research**
-- Research Areas: Machine Learning, Artificial Intelligence, Managerial Accounting, Labor Economics, Prediction Markets, Applied Econometrics, Cryptocurrency and DeFi
-- [My Thoughts on the Research Journey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611810)
-- To research is to be an expert steeped in institutional and historical knowledge, but well-versed in the methods of science to derive rigorous proofs of hypotheses. This involves practice because the mind must stretch beyond its plasticity years to be receptive towards all new information. Therefore, I first acknowledge that I do not know much. But if I do not know, the possibility of knowing is always there. If I have concluded, then my mind has become a concrete block. To know is not to identify with knowledge, but to be identified with ignorance, because knowledge is limited but only ignorance can be boundless.
+Research Areas: Machine Learning, Artificial Intelligence, Managerial Accounting, Labor Economics, Prediction Markets, Applied Econometrics, Cryptocurrency and DeFi
 
 **Working Papers**
 - Election Prediction Markets: Evidence from Polymarket, Kalshi, and Robinhood
@@ -20,6 +17,10 @@ redirect_from:
   - Conferences and Presentations
     - Finance Seminar, Baruch College, June 2025
     - Finance Seminar, The Hong Kong Polytechnic University, Oct 2025</div>
+
+- Why is it so hard to find a job now? Enter Ghost Jobs
+  - This paper investigates "ghost jobs", which are vacancies posted without intent to hire, using a novel dataset of interview reviews from Glassdoor. Using a fine-tuned BERT model, I find that approximately 21% of job postings exhibit patterns consistent with ghost jobs. These are disproportionately concentrated in larger firms and high-skill industries, where firms may benefit from resume collection, market intelligence, or signaling. I also show that incorporating ghost job prevalence helps reconcile the recent disconnect in the Beveridge Curve between vacancy and hiring rates. The results highlight how ghost hiring imposes costs on job seekers, distorts labor market indicators, and warrants closer scrutiny from policymakers.
+  <!-- - [Download Paper]({{ site.baseurl }}/files/ghost-jobs.pdf) -->
 
 - How Wash Traders Exploit Market Conditions in Cryptocurrency Markets
   - Wash trading, the practice of simultaneously placing buy and sell orders for the same asset to inflate trading volume, has been prevalent in cryptocurrency markets. This paper investigates whether wash traders in Bitcoin act deliberately to exploit market conditions and identifies the characteristics of such manipulative behavior. Using a unique dataset of 18 million transactions from Mt. Gox, once the largest Bitcoin exchange, I find that wash trading intensifies when legitimate trading volume is low and diminishes when it is high, indicating strategic timing to maximize impact in less liquid markets. The activity also exhibits spillover effects across platforms and decreases when trading volumes in other asset classes like stocks or gold rise, suggesting sensitivity to broader market dynamics. Additionally, wash traders exploit periods of heightened media attention and online rumors to amplify their influence, causing rapid but short-lived spikes in legitimate trading volume. Using an exogenous demand shock associated with illicit online marketplaces, I find that wash trading responds to contemporaneous events affecting Bitcoin demand. These results advance the understanding of manipulative practices in digital currency markets and have significant implications for regulators aiming to detect and prevent wash trading.
@@ -32,9 +33,7 @@ redirect_from:
   <!-- - [Download Paper](https://arxiv.org/abs/2410.20214) -->
   - [Download Paper]({{ site.baseurl }}/files/deepfake.pdf)
 
-- Why is it so hard to find a job now? Enter Ghost Jobs
-  - This paper investigates "ghost jobs", which are vacancies posted without intent to hire, using a novel dataset of interview reviews from Glassdoor. Using a fine-tuned BERT model, I find that approximately 21% of job postings exhibit patterns consistent with ghost jobs. These are disproportionately concentrated in larger firms and high-skill industries, where firms may benefit from resume collection, market intelligence, or signaling. I also show that incorporating ghost job prevalence helps reconcile the recent disconnect in the Beveridge Curve between vacancy and hiring rates. The results highlight how ghost hiring imposes costs on job seekers, distorts labor market indicators, and warrants closer scrutiny from policymakers.
-  <!-- - [Download Paper]({{ site.baseurl }}/files/ghost-jobs.pdf) -->
+
 
 **Dissertation Committee**
 - Edward Li (Baruch College)
@@ -87,4 +86,6 @@ redirect_from:
 - Mills & Tannenbaum Award 2025
 - Donald Vredenburgh Research Grant 2025
 
-
+**My Approach towards Research**
+- [My Thoughts on the Research Journey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611810)
+- To research is to be an expert steeped in institutional and historical knowledge, but well-versed in the methods of science to derive rigorous proofs of hypotheses. This involves practice because the mind must stretch beyond its plasticity years to be receptive towards all new information. Therefore, I first acknowledge that I do not know much. But if I do not know, the possibility of knowing is always there. If I have concluded, then my mind has become a concrete block. To know is not to identify with knowledge, but to be identified with ignorance, because knowledge is limited but only ignorance can be boundless.

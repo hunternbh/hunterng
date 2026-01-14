@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-![As Coarse As Emporium book cover]({{ site.baseurl }}/files/bookcover.JPG){: .align-center width="300px"}
+![As Coarse As Emporium book cover]({{ site.baseurl }}/files/bookcover.JPG)
 
 **As Coarse As Emporium** is a Singaporean noir thriller novel about **ten-year-old Bee**, who grows up inside a Singapore shopping mall known as **The Emporium**.
 

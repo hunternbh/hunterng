@@ -346,7 +346,7 @@ I wrote this novel during the Covid pandemic as I was about to begin my life ove
 
 ## Read
 - [Download Book (pdf)]({{ site.baseurl }}/files/ASCOARSEASEMPORIUM_HUNTERNG.pdf)
-- [Download Book (epub)]({{ site.baseurl }}/files/ASCOARSEASEMPORIUM_HUNTERNG.pdf)
+- [Download Book (epub)]({{ site.baseurl }}/files/ascoarseasemporium.epub)
 
 ## Purchase Hard-copy
 - $10 SGD - Self-collect at Upper Serangoon Shopping Center, #04-15, Daily 9am to 3.30pm (Excluding Mon and Wed)

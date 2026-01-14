@@ -349,8 +349,9 @@ I wrote this novel during the Covid pandemic as I was about to begin my life ove
 - [Download Book (epub)]({{ site.baseurl }}/files/ascoarseasemporium.epub)
 
 ## Purchase Hard-copy
-- $10 SGD - Self-collect at Upper Serangoon Shopping Center, #04-15, Daily 9am to 3.30pm (Excluding Mon and Wed)
-- For Deliveries, Please Whatsapp +6591832179
+- $10 SGD - Self-collect at Upper Serangoon Shopping Center, #04-15, Singapore Daily 9am to 3.30pm (Excluding Mon and Wed)
+- For Deliveries within Singapore, Please Whatsapp +6591832179
+- International Deliveries are not available at the moment
 
 ## Borrowing
 - Available at National Library Board Singapore

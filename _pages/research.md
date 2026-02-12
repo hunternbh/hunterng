@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 Research Areas: Machine Learning, Artificial Intelligence, Managerial Accounting, Labor Economics, Prediction Markets, Applied Econometrics, Cryptocurrency and DeFi
 
+**My Thoughts on Research**
+- [True Seeker – An Accounting PhD Journey](https://papers.ssrn.com/abstract=5611810)
+- [History of Economic Thought: A Dialogue Format](https://papers.ssrn.com/abstract=5668870)
+
 **Working Papers**
 - Election Prediction Markets: Evidence from Polymarket, Kalshi, and Robinhood
   - This paper provides the first empirical analysis of federally legalized U.S. election prediction markets, using transaction-level data from four major platforms: Polymarket, Kalshi, PredictIt, and Robinhood, during the 15 days preceding the 2024 presidential election. We find that within-platform arbitrage is virtually absent, while persistent cross-platform arbitrage, especially in illiquid contracts, reflects segmentation in liquidity and pricing. Liquidity emerges as the primary driver of price discovery, with Polymarket and Robinhood leading due to deeper markets. Market design also matters, as Polymarket’s limit order book facilitates faster information incorporation than Kalshi’s automated market maker. Finally, large “whale” trades significantly impact prices and order flow, with asymmetric effects.
@@ -32,8 +36,6 @@ Research Areas: Machine Learning, Artificial Intelligence, Managerial Accounting
   - Abstract: This paper explores how Federal Reserve Chairs' facial expressions during FOMC press conferences influence investor behavior and financial markets. Using facial recognition technology and deepfake simulations on press conference videos from April 2011 to December 2020, I quantify changes in nonverbal signals while controlling for verbal content. My findings reveal that nonverbal cues act as independent public signals that significantly affect market outcomes. Using deepfakes. I uniquely demonstrate that identical facial expressions elicit different market reactions and this depends on the Fed Chair's identity, tenure, and experience, indicating that investor interpretations are dynamically shaped by perceptions of the Chair. Moreover, the evolving market response over time aligns with the dual-processing, bounded memory model of information processing. Lastly, I find no evidence that Fed Chairs strategically change their facial expressions to influence markets, highlighting the unintentional yet impactful nature of nonverbal communication.
   <!-- - [Download Paper](https://arxiv.org/abs/2410.20214) -->
   - [Download Paper]({{ site.baseurl }}/files/deepfake.pdf)
-
-
 
 **Dissertation Committee**
 - Edward Li (Baruch College)

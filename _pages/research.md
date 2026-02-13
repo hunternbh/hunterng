@@ -37,6 +37,11 @@ Research Areas: Machine Learning, Artificial Intelligence, Managerial Accounting
   <!-- - [Download Paper](https://arxiv.org/abs/2410.20214) -->
   - [Download Paper]({{ site.baseurl }}/files/deepfake.pdf)
 
+**Published Papers**
+- Legitimacy In Welfare States: Singapore’s Persuasion
+  - This paper develops a theory of the fluid welfare state, in which legitimacy rather than eﬀiciency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.
+  - Forthcoming in Sociology Compass
+
 **Dissertation Committee**
 - Edward Li (Baruch College)
 - Lin Peng (Baruch College)
@@ -87,7 +92,3 @@ Research Areas: Machine Learning, Artificial Intelligence, Managerial Accounting
 **Awards**
 - Mills & Tannenbaum Award 2025
 - Donald Vredenburgh Research Grant 2025
-
-**My Approach towards Research**
-- [My Thoughts on the Research Journey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611810)
-- To research is to be an expert steeped in institutional and historical knowledge, but well-versed in the methods of science to derive rigorous proofs of hypotheses. This involves practice because the mind must stretch beyond its plasticity years to be receptive towards all new information. Therefore, I first acknowledge that I do not know much. But if I do not know, the possibility of knowing is always there. If I have concluded, then my mind has become a concrete block. To know is not to identify with knowledge, but to be identified with ignorance, because knowledge is limited but only ignorance can be boundless.

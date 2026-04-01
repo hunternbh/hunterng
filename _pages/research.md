@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Research Areas: Machine Learning, Artificial Intelligence, Managerial Accounting, Labor Economics, Prediction Markets, Applied Econometrics, Cryptocurrency and DeFi
+Research Areas: Agentic AI, Blockchain Systems, Accounting Regulations, Everything Else
 
 **My Thoughts on Research**
 - [True Seeker – An Accounting PhD Journey](https://papers.ssrn.com/abstract=5611810)
@@ -51,7 +51,6 @@ Research Areas: Machine Learning, Artificial Intelligence, Managerial Accounting
 **Advisors**
 - Yen Tong (Nanyang Technological University)
 - Kalin Kolev (Baruch College)
-- Mingcherng Deng (Baruch College)
 
 **Peer Reviews**
 - 2025 Reviewer for Journal of International Financial Markets, Institutions & Money

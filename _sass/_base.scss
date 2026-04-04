@@ -323,8 +323,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 body.dark-mode {
-  background-color: #111;
-  color: #eee;
+  background-color: #000;
+  color: #fff;
 }
 
 body.dark-mode .masthead,
@@ -332,14 +332,10 @@ body.dark-mode .page,
 body.dark-mode .sidebar,
 body.dark-mode .archive,
 body.dark-mode .greedy-nav {
-  background-color: #1a1a1a;
-  color: #eee;
-}
-
-body.dark-mode a {
-  color: #8ab4f8;
+  background-color: #000;
+  color: #fff;
 }
 
 body.dark-mode .theme-toggle {
-  border-color: #666;
+  border-color: #000;
 }

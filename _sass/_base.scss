@@ -313,3 +313,36 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+.theme-toggle {
+  margin-left: 1rem;
+  background: transparent;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 0.35rem 0.6rem;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+body.dark-mode {
+  background-color: #111;
+  color: #eee;
+}
+
+body.dark-mode .masthead,
+body.dark-mode .page,
+body.dark-mode .sidebar,
+body.dark-mode .archive,
+body.dark-mode .greedy-nav {
+  background-color: #1a1a1a;
+  color: #eee;
+}
+
+body.dark-mode a {
+  color: #8ab4f8;
+}
+
+body.dark-mode .theme-toggle {
+  border-color: #666;
+  color: #eee;
+}

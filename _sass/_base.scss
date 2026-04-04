@@ -314,12 +314,10 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-.theme-toggle {
-  text-decoration: none;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  padding: 0.25rem 0.55rem;
-  line-height: 1;
+html.dark-mode,
+body.dark-mode {
+  background-color: #111;
+  color: #eee;
 }
 
 body.dark-mode {
@@ -328,11 +326,14 @@ body.dark-mode {
 }
 
 body.dark-mode .masthead,
+body.dark-mode .greedy-nav,
+body.dark-mode .initial-content,
 body.dark-mode .page,
-body.dark-mode .sidebar,
+body.dark-mode .page__inner-wrap,
 body.dark-mode .archive,
-body.dark-mode .greedy-nav {
-  background-color: #1a1a1a;
+body.dark-mode .sidebar,
+body.dark-mode .site-content {
+  background-color: #111 !important;
   color: #eee;
 }
 

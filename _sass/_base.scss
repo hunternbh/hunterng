@@ -314,18 +314,11 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-.theme-toggle-wrap {
-  display: flex;
-  align-items: center;
-  margin-left: 1rem;
-}
-
 .theme-toggle {
-  display: inline-block;
   text-decoration: none;
   border: 1px solid #ccc;
   border-radius: 6px;
-  padding: 0.35rem 0.6rem;
+  padding: 0.25rem 0.55rem;
   line-height: 1;
 }
 

@@ -11,7 +11,8 @@ document.addEventListener("DOMContentLoaded", function () {
     button.textContent = "🌙";
   }
 
-  button.addEventListener("click", function () {
+  button.addEventListener("click", function (e) {
+    e.preventDefault();
     document.body.classList.toggle("dark-mode");
     const isDark = document.body.classList.contains("dark-mode");
     localStorage.setItem("theme", isDark ? "dark" : "light");

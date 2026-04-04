@@ -314,14 +314,19 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-.theme-toggle {
+.theme-toggle-wrap {
+  display: flex;
+  align-items: center;
   margin-left: 1rem;
-  background: transparent;
+}
+
+.theme-toggle {
+  display: inline-block;
+  text-decoration: none;
   border: 1px solid #ccc;
   border-radius: 6px;
   padding: 0.35rem 0.6rem;
-  cursor: pointer;
-  font-size: 1rem;
+  line-height: 1;
 }
 
 body.dark-mode {
@@ -344,5 +349,4 @@ body.dark-mode a {
 
 body.dark-mode .theme-toggle {
   border-color: #666;
-  color: #eee;
 }

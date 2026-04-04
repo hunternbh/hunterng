@@ -11,6 +11,18 @@ redirect_from:
 - Teaching used to be given only to the best minds in ancient civilizations. This is because there is no higher duty than transmitting society's progress to the next generation, so that human kind improves upon itself in each iteration. Today, that trend is the opposite, with top-caliber people going on to other professions. Students today are influenced largely by the Internet, very little by parents and grandparents. In such an environment, where does school come in? The Internet and AI will exceed the teacher's role in giving information. Thus, we must strive to impart something outside of AI - that is, to do things in the world that is needed, and joyfully.
 - I believe the classroom teacher can help students to stabilize their minds and emotions. If there is no fundamental stability within the system, then no learning can take place. I completed an online diploma in counselling to better help students in this area.
 
+  **Resources**
+- Lecture Notes - Hunter Ng © {{ site.time | date: "%Y" }}
+  - [Download Notes]({{ site.baseurl }}/files/lecture-notes.pdf)
+
+- SQL Individual Project ACC2203 - Hunter Ng © {{ site.time | date: "%Y" }}
+  - This site provides an interactive, browser-based SQL environment where students can load a database, write queries, and view results instantly without installing any software. It is built for ACC3202 to help learners practice SQL, explore schemas, and complete guided exercises directly on desktop or mobile.
+  - [Access Website](https://hunternbh.github.io/acc3202-sql/)
+
+- Vibe Coding Project ACC2203 - Hunter Ng © {{ site.time | date: "%Y" }}
+  - This project introduces students to AI-assisted coding through practical, hands-on exercises. It is designed to help learners experiment with building simple applications, understand how coding tools can support problem-solving, and develop confidence in using technology creatively and responsibly.
+  - [Access Website](https://hunternbh.github.io/acc3202-hunter-gym/)
+
 {% include base_path %}
 **Instructor - Baruch College**
 - ACC 3202 Accounting Information Systems and Data Analytics - Summer 2026
@@ -40,11 +52,5 @@ redirect_from:
 - ACC 2101 Financial Accounting - Fall 2022
   - Instructor Rating: Excellent
 
-  **Resources**
-- Lecture Notes - Hunter Ng © 2025
-  - [Download Notes]({{ site.baseurl }}/files/lecture-notes.pdf)
 
-- SQL Individual Project ACC2203 - Hunter Ng © 2025
-  - This site provides an interactive, browser-based SQL environment where students can load a database, write queries, and view results instantly without installing any software. It is built for ACC3202 to help learners practice SQL, explore schemas, and complete guided exercises directly on desktop or mobile.
-  - [Access Website](https://hunternbh.github.io/acc3202-sql/)
 

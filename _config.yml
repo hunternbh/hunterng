@@ -21,7 +21,7 @@ repository               : "hunterng/hunterng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic07.jpg"
+  avatar           : "pic07.png"
   name             : "Hunter Ng"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate @ Baruch College"

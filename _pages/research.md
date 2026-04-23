@@ -34,7 +34,7 @@ redirect_from:
 }
 </style>
 
-Research Areas: Agentic AI, Blockchain Systems, Accounting Regulations, General Economics and Finance
+Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounting Regulations, General Economics and Finance
 
 **Agentic Artificial Intelligence**
 

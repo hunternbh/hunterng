@@ -12,7 +12,11 @@ Research Areas: Agentic AI, Blockchain Systems, Accounting Regulations, General 
 
 **Agentic Artificial Intelligence**
 - AI Agents and Accounting Standards Experiments (Thesis)
-  - This study uses AI agents to replicatively re-run accounting experiments published on FASB accounting standards. The results show that AI agents consistently mitigate a high proportion of cognitive biases observed in human participants, regardless of expertise, across tasks in information processing, auditing, and management accounting. AI agents can also be configured to simulate specific biases, enabling controlled testing of behavioral assumptions. A comparison across old and new model generations reveals a clear shift from heuristic-driven to more consistent and rational decision-making. Additionally, AI agents can be used to identify design flaws in experiments and support cross-cultural replication at scale. Some prior experimental findings may also reflect design artifacts rather than genuine behavioral effects.
+  <a href="javascript:void(0);" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
+
+  <div id="abs-daubert" style="display: none; margin-top: 0.5rem;">
+      - This study uses AI agents to replicatively re-run accounting experiments published on FASB accounting standards. The results show that AI agents consistently mitigate a high proportion of cognitive biases observed in human participants, regardless of expertise, across tasks in information processing, auditing, and management accounting. AI agents can also be configured to simulate specific biases, enabling controlled testing of behavioral assumptions. A comparison across old and new model generations reveals a clear shift from heuristic-driven to more consistent and rational decision-making. Additionally, AI agents can be used to identify design flaws in experiments and support cross-cultural replication at scale. Some prior experimental findings may also reflect design artifacts rather than genuine behavioral effects.
+  </div>
   - Conferences and Presentations
 
 - Information or Institution? AI's role in Expert Testimony
@@ -107,3 +111,16 @@ Research Areas: Agentic AI, Blockchain Systems, Accounting Regulations, General 
 **Awards**
 - Mills & Tannenbaum Award 2025
 - Donald Vredenburgh Research Grant 2025
+
+
+<script>
+function toggleAbstract(contentId, linkId) {
+  const content = document.getElementById(contentId);
+  const link = document.getElementById(linkId);
+  if (!content || !link) return;
+
+  const isHidden = content.style.display === "none" || content.style.display === "";
+  content.style.display = isHidden ? "block" : "none";
+  link.textContent = isHidden ? "[hide abstract]" : "[show abstract]";
+}
+</script>

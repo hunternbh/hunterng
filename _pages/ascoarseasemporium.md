@@ -11,6 +11,9 @@ redirect_from:
 
 {% include base_path %}
 
+## Author's Note
+I wrote a Singaporean novel during the Covid pandemic as I was about to begin my life overseas and feared losing the precious memories I had of Upper Serangoon Shopping Centre, a quaint old shopping mall which I had grown up in. I would remember running like a wild monkey up and down the escalators in the building, playing catching with the children of the other tenants. The memories are fading but poignant. I want to present these true memories in a way that would be easy for the reader and in a uniquely Singaporean manner. As such, I chose a thriller novel as the genre. About 95% of the incidents in the book are true and it would be like a glimpse into the past of the shopping centers in Singapore. I didn't do much publicizing of the book when I wrote it and self-published but I hope that the book continues to carry on these forgotten stories of what truly happened in old malls in Singapore. Thank you.
+
 ![As Coarse As Emporium book cover]({{ site.baseurl }}/files/bookcover.JPG)
 
 **As Coarse As Emporium** is a Singaporean noir thriller novel about **ten-year-old Bee**, who grows up inside a Singapore shopping mall known as **The Emporium**.

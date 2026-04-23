@@ -117,7 +117,8 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
 **Dissertation Committee**
 - Edward Li (Baruch College)
 - Lin Peng (Baruch College)
-- Diana Weng (Baruch College)
+- Svenja Dube (Baruch College)
+- Diana Weng (University of South Florida, Tampa)
 
 **Advisors**
 - Yen Tong (Nanyang Technological University)

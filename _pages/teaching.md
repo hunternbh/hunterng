@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-**An Educator's Approach towards Teaching**
-- In ancient civilizations, teaching was entrusted to the top minds because it carried society’s progress to the next generation. Today, as students are shaped increasingly by the Internet and AI, college education must offer more than information. It should help students become the kind of people who can do whatever is needed, joyfully. As the saying goes, a fool does things he dislikes every day, a smart person may do what he enjoys and finds some pleasure, but a genius does whatever is needed joyfully. I also believe learning requires mental and emotional stability. To better support students in this area, I completed an online diploma in counselling.
-
 **Resources**
   **ACC3202 (Accounting Information Systems and Data Analytics @ Baruch College)**
   - Lecture Notes - Hunter Ng © {{ site.time | date: "%Y" }}
@@ -19,12 +16,19 @@ redirect_from:
     - This project site provides an interactive, browser-based SQL environment where students can load a database, write queries, and view results instantly without installing any software.
     - [Access Website](https://hunternbh.github.io/acc3202-sql/)
 
+  - Automated Ticketing Purchase Project ACC2203 - Hunter Ng © {{ site.time | date: "%Y" }}
+    - This project site uses a backend server to teach students how to write a bot program to automate tasks on the net. Through releasing limited tickets in a sandbox environment in various waves for an extra credit assignment, I coach students how to write bots in a fun way.
+    - [Access Website](https://hunternbh.github.io/acc3202-ticketing-bot/)
+
   - Vibe Coding Project ACC2203 - Hunter Ng © {{ site.time | date: "%Y" }}
     - This project site introduces students to AI-assisted coding through practical, hands-on exercises. It is designed to help learners experiment with building simple applications and understand how coding tools can support problem-solving.
     - [Access Website](https://hunternbh.github.io/acc3202-hunter-gym/)
 
+
 {% include base_path %}
 **Instructor - Baruch College**
+- ACC 3202 Accounting Information Systems and Data Analytics - Fall 2026
+  - Instructor Rating: NA
 - ACC 3202 Accounting Information Systems and Data Analytics - Summer 2026
   - Instructor Rating: NA
 - ACC 3202 Accounting Information Systems and Data Analytics - Spring 2026 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-spring-2026.pdf)
@@ -45,8 +49,8 @@ redirect_from:
 **Teaching Assistant - Baruch College**
 - ACC 3202 Accounting Information Systems and Data Analytics - Spring 2024
   - Instructor Rating: Excellent
+- ACC 2203 Cost Accounting - Fall 2023
 - ACC 2101 Financial Accounting - Fall 2023
-  - Instructor Rating: Excellent
   
 **Instructor - Nanyang Technological University**
 - ACC 2101 Financial Accounting - Fall 2022

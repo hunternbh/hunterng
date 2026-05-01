@@ -104,7 +104,7 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
     <p><a href="{{ site.baseurl }}/files/deepfake.pdf">Download Paper</a></p>
   </div>
 
-- Legitimacy and the Fluid Singaporean Welfare (Published in Sociology Compass)
+- Legitimacy and the Fluid Singaporean Welfare (Published in [Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
   <div id="abs-welfare" class="abstract-box">
     <p>This paper develops a theory of the fluid welfare state, in which legitimacy rather than efficiency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.</p>

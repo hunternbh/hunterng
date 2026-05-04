@@ -97,6 +97,20 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
     <!-- <p><a href="{{ site.baseurl }}/files/ghost-jobs.pdf">Download Paper</a></p> -->
   </div>
 
+- Vine Copula VAR
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-vcvar" onclick="toggleAbstract('abs-vcvar', 'link-abs-vcvar')">[show abstract]</a>
+  <div id="abs-vcvar" class="abstract-box">
+    <p>This paper introduces a scalable and order-invariant framework for modeling high-dimensional macro-financial dynamics. We develop a Time-Varying Parameter VAR with Vine Copula Dependence (VCVAR), which couples a lightweight TVP backbone with a flexible copula representation of cross-sectional dependence. The approach separates marginal dynamics from joint dependence, allowing the model to capture structural drift together with asymmetric, nonlinear, and tail-dependent co-movements that standard Gaussian or Cholesky-based VARs cannot represent. Despite this flexibility, the VCVAR remains computationally tractable through discounted recursive estimation and simplified vine construction. Applications to empirical macroeconomic data and controlled simulation designs show that the VCVAR offers consistent improvements in medium- and long-horizon forecasting, demonstrating the value of combining time variation with non-Gaussian dependence in large systems.</p>
+    <p><a href="{{ site.baseurl }}/files/vinecopulavar.pdf">Download Paper</a></p>
+    <p><a href="https://github.com/hunternbh/vinecopulavar">Code for Python Package</a></p>
+  </div>
+
+- Legitimacy and the Fluid Singaporean Welfare (Published in [Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
+  <div id="abs-welfare" class="abstract-box">
+    <p>This paper develops a theory of the fluid welfare state, in which legitimacy rather than efficiency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.</p>
+  </div>
+
 - Beyond Words: The Differential Impact of Fed Chairs' Facial Expressions on Financial Markets
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-fedfaces" onclick="toggleAbstract('abs-fedfaces', 'link-abs-fedfaces')">[show abstract]</a>
   <div id="abs-fedfaces" class="abstract-box">

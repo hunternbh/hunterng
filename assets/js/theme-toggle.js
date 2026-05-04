@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const savedTheme = localStorage.getItem("theme");
   const isDarkMode = savedTheme === "dark";
 
+  document.documentElement.classList.toggle("dark-mode", isDarkMode);
   document.body.classList.toggle("dark-mode", isDarkMode);
   setToggleState(isDarkMode);
 
@@ -23,6 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.body.classList.toggle("dark-mode");
     const isDark = document.body.classList.contains("dark-mode");
 
+    document.documentElement.classList.toggle("dark-mode", isDark);
     localStorage.setItem("theme", isDark ? "dark" : "light");
     setToggleState(isDark);
   });

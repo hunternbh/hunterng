@@ -5,6 +5,7 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
+  background-color: #fff;
 }
 
 body {
@@ -419,4 +420,8 @@ body.dark-mode {
       color: #8cc8ff;
     }
   }
+}
+
+html.dark-mode {
+  background-color: #121212;
 }

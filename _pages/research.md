@@ -105,12 +105,6 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
     <p><a href="https://github.com/hunternbh/vinecopulavar">Code for Python Package</a></p>
   </div>
 
-- Legitimacy and the Fluid Singaporean Welfare (Published in [Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
-  <div id="abs-welfare" class="abstract-box">
-    <p>This paper develops a theory of the fluid welfare state, in which legitimacy rather than efficiency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.</p>
-  </div>
-
 - Beyond Words: The Differential Impact of Fed Chairs' Facial Expressions on Financial Markets
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-fedfaces" onclick="toggleAbstract('abs-fedfaces', 'link-abs-fedfaces')">[show abstract]</a>
   <div id="abs-fedfaces" class="abstract-box">
@@ -139,12 +133,15 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
 - Kalin Kolev (Baruch College)
 
 **Peer Reviews**
+- 2026 Reviewer for Cogent
 - 2026 Reviewer for Journal of International Financial Markets, Institutions & Money
 - 2025 Reviewer for Cogent
 - 2025 Reviewer for Journal of International Financial Markets, Institutions & Money
 - 2023 Management Science Reproducibility Project
 
 **Conferences and Presentations**
+- AAA Doctoral Consortium 2026
+- Four-School Conference (Baruch, Fordham, Rutgers, UConn) 2026
 - AES Baruch Accounting Theory Summer School 2025
   - Taught by Ivan Marinovic, Jon Glover, Jeremy Bertomeu
 - Hawaii Doctoral Institute Summer 2025

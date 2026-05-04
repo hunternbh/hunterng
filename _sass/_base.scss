@@ -314,28 +314,109 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
+.theme-toggle__item {
+  position: relative;
+}
+
 .theme-toggle {
-  text-decoration: none;
-  border: 1px solid #ccc;
-  border-radius: 6px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.1rem;
+  min-height: 2.1rem;
   padding: 0.25rem 0.55rem;
+  border: 1px solid $light-gray;
+  border-radius: 6px;
+  background: #fff;
+  color: $text-color;
   line-height: 1;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: none;
+  }
+
+  &:focus {
+    outline: 2px solid $primary-color;
+    outline-offset: 2px;
+  }
+
+  &[data-tooltip]:hover:after,
+  &[data-tooltip]:focus:after {
+    content: attr(data-tooltip);
+    position: absolute;
+    top: calc(100% + 0.45rem);
+    right: 0;
+    z-index: 20;
+    width: max-content;
+    max-width: 12rem;
+    padding: 0.35rem 0.5rem;
+    border-radius: 4px;
+    background: $darker-gray;
+    color: #fff;
+    font-family: $sans-serif;
+    font-size: $type-size-7;
+    line-height: 1.2;
+    white-space: normal;
+    box-shadow: 0 2px 6px rgba(#000, 0.2);
+  }
 }
 
 body.dark-mode {
-  background-color: #000;
-  color: #fff;
-}
+  background-color: #121212;
+  color: #f4f4f4;
 
-body.dark-mode .masthead,
-body.dark-mode .page,
-body.dark-mode .sidebar,
-body.dark-mode .archive,
-body.dark-mode .greedy-nav {
-  background-color: #000;
-  color: #fff;
-}
+  a {
+    color: #8cc8ff;
 
-body.dark-mode .theme-toggle {
-  border-color: #000;
+    &:visited {
+      color: #c9a7ff;
+    }
+
+    &:hover {
+      color: #b9ddff;
+    }
+  }
+
+  .masthead,
+  .page,
+  .sidebar,
+  .archive,
+  .greedy-nav,
+  .greedy-nav .hidden-links {
+    background-color: #121212;
+    color: #f4f4f4;
+  }
+
+  .masthead {
+    border-bottom-color: #333;
+  }
+
+  .theme-toggle {
+    border-color: #555;
+    background: #1f1f1f;
+    color: #f4f4f4;
+
+    &[data-tooltip]:hover:after,
+    &[data-tooltip]:focus:after {
+      background: #f4f4f4;
+      color: #121212;
+      box-shadow: 0 2px 6px rgba(#000, 0.45);
+    }
+  }
+
+  .abstract-box {
+    border-left-color: #666;
+    background: #1f1f1f;
+    color: #f4f4f4;
+  }
+
+  .abstract-toggle {
+    color: #8cc8ff;
+
+    &:visited {
+      color: #8cc8ff;
+    }
+  }
 }

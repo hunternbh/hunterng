@@ -38,19 +38,18 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
 
 **Agentic Artificial Intelligence**
 
-- AI Agents and Accounting Standards Experiments (Thesis)
+<!-- - AI Agents and Accounting Standards Experiments (Thesis)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-thesis" onclick="toggleAbstract('abs-thesis', 'link-abs-thesis')">[show abstract]</a>
   <div id="abs-thesis" class="abstract-box">
     <p>This study uses AI agents to replicatively re-run accounting experiments published on FASB accounting standards. The results show that AI agents consistently mitigate a high proportion of cognitive biases observed in human participants, regardless of expertise, across tasks in information processing, auditing, and management accounting. AI agents can also be configured to simulate specific biases, enabling controlled testing of behavioral assumptions. A comparison across old and new model generations reveals a clear shift from heuristic-driven to more consistent and rational decision-making. Additionally, AI agents can be used to identify design flaws in experiments and support cross-cultural replication at scale. Some prior experimental findings may also reflect design artifacts rather than genuine behavioral effects.</p>
     <p>Conferences and Presentations</p>
-  </div>
+  </div> -->
 
 - Information or Institution? AI's role in Expert Testimony
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
   <div id="abs-daubert" class="abstract-box">
     <p>This paper studies whether the value of expert testimony lies primarily in its informational content or in the institutional role of the expert witness. Using federal district court <em>Daubert</em> rulings in copyright cases, we show that admissibility is not determined by methodology alone, but also by institutional considerations. We develop a model to ground this intuition and to show how AI can compress differences in methodological production while making institutional signals more important for judicial evaluation. Empirically, we then compare observed expert packages to AI-generated packages from neutralized case descriptions and find that AI reproduces much of the methodology and topic coverage of retained experts, while systematically proposing broader and more credentialed expert designs. AI-generated packages are closest to experts whose testimony is admitted and furthest from those whose testimony is excluded. The results show that methodology is increasingly reproducible, but institutional features of the expert still matter for admissibility.</p>
     <p>Coauthors: Shou-Ming Chang</p>
-    <p>Conferences and Presentations</p>
   </div>
 
 **Digital Assets**
@@ -88,6 +87,16 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
     <p>Coauthors: Lauren Vollon, Svenja Dube, Cheryl Sun</p>
   </div>
 
+**Teaching Pedagogy**
+
+- Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-ticketing-bot" onclick="toggleAbstract('ticketing-bot', 'link-ticketing-bot')">[show abstract]</a>
+  <div id="ticketing-bot" class="abstract-box">
+    <p>The verification of Information Technology (IT) controls is a core responsibility of IT auditors. This case places students in the role of IT auditors assigned to assess the effectiveness of controls over a sandboxed online ticketing system. Students first participate in limited ticket drops, inspect the website’s Document Object Model (DOM), and use AI-assisted coding to understand how automated purchasing can occur. Students then evaluate whether the system’s controls over purchase limits, transaction authorization, backend logging, exception reporting, and monitoring are effective. The case introduces students to technical skills such as browser inspection, basic automation logic, and AI-assisted coding while maintaining an internal-control focus. Students document their work through a DOM discovery worksheet, ticket-drop observations, an internal-control review matrix, and a short reflection. Digital trust, automated transactions, IT controls, and AI-assisted technical fluency are all topics relevant to Accounting Information Systems (AIS), IT Audit, and Audit courses. As such, instructors can use this case at the undergraduate or graduate level in an Accounting Information Systems, IT Audit, or Audit class.</p>
+    <p>Coauthors: Hagit Levy-Shalev</p>
+  </div>
+
+
 **General Economics**
 
 - Why is it so hard to find a job now? Enter Ghost Jobs
@@ -118,7 +127,7 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
     <p>This paper develops a theory of the fluid welfare state, in which legitimacy rather than efficiency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.</p>
   </div>
 
-**Research Essays**
+**Notes on Becoming a Researcher**
 - [True Seeker – An Accounting PhD Journey](https://papers.ssrn.com/abstract=5611810)
 - [History of Economic Thought: A Dialogue Format](https://papers.ssrn.com/abstract=5668870)
 

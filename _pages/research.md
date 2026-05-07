@@ -149,6 +149,8 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
 - 2023 Management Science Reproducibility Project
 
 **Conferences and Presentations**
+- Baruch Workshop on AI in Finance and Accounting <p><a href="{{ site.baseurl }}/files/baruck-ai-finance-workshop-2026.pdf">Download Agenda</a></p>
+- The 24th Annual Financial Reporting Conference 2026 <p><a href="{{ site.baseurl }}/files/baruch-24-annual-financial-reporting-conference.pdf">Download Agenda</a></p>
 - AAA Doctoral Consortium 2026
 - Four-School Conference (Baruch, Fordham, Rutgers, UConn) 2026
 - AES Baruch Accounting Theory Summer School 2025

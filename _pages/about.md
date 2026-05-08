@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 4th year PhD candidate in Accountancy at Baruch College, City University of New York.
 
-I graduated with two 1st Class Honours Degrees in Accountancy and Business Analytics from Nanyang Technological University, Singapore and a MBA from Baruch College. I have a Graduate Certificate in Technopreneurship and Innovation from Nanyang Technological University.
+I am both a full-stack developer and an accountant by training. I graduated with two 1st Class Honours Degrees in Accountancy and Business Analytics from Nanyang Technological University, Singapore and a MBA from Baruch College. I have a Graduate Certificate in Technopreneurship and Innovation from Nanyang Technological University.
 
 I previously worked in Fujitsu's cloud computing department, Tokyo Japan and Singapore's Central Bank's (MAS) fintech division on Project Ubin, distributed ledgers and a stablecoin used for market clearing with the central bank under [Toh Wee Kee](https://daweek.org/speaker/wee-kee-toh/). I also worked in KPMG Singapore's Digital Trust Department on projects involving IT security audits. 
 

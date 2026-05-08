@@ -45,21 +45,20 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
     <p>Conferences and Presentations</p>
   </div> -->
 
-- Information or Institution? AI's role in Expert Testimony
+- Information or Institution? AI's role in Expert Testimony | Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
   <div id="abs-daubert" class="abstract-box">
     <p>This paper studies whether the value of expert testimony lies primarily in its informational content or in the institutional role of the expert witness. Using federal district court <em>Daubert</em> rulings in copyright cases, we show that admissibility is not determined by methodology alone, but also by institutional considerations. We develop a model to ground this intuition and to show how AI can compress differences in methodological production while making institutional signals more important for judicial evaluation. Empirically, we then compare observed expert packages to AI-generated packages from neutralized case descriptions and find that AI reproduces much of the methodology and topic coverage of retained experts, while systematically proposing broader and more credentialed expert designs. AI-generated packages are closest to experts whose testimony is admitted and furthest from those whose testimony is excluded. The results show that methodology is increasingly reproducible, but institutional features of the expert still matter for admissibility.</p>
-    <p>Coauthors: Shou-Ming Chang</p>
+    
   </div>
 
 **Digital Assets**
 
-- Election Prediction Markets: Evidence from Polymarket, Kalshi, and Robinhood
+- Election Prediction Markets: Evidence from Polymarket, Kalshi, and Robinhood | Coauthors: <a href="https://sites.google.com/site/linpengbaruch/home">Lin Peng</a>, <a href="https://dzfinance.notion.site/">Dexin Zhou</a>, <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-prediction" onclick="toggleAbstract('abs-prediction', 'link-abs-prediction')">[show abstract]</a>
   <div id="abs-prediction" class="abstract-box">
     <p>This paper provides the first empirical analysis of federally legalized U.S. election prediction markets, using transaction-level data from four major platforms: Polymarket, Kalshi, PredictIt, and Robinhood, during the 15 days preceding the 2024 presidential election. We find that within-platform arbitrage is virtually absent, while persistent cross-platform arbitrage, especially in illiquid contracts, reflects segmentation in liquidity and pricing. Liquidity emerges as the primary driver of price discovery, with Polymarket and Robinhood leading due to deeper markets. Market design also matters, as Polymarket’s limit order book facilitates faster information incorporation than Kalshi’s automated market maker. Finally, large “whale” trades significantly impact prices and order flow, with asymmetric effects.</p>
     <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331995">Download Paper</a></p>
-    <p>Coauthors: Lin Peng, Dexin Zhou, Yubo Tao</p>
     <p>Conferences and Presentations</p>
     <ul>
       <li>Finance Seminar, Baruch College, June 2025</li>
@@ -80,26 +79,24 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
 
 **ESG**
 
-- Disclosure Policy Diffusion Mechanisms
+- Disclosure Policy Diffusion Mechanisms | Coauthors: <a href="https://mendoza.nd.edu/mendoza-directory/profile/lauren-vollon/">Lauren Vollon</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/svenja-dube/">Svenja Dube</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-esg" onclick="toggleAbstract('abs-esg', 'link-abs-esg')">[show abstract]</a>
   <div id="abs-esg" class="abstract-box">
     <p>This paper studies why mandatory ESG disclosure rules spread unevenly across countries, focusing first on greenhouse-gas disclosure and framing adoption through the classic policy-diffusion channels of learning, competition, imitation, and coercion. Using a country-year panel and discrete-time hazard models, it finds that broad diffusion pressure and especially competitive exposure to already regulated jurisdictions are associated with adoption, while the current proxies for learning and imitation do not perform as expected in the data. The consequences of disclosure regulation depend not just on whether countries adopt, but on how they adopt, with the broader goal of linking diffusion mechanisms to later market outcomes such as liquidity and policy credibility.</p>
-    <p>Coauthors: Lauren Vollon, Svenja Dube, Cheryl Sun</p>
   </div>
 
 **Teaching Pedagogy**
 
-- Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit
+- Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit | Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-ticketing-bot" onclick="toggleAbstract('ticketing-bot', 'link-ticketing-bot')">[show abstract]</a>
   <div id="ticketing-bot" class="abstract-box">
     <p>The verification of Information Technology (IT) controls is a core responsibility of IT auditors. This case places students in the role of IT auditors assigned to assess the effectiveness of controls over a sandboxed online ticketing system. Students first participate in limited ticket drops, inspect the website’s Document Object Model (DOM), and use AI-assisted coding to understand how automated purchasing can occur. Students then evaluate whether the system’s controls over purchase limits, transaction authorization, backend logging, exception reporting, and monitoring are effective. The case introduces students to technical skills such as browser inspection, basic automation logic, and AI-assisted coding while maintaining an internal-control focus. Students document their work through a DOM discovery worksheet, ticket-drop observations, an internal-control review matrix, and a short reflection. Digital trust, automated transactions, IT controls, and AI-assisted technical fluency are all topics relevant to Accounting Information Systems (AIS), IT Audit, and Audit courses. As such, instructors can use this case at the undergraduate or graduate level in an Accounting Information Systems, IT Audit, or Audit class.</p>
-    <p>Coauthors: Hagit Levy-Shalev</p>
   </div>
 
 
 **General Economics**
 
-- Why is it so hard to find a job now? Enter Ghost Jobs
+- Why is it so hard to find a job now? Enter Ghost Jobs | Coauthors: <a href="https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee">Yen Tong</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-ghostjobs" onclick="toggleAbstract('abs-ghostjobs', 'link-abs-ghostjobs')">[show abstract]</a>
   <div id="abs-ghostjobs" class="abstract-box">
     <p>This paper investigates "ghost jobs", which are vacancies posted without intent to hire, using a novel dataset of interview reviews from Glassdoor. Using a fine-tuned BERT model, I find that approximately 21% of job postings exhibit patterns consistent with ghost jobs. These are disproportionately concentrated in larger firms and high-skill industries, where firms may benefit from resume collection, market intelligence, or signaling. I also show that incorporating ghost job prevalence helps reconcile the recent disconnect in the Beveridge Curve between vacancy and hiring rates. The results highlight how ghost hiring imposes costs on job seekers, distorts labor market indicators, and warrants closer scrutiny from policymakers.</p>

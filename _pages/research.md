@@ -88,7 +88,7 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
     <p>This paper studies why mandatory ESG disclosure rules spread unevenly across countries, focusing first on greenhouse-gas disclosure and framing adoption through the classic policy-diffusion channels of learning, competition, imitation, and coercion. Using a country-year panel and discrete-time hazard models, it finds that broad diffusion pressure and especially competitive exposure to already regulated jurisdictions are associated with adoption, while the current proxies for learning and imitation do not perform as expected in the data. The consequences of disclosure regulation depend not just on whether countries adopt, but on how they adopt, with the broader goal of linking diffusion mechanisms to later market outcomes such as liquidity and policy credibility.</p>
   </div>
 
-**Teaching Pedagogy**
+**Accounting Information Systems**
 
 - Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit
   - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>

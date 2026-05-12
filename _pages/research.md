@@ -34,11 +34,9 @@ redirect_from:
 }
 </style>
 
-Research Areas: Artificial Intelligence, Digital Trust, Information Verification, Market Integrity, Disclosure Regulation, Accounting Information Systems, Digital Assets, Financial Economics
+Research Areas: Artificial Intelligence, Accounting Information Systems, Digital Assets, Financial Economics
 
-My research examines how digital technologies reshape the production, verification, and credibility of information in accounting, legal, and financial-market settings. Across my projects, I study how institutions, markets, and platforms respond when traditional mechanisms of trust are incomplete, changing, or technologically disrupted.
-
-**Artificial Intelligence, Expertise, and Information Verification**
+**Artificial Intelligence, Accounting Information Systems**
 
 <!-- - AI Agents and Accounting Standards Experiments (Thesis)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-thesis" onclick="toggleAbstract('abs-thesis', 'link-abs-thesis')">[show abstract]</a>
@@ -69,7 +67,7 @@ My research examines how digital technologies reshape the production, verificati
     <p><a href="{{ site.baseurl }}/files/deepfake.pdf">Download Paper</a></p>
   </div>
 
-**Digital Market Integrity, Platform Design, and Financial Innovation**
+**Digital Markets, Distributed Ledgers**
 
 - Election Prediction Markets: Evidence from Polymarket, Kalshi, and Robinhood 
   - Coauthors: <a href="https://sites.google.com/site/linpengbaruch/home">Lin Peng</a>, <a href="https://dzfinance.notion.site/">Dexin Zhou</a>, <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
@@ -95,7 +93,7 @@ My research examines how digital technologies reshape the production, verificati
     </ul>
   </div>
 
-**Disclosure Regulation, Institutional Credibility, and Economic Governance**
+**Disclosure Regulation, Political Economy**
 
 - Disclosure Policy Diffusion Mechanisms
   - Coauthors: <a href="https://mendoza.nd.edu/mendoza-directory/profile/lauren-vollon/">Lauren Vollon</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/svenja-dube/">Svenja Dube</a>
@@ -118,7 +116,7 @@ My research examines how digital technologies reshape the production, verificati
     <p>This paper develops a theory of the fluid welfare state, in which legitimacy rather than efficiency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.</p>
   </div>
 
-**Methods, Software, and Empirical Tools**
+**Econometrics**
 
 - Vine Copula VAR
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-vcvar" onclick="toggleAbstract('abs-vcvar', 'link-abs-vcvar')">[show abstract]</a>

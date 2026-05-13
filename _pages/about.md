@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a 4th year PhD candidate in Accountancy at Baruch College, City University of New York.
+I am a Lecturer in Accountancy at Baruch College, City University of New York.
 
 I am both a full-stack developer and an accountant by training. I graduated with two 1st Class Honours Degrees in Accountancy and Business Analytics from Nanyang Technological University, Singapore and a MBA from Baruch College. I have a Graduate Certificate in Technopreneurship and Innovation from Nanyang Technological University.
 

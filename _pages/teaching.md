@@ -9,7 +9,7 @@ redirect_from:
 **Resources**
 
 <div style="margin-bottom: 30px;">
-  <iframe width="100%" height="400"
+  <iframe width="20%" height="20"
     src="https://www.youtube.com/embed/9s88sQM5m6g"
     title="Teaching Overview"
     frameborder="0"

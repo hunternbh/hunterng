@@ -103,26 +103,6 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
   <div id="scalable-da" class="abstract-box">
     <p>The growing importance of data analytics (DA) in accounting has changed how accounting professionals collect, analyze, and interpret data. As DA becomes increasingly integrated into accounting practice, accounting students need assignments that combine analytical, technical, and professional judgment skills. This paper presents a scalable teaching case that uses randomized datasets and automated grading to support individualized student analysis in larger classes. Each student receives a unique dataset generated from a common underlying structure, preserving consistent learning objectives while reducing the usefulness of shared solutions. In the case, students estimate the allowance for doubtful accounts using historical customer-level accounts receivable data and compare the percentage-of-sales method with the aging-of-receivables method. Students complete spreadsheet-based analysis and prepare a written recommendation supported by their results. Automated grading evaluates the technical outputs, while the written report assesses interpretation and communication. The case provides a flexible model for integrating DA competencies into accounting courses without requiring extensive programming expertise from instructors.</p>
   </div>
--
-level accounts receivable data and compare
-the percentage
--
-of
--
-sales method
-with the aging
--
-of
--
-receivables method. Students complete spreadsheet
--
-based analysis and prepare
-a written recommendation supported by their results. Automated grading evaluates the technical
-outputs, while the written report
-assesses interpretation and communication. The case provides a
-flexible model for integrating D&A competencies into accounting courses without requiring
-extensive programming expertise from instructors.</p>
-  </div>
 
 **Labor Economics**
 
@@ -157,16 +137,6 @@ extensive programming expertise from instructors.</p>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
   <div id="abs-welfare" class="abstract-box">
     <p>This paper develops a theory of the fluid welfare state, in which legitimacy rather than efficiency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.</p>
-  </div>
-
-**Econometrics**
-
-- Vine Copula VAR
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-vcvar" onclick="toggleAbstract('abs-vcvar', 'link-abs-vcvar')">[show abstract]</a>
-  <div id="abs-vcvar" class="abstract-box">
-    <p>This paper introduces a scalable and order-invariant framework for modeling high-dimensional macro-financial dynamics. We develop a Time-Varying Parameter VAR with Vine Copula Dependence (VCVAR), which couples a lightweight TVP backbone with a flexible copula representation of cross-sectional dependence. The approach separates marginal dynamics from joint dependence, allowing the model to capture structural drift together with asymmetric, nonlinear, and tail-dependent co-movements that standard Gaussian or Cholesky-based VARs cannot represent. Despite this flexibility, the VCVAR remains computationally tractable through discounted recursive estimation and simplified vine construction. Applications to empirical macroeconomic data and controlled simulation designs show that the VCVAR offers consistent improvements in medium- and long-horizon forecasting, demonstrating the value of combining time variation with non-Gaussian dependence in large systems.</p>
-    <p><a href="{{ site.baseurl }}/files/vinecopulavar.pdf">Download Paper</a></p>
-    <p><a href="https://github.com/hunternbh/vinecopulavar">Code for Python Package</a></p>
   </div>
 
 **Notes on Becoming a Researcher**

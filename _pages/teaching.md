@@ -12,6 +12,10 @@ redirect_from:
   - Lecture Notes - Hunter Ng © {{ site.time | date: "%Y" }}
     - [Download Notes]({{ site.baseurl }}/files/lecture-notes.pdf)
 
+  - Introduction to AIS MOOC ACC2203 - Hunter Ng © {{ site.time | date: "%Y" }}
+    - This website introduces to students basic AIS using a talking avatar and points from my introduction to the syllabus.
+    - [Access Website](https://hunternbh.github.io/acc3202-online/)
+
   - SQL Individual Project ACC2203 - Hunter Ng © {{ site.time | date: "%Y" }}
     - This project site provides an interactive, browser-based SQL environment where students can load a database, write queries, and view results instantly without installing any software.
     - [Access Website](https://hunternbh.github.io/acc3202-sql/)

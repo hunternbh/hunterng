@@ -6,8 +6,17 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 **Resources**
+
+<div style="margin-bottom: 30px;">
+  <iframe width="100%" height="400"
+    src="https://www.youtube.com/embed/9s88sQM5m6g"
+    title="Teaching Overview"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
+
   **ACC3202 (Accounting Information Systems and Data Analytics @ Baruch College)**
   - Lecture Notes - Hunter Ng © {{ site.time | date: "%Y" }}
     - [Download Notes]({{ site.baseurl }}/files/lecture-notes.pdf)

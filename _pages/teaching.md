@@ -8,11 +8,11 @@ redirect_from:
 ---
 **Resources**
 
-<div style="margin-bottom: 30px;">
-  <iframe width="10%" height="10"
+<div style="position: relative; width: 100%; max-width: 900px; padding-bottom: 56.25%; height: 0; margin-bottom: 30px;">
+  <iframe
     src="https://www.youtube.com/embed/9s88sQM5m6g"
     title="Teaching Overview"
-    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
     allowfullscreen>
   </iframe>
 </div>

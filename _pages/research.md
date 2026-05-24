@@ -124,12 +124,12 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
     <p><a href="https://github.com/hunternbh/vinecopulavar">Code for Python Package</a></p>
   </div>
 
-- Beyond Words: The Differential Impact of Fed Chairs' Facial Expressions on Financial Markets
+<!-- - Beyond Words: The Differential Impact of Fed Chairs' Facial Expressions on Financial Markets
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-fedfaces" onclick="toggleAbstract('abs-fedfaces', 'link-abs-fedfaces')">[show abstract]</a>
   <div id="abs-fedfaces" class="abstract-box">
     <p>This paper explores how Federal Reserve Chairs' facial expressions during FOMC press conferences influence investor behavior and financial markets. Using facial recognition technology and deepfake simulations on press conference videos from April 2011 to December 2020, I quantify changes in nonverbal signals while controlling for verbal content. My findings reveal that nonverbal cues act as independent public signals that significantly affect market outcomes. Using deepfakes, I uniquely demonstrate that identical facial expressions elicit different market reactions and this depends on the Fed Chair's identity, tenure, and experience, indicating that investor interpretations are dynamically shaped by perceptions of the Chair. Moreover, the evolving market response over time aligns with the dual-processing, bounded memory model of information processing. Lastly, I find no evidence that Fed Chairs strategically change their facial expressions to influence markets, highlighting the unintentional yet impactful nature of nonverbal communication.</p>
     <p><a href="{{ site.baseurl }}/files/deepfake.pdf">Download Paper</a></p>
-  </div>
+  </div> -->
 
 **Political Economy**
 

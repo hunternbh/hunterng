@@ -36,7 +36,7 @@ redirect_from:
 
 Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounting Regulations, General Economics and Finance
 
-**Agentic Artificial Intelligence**
+**Large Language Models and Society**
 
 <!-- - AI Agents and Accounting Standards Experiments (Thesis)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-thesis" onclick="toggleAbstract('abs-thesis', 'link-abs-thesis')">[show abstract]</a>
@@ -50,6 +50,12 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
   <div id="abs-daubert" class="abstract-box">
     <p>This paper studies whether the value of expert testimony lies primarily in its informational content or in the institutional role of the expert witness. Using federal district court <em>Daubert</em> rulings in copyright cases, we show that admissibility is not determined by methodology alone, but also by institutional considerations. We develop a model to ground this intuition and to show how AI can compress differences in methodological production while making institutional signals more important for judicial evaluation. Empirically, we then compare observed expert packages to AI-generated packages from neutralized case descriptions and find that AI reproduces much of the methodology and topic coverage of retained experts, while systematically proposing broader and more credentialed expert designs. AI-generated packages are closest to experts whose testimony is admitted and furthest from those whose testimony is excluded. The results show that methodology is increasingly reproducible, but institutional features of the expert still matter for admissibility.</p>
+  </div>
+
+- Secularization of Curses by LLM Guardrails
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-curses" onclick="toggleAbstract('abs-curses', 'link-abs-curses')">[show abstract]</a>
+  <div id="abs-curses" class="abstract-box">
+    <p>This article studies how AI guardrails classify curse-talk, meaning the language through which ritual harm is requested, described, translated, fictionalized, feared, resisted, or explained. Curses are useful because they separate hostile intent from material mechanism. A curse is not a bomb or a poison, but a request to curse someone may still express revenge, coercion, or harm. I argue that AI guardrails secularize curse-talk. They do not decide whether magic is real. They decide whether ritual language is acceptable speech, translating curses into platform categories such as harassment, coercion, coping, fiction, scholarship, or prohibited harm. Using a controlled prompt audit across five models, I find that guardrails do not treat curse-talk as a single unsafe category. Historical, cultural, translational, fictional, and enhancement-oriented prompts were usually allowed, while direct harm, justified revenge, and protection-through-harm prompts produced the strongest refusals. The results suggest that guardrails respond less to ritual vocabulary itself than to the inferred social function of the request.</p>
   </div>
 
 **Digital Assets**
@@ -90,7 +96,7 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
 **Accounting Information Systems**
 
 - Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit  
-  - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, Shantel Deleon (EY LLC)
+  - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, Shantel Deleon (EY LLC) (IRB Approved)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-ticketing-bot" onclick="toggleAbstract('ticketing-bot', 'link-ticketing-bot')">[show abstract]</a>
   <div id="ticketing-bot" class="abstract-box">
     <p>The verification of Information Technology (IT) controls is a core responsibility of IT auditors. This case places students in the role of IT auditors assigned to assess the effectiveness of controls over a sandboxed online ticketing system. Students first participate in limited ticket drops, inspect the website’s Document Object Model (DOM), and use AI-assisted coding to understand how automated purchasing can occur. Students then evaluate whether the system’s controls over purchase limits, transaction authorization, backend logging, exception reporting, and monitoring are effective. The case introduces students to technical skills such as browser inspection, basic automation logic, and AI-assisted coding while maintaining an internal-control focus. Students document their work through a DOM discovery worksheet, ticket-drop observation sheet, internal-control review matrix, and short reflection. The case is relevant to Accounting Information Systems (AIS), IT Audit, and Audit courses because it connects digital trust, automated transactions, IT controls, and AI-assisted technical fluency. Instructors may use the case at either the undergraduate or graduate level.</p>
@@ -98,7 +104,7 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
 
 - Scalable Data Analytics Pedagogy in Accounting: Randomized Case Studies and Automated Assessment  
   - Coauthors: 
-    <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>,<a href="https://zicklin.baruch.cuny.edu/faculty-profile/carol-marquardt/">Carol Marquardt</a>
+    <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/carol-marquardt/">Carol Marquardt</a> (IRB Approved)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-scalable-da" onclick="toggleAbstract('scalable-da', 'link-scalable-da')">[show abstract]</a>
   <div id="scalable-da" class="abstract-box">
     <p>The growing importance of data analytics (DA) in accounting has changed how accounting professionals collect, analyze, and interpret data. As DA becomes increasingly integrated into accounting practice, accounting students need assignments that combine analytical, technical, and professional judgment skills. This paper presents a scalable teaching case that uses randomized datasets and automated grading to support individualized student analysis in larger classes. Each student receives a unique dataset generated from a common underlying structure, preserving consistent learning objectives while reducing the usefulness of shared solutions. In the case, students estimate the allowance for doubtful accounts using historical customer-level accounts receivable data and compare the percentage-of-sales method with the aging-of-receivables method. Students complete spreadsheet-based analysis and prepare a written recommendation supported by their results. Automated grading evaluates the technical outputs, while the written report assesses interpretation and communication. The case provides a flexible model for integrating DA competencies into accounting courses without requiring extensive programming expertise from instructors.</p>

@@ -34,9 +34,9 @@ redirect_from:
 }
 </style>
 
-Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounting Regulations, General Economics and Finance
+Research Areas: Escrows, Cybersecurity Breaches, LLM Architecture, Digital Assets
 
-**Large Language Models and Society**
+**Large Language Models**
 
 <!-- - AI Agents and Accounting Standards Experiments (Thesis)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-thesis" onclick="toggleAbstract('abs-thesis', 'link-abs-thesis')">[show abstract]</a>
@@ -50,12 +50,6 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
   <div id="abs-daubert" class="abstract-box">
     <p>This paper studies whether the value of expert testimony lies primarily in its informational content or in the institutional role of the expert witness. Using federal district court <em>Daubert</em> rulings in copyright cases, we show that admissibility is not determined by methodology alone, but also by institutional considerations. We develop a model to ground this intuition and to show how AI can compress differences in methodological production while making institutional signals more important for judicial evaluation. Empirically, we then compare observed expert packages to AI-generated packages from neutralized case descriptions and find that AI reproduces much of the methodology and topic coverage of retained experts, while systematically proposing broader and more credentialed expert designs. AI-generated packages are closest to experts whose testimony is admitted and furthest from those whose testimony is excluded. The results show that methodology is increasingly reproducible, but institutional features of the expert still matter for admissibility.</p>
-  </div>
-
-- Secularization of Curses by LLM Guardrails
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-curses" onclick="toggleAbstract('abs-curses', 'link-abs-curses')">[show abstract]</a>
-  <div id="abs-curses" class="abstract-box">
-    <p>This article studies how AI guardrails classify curse-talk, meaning the language through which ritual harm is requested, described, translated, fictionalized, feared, resisted, or explained. Curses are useful because they separate hostile intent from material mechanism. A curse is not a bomb or a poison, but a request to curse someone may still express revenge, coercion, or harm. I argue that AI guardrails secularize curse-talk. They do not decide whether magic is real. They decide whether ritual language is acceptable speech, translating curses into platform categories such as harassment, coercion, coping, fiction, scholarship, or prohibited harm. Using a controlled prompt audit across five models, I find that guardrails do not treat curse-talk as a single unsafe category. Historical, cultural, translational, fictional, and enhancement-oriented prompts were usually allowed, while direct harm, justified revenge, and protection-through-harm prompts produced the strongest refusals. The results suggest that guardrails respond less to ritual vocabulary itself than to the inferred social function of the request.</p>
   </div>
 
 **Digital Assets**
@@ -110,17 +104,7 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
     <p>The growing importance of data analytics (DA) in accounting has changed how accounting professionals collect, analyze, and interpret data. As DA becomes increasingly integrated into accounting practice, accounting students need assignments that combine analytical, technical, and professional judgment skills. This paper presents a scalable teaching case that uses randomized datasets and automated grading to support individualized student analysis in larger classes. Each student receives a unique dataset generated from a common underlying structure, preserving consistent learning objectives while reducing the usefulness of shared solutions. In the case, students estimate the allowance for doubtful accounts using historical customer-level accounts receivable data and compare the percentage-of-sales method with the aging-of-receivables method. Students complete spreadsheet-based analysis and prepare a written recommendation supported by their results. Automated grading evaluates the technical outputs, while the written report assesses interpretation and communication. The case provides a flexible model for integrating DA competencies into accounting courses without requiring extensive programming expertise from instructors.</p>
   </div>
 
-**Labor Economics**
-
-- Why is it so hard to find a job now? Enter Ghost Jobs
-  - Coauthors: <a href="https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee">Yen Tong</a>
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-ghostjobs" onclick="toggleAbstract('abs-ghostjobs', 'link-abs-ghostjobs')">[show abstract]</a>
-  <div id="abs-ghostjobs" class="abstract-box">
-    <p>This paper investigates "ghost jobs", which are vacancies posted without intent to hire, using a novel dataset of interview reviews from Glassdoor. Using a fine-tuned BERT model, I find that approximately 21% of job postings exhibit patterns consistent with ghost jobs. These are disproportionately concentrated in larger firms and high-skill industries, where firms may benefit from resume collection, market intelligence, or signaling. I also show that incorporating ghost job prevalence helps reconcile the recent disconnect in the Beveridge Curve between vacancy and hiring rates. The results highlight how ghost hiring imposes costs on job seekers, distorts labor market indicators, and warrants closer scrutiny from policymakers.</p>
-    <!-- <p><a href="{{ site.baseurl }}/files/ghost-jobs.pdf">Download Paper</a></p> -->
-  </div>
-
-**Macroeconomic and Financial Econometrics**
+**Financial Econometrics**
 
 - Vine Copula VAR
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-vcvar" onclick="toggleAbstract('abs-vcvar', 'link-abs-vcvar')">[show abstract]</a>
@@ -137,12 +121,26 @@ Research Areas: Agentic AI, Dark Web, Distributed Ledgers, Stablecoins, Accounti
     <p><a href="{{ site.baseurl }}/files/deepfake.pdf">Download Paper</a></p>
   </div> -->
 
-**Political Economy**
+**General Economics and Sociology**
 
 - Legitimacy and the Fluid Singaporean Welfare State (Published in [Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
   <div id="abs-welfare" class="abstract-box">
     <p>This paper develops a theory of the fluid welfare state, in which legitimacy rather than efficiency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.</p>
+  </div>
+
+- Secularization of Curses by LLM Guardrails
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-curses" onclick="toggleAbstract('abs-curses', 'link-abs-curses')">[show abstract]</a>
+  <div id="abs-curses" class="abstract-box">
+    <p>This article studies how AI guardrails classify curse-talk, meaning the language through which ritual harm is requested, described, translated, fictionalized, feared, resisted, or explained. Curses are useful because they separate hostile intent from material mechanism. A curse is not a bomb or a poison, but a request to curse someone may still express revenge, coercion, or harm. I argue that AI guardrails secularize curse-talk. They do not decide whether magic is real. They decide whether ritual language is acceptable speech, translating curses into platform categories such as harassment, coercion, coping, fiction, scholarship, or prohibited harm. Using a controlled prompt audit across five models, I find that guardrails do not treat curse-talk as a single unsafe category. Historical, cultural, translational, fictional, and enhancement-oriented prompts were usually allowed, while direct harm, justified revenge, and protection-through-harm prompts produced the strongest refusals. The results suggest that guardrails respond less to ritual vocabulary itself than to the inferred social function of the request.</p>
+  </div>
+
+- Why is it so hard to find a job now? Enter Ghost Jobs
+  - Coauthors: <a href="https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee">Yen Tong</a>
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-ghostjobs" onclick="toggleAbstract('abs-ghostjobs', 'link-abs-ghostjobs')">[show abstract]</a>
+  <div id="abs-ghostjobs" class="abstract-box">
+    <p>This paper investigates "ghost jobs", which are vacancies posted without intent to hire, using a novel dataset of interview reviews from Glassdoor. Using a fine-tuned BERT model, I find that approximately 21% of job postings exhibit patterns consistent with ghost jobs. These are disproportionately concentrated in larger firms and high-skill industries, where firms may benefit from resume collection, market intelligence, or signaling. I also show that incorporating ghost job prevalence helps reconcile the recent disconnect in the Beveridge Curve between vacancy and hiring rates. The results highlight how ghost hiring imposes costs on job seekers, distorts labor market indicators, and warrants closer scrutiny from policymakers.</p>
+    <!-- <p><a href="{{ site.baseurl }}/files/ghost-jobs.pdf">Download Paper</a></p> -->
   </div>
 
 **Notes on Becoming a Researcher**

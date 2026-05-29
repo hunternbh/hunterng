@@ -150,12 +150,10 @@ Research Areas: Escrows, Cybersecurity Breaches, LLM Architecture, Digital Asset
 **Dissertation Committee**
 - Edward Li (Baruch College)
 - Lin Peng (Baruch College)
-- Svenja Dube (Baruch College)
 - Diana Weng (University of South Florida, Tampa)
 
 **Advisors**
 - Yen Tong (Nanyang Technological University)
-- Kalin Kolev (Baruch College)
 
 **Peer Reviews**
 - 2026 Reviewer for Cogent

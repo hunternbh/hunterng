@@ -104,7 +104,7 @@ Research Areas: Escrows, Cybersecurity Breaches, LLM Architecture, Digital Asset
     <p>The growing importance of data analytics (DA) in accounting has changed how accounting professionals collect, analyze, and interpret data. As DA becomes increasingly integrated into accounting practice, accounting students need assignments that combine analytical, technical, and professional judgment skills. This paper presents a scalable teaching case that uses randomized datasets and automated grading to support individualized student analysis in larger classes. Each student receives a unique dataset generated from a common underlying structure, preserving consistent learning objectives while reducing the usefulness of shared solutions. In the case, students estimate the allowance for doubtful accounts using historical customer-level accounts receivable data and compare the percentage-of-sales method with the aging-of-receivables method. Students complete spreadsheet-based analysis and prepare a written recommendation supported by their results. Automated grading evaluates the technical outputs, while the written report assesses interpretation and communication. The case provides a flexible model for integrating DA competencies into accounting courses without requiring extensive programming expertise from instructors.</p>
   </div>
 
-**Financial Econometrics**
+**Econometrics**
 
 - Vine Copula VAR
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-vcvar" onclick="toggleAbstract('abs-vcvar', 'link-abs-vcvar')">[show abstract]</a>
@@ -121,7 +121,7 @@ Research Areas: Escrows, Cybersecurity Breaches, LLM Architecture, Digital Asset
     <p><a href="{{ site.baseurl }}/files/deepfake.pdf">Download Paper</a></p>
   </div> -->
 
-**General Economics and Sociology**
+**General Economics, Sociology, Anthropology**
 
 - Legitimacy and the Fluid Singaporean Welfare State (Published in [Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
@@ -165,7 +165,8 @@ Research Areas: Escrows, Cybersecurity Breaches, LLM Architecture, Digital Asset
 **Conferences and Presentations**
 - Baruch Workshop on AI in Finance and Accounting <a href="{{ site.baseurl }}/files/baruck-ai-finance-workshop-2026.pdf">Download Agenda</a>
 - The 24th Annual Financial Reporting Conference 2026 <a href="{{ site.baseurl }}/files/baruch-24-annual-financial-reporting-conference.pdf">Download Agenda</a>
-- AAA Doctoral Consortium 2026
+- AAA/Deloitte/Michael Cook Doctoral Consortium 2026 <a href="{{ site.baseurl }}/files/2026-michael-cook-consortium.png">Download Agenda</a>
+  - Presented paper
 - Four-School Conference (Baruch, Fordham, Rutgers, UConn) 2026
 - AES Baruch Accounting Theory Summer School 2025
   - Taught by Ivan Marinovic, Jon Glover, Jeremy Bertomeu

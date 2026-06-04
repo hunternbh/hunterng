@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+**Recognition**
+- 2025/2026 Zicklin Dean’s Teaching Award
+  - Recognizes PhD students for teaching excellence in the classroom
+
 **Resources**
 
 <div style="position: relative; width: 100%; max-width: 900px; padding-bottom: 56.25%; height: 0; margin-bottom: 30px;">

@@ -166,7 +166,7 @@ Research Areas: Escrows, Cybersecurity Breaches, LLM Architecture, Digital Asset
 - Baruch Workshop on AI in Finance and Accounting <a href="{{ site.baseurl }}/files/baruck-ai-finance-workshop-2026.pdf">Download Agenda</a>
 - The 24th Annual Financial Reporting Conference 2026 <a href="{{ site.baseurl }}/files/baruch-24-annual-financial-reporting-conference.pdf">Download Agenda</a>
 - AAA/Deloitte/Michael Cook Doctoral Consortium 2026 <a href="{{ site.baseurl }}/files/2026-michael-cook-consortium.png">Download Agenda</a>
-  - Presented paper
+  - Presented - [Download PPT]({{ site.baseurl }}/files/hunter-dc.pptx)
 - Four-School Conference (Baruch, Fordham, Rutgers, UConn) 2026
 - AES Baruch Accounting Theory Summer School 2025
   - Taught by Ivan Marinovic, Jon Glover, Jeremy Bertomeu

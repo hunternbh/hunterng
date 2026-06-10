@@ -34,7 +34,7 @@ redirect_from:
 }
 </style>
 
-Research Areas: Escrows, Cybersecurity Breaches, LLM Architecture, Digital Assets
+Research Areas: Debt Contracting, Information Systems Trust, Escrows, AI/Language Models in Accounting, Prediction Markets, Digital Assets/Distributed Ledgers
 
 **Large Language Models**
 

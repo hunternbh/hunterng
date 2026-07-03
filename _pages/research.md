@@ -34,7 +34,7 @@ redirect_from:
 }
 </style>
 
-Research Areas: Escrows, Cybersecurity Breaches, LLM Architecture, Digital Assets
+Research Areas: Debt Contracting, Information Systems Trust, Escrows, AI/Language Models in Accounting, Prediction Markets, Digital Assets/Distributed Ledgers
 
 **Large Language Models**
 
@@ -150,6 +150,7 @@ Research Areas: Escrows, Cybersecurity Breaches, LLM Architecture, Digital Asset
 **Dissertation Committee**
 - Edward Li (Baruch College)
 - Lin Peng (Baruch College)
+- Hagit Levy-Shalev (Baruch College)
 - Diana Weng (University of South Florida, Tampa)
 
 **Advisors**
@@ -166,7 +167,7 @@ Research Areas: Escrows, Cybersecurity Breaches, LLM Architecture, Digital Asset
 - Baruch Workshop on AI in Finance and Accounting <a href="{{ site.baseurl }}/files/baruck-ai-finance-workshop-2026.pdf">Download Agenda</a>
 - The 24th Annual Financial Reporting Conference 2026 <a href="{{ site.baseurl }}/files/baruch-24-annual-financial-reporting-conference.pdf">Download Agenda</a>
 - AAA/Deloitte/Michael Cook Doctoral Consortium 2026 <a href="{{ site.baseurl }}/files/2026-michael-cook-consortium.png">Download Agenda</a>
-  - Presented - [Download PPT]({{ site.baseurl }}/files/hunter-dc.pptx)
+  - Presented - [Download PPT]({{ site.baseurl }}/files/hunter-dc.pptx) - [Download PPT]({{ site.baseurl }}/files/hunter-dc.pdf)
 - Four-School Conference (Baruch, Fordham, Rutgers, UConn) 2026
 - AES Baruch Accounting Theory Summer School 2025
   - Taught by Ivan Marinovic, Jon Glover, Jeremy Bertomeu

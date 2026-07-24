@@ -34,7 +34,7 @@ redirect_from:
 }
 </style>
 
-Research Areas: Debt Contracting, Information Systems Trust, Escrows, AI/Language Models in Accounting, Prediction Markets, Digital Assets/Distributed Ledgers
+Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Escrows, Prediction Markets, Digital Assets/Distributed Ledgers
 
 **Large Language Models**
 

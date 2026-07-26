@@ -151,6 +151,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 - Edward Li (Baruch College)
 - Lin Peng (Baruch College)
 - Hagit Levy-Shalev (Baruch College)
+- Svenja Dube (Baruch College)
 - Diana Weng (University of South Florida, Tampa)
 
 **Advisors**

@@ -62,6 +62,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331995">Download Paper</a></p>
     <p>Conferences and Presentations</p>
     <ul>
+      <li>Financial Manipulation Conference, University of Lancaster, September 2026 <a href="{{ site.baseurl }}/files/FFMM2026-Programme-v3.pdf">Download Agenda</a></li>
       <li>Finance Seminar, Baruch College, June 2025</li>
       <li>Finance Seminar, The Hong Kong Polytechnic University, Oct 2025</li>
     </ul>

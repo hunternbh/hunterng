@@ -16,28 +16,30 @@ redirect_from:
   }
 
   .cv-section {
-    margin: 0 0 0.9rem;
-    border: 1px solid #d9d9d9;
-    border-radius: 0.45rem;
+    margin: 0.8rem 0;
+    border: 1px solid #d8dce1;
+    border-radius: 0.35rem;
     background: #fff;
   }
 
-  .cv-section summary {
-    padding: 0.85rem 1rem;
+  .cv-section > summary {
+    padding: 0.7rem 0.9rem;
+    color: #30343b;
+    background: #f5f6f7;
     cursor: pointer;
     font-weight: 700;
   }
 
-  .cv-section[open] summary {
-    border-bottom: 1px solid #e5e5e5;
+  .cv-section > summary:hover {
+    background: #eceff2;
+  }
+
+  .cv-section[open] > summary {
+    border-bottom: 1px solid #d8dce1;
   }
 
   .cv-section__content {
-    padding: 1rem;
-  }
-
-  .cv-section__content > :first-child {
-    margin-top: 0;
+    padding: 0.35rem 1rem 0.8rem;
   }
 
   .cv-section__content > :last-child {
@@ -81,24 +83,31 @@ redirect_from:
     }
   }
 
-  @media (prefers-color-scheme: dark) {
-    .cv-section {
-      border-color: #555;
-      background: #252a2e;
-    }
+  body.dark-mode .cv-section {
+    border-color: #444;
+    background: #181818;
+  }
 
-    .cv-section[open] summary {
-      border-bottom-color: #555;
-    }
+  body.dark-mode .cv-section > summary {
+    color: #f4f4f4;
+    background: #242424;
+  }
 
-    .photo-card {
-      border-color: #555;
-      background: #252a2e;
-    }
+  body.dark-mode .cv-section > summary:hover {
+    background: #303030;
+  }
 
-    .photo-card figcaption {
-      color: #f2f2f2;
-    }
+  body.dark-mode .cv-section[open] > summary {
+    border-bottom-color: #444;
+  }
+
+  body.dark-mode .photo-card {
+    border-color: #555;
+    background: #252a2e;
+  }
+
+  body.dark-mode .photo-card figcaption {
+    color: #f2f2f2;
   }
 </style>
 

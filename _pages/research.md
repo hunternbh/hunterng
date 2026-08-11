@@ -64,6 +64,24 @@ redirect_from:
   border: 1px solid #b8cf99;
 }
 
+.paper-working {
+  color: #725000;
+  background: #fff4d6;
+  border: 1px solid #dfbf67;
+}
+
+.paper-published {
+  color: #1f6038;
+  background: #e5f6eb;
+  border: 1px solid #8bc5a0;
+}
+
+.paper-irb {
+  color: #5a3976;
+  background: #f3eafa;
+  border: 1px solid #bda0d2;
+}
+
 .research-section {
   margin: 0.8rem 0;
   border: 1px solid #d8dce1;
@@ -130,6 +148,24 @@ body.dark-mode .year-tag {
   background: #26351b;
   border-color: #668246;
 }
+
+body.dark-mode .paper-working {
+  color: #ffe7a3;
+  background: #49380d;
+  border-color: #9b7a27;
+}
+
+body.dark-mode .paper-published {
+  color: #c8f1d7;
+  background: #193b25;
+  border-color: #4d8c63;
+}
+
+body.dark-mode .paper-irb {
+  color: #ead8f7;
+  background: #3e2850;
+  border-color: #815f99;
+}
 </style>
 
 Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Escrows, Prediction Markets, Digital Assets/Distributed Ledgers
@@ -147,7 +183,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     <p>Conferences and Presentations</p>
   </div> -->
 
-- Information or Institution? AI's role in Expert Testimony 
+- <span class="role-tag paper-working">Working Paper</span> Information or Institution? AI's role in Expert Testimony
   - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
   <div id="abs-daubert" class="abstract-box">
@@ -156,7 +192,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 
 **Digital Assets**
 
-- Election Prediction Markets: Evidence from Polymarket, Kalshi, and Robinhood 
+- <span class="role-tag paper-working">Working Paper</span> Election Prediction Markets: Evidence from Polymarket, Kalshi, and Robinhood
   - Coauthors: <a href="https://sites.google.com/site/linpengbaruch/home">Lin Peng</a>, <a href="https://dzfinance.notion.site/">Dexin Zhou</a>, <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-prediction" onclick="toggleAbstract('abs-prediction', 'link-abs-prediction')">[show abstract]</a>
   <div id="abs-prediction" class="abstract-box">
@@ -170,7 +206,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     </ul>
   </div>
 
-- How Wash Traders Exploit Market Conditions in Cryptocurrency Markets
+- <span class="role-tag paper-working">Working Paper</span> How Wash Traders Exploit Market Conditions in Cryptocurrency Markets
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-washtrading" onclick="toggleAbstract('abs-washtrading', 'link-abs-washtrading')">[show abstract]</a>
   <div id="abs-washtrading" class="abstract-box">
     <p>Wash trading, the practice of simultaneously placing buy and sell orders for the same asset to inflate trading volume, has been prevalent in cryptocurrency markets. This paper investigates whether wash traders in Bitcoin act deliberately to exploit market conditions and identifies the characteristics of such manipulative behavior. Using a unique dataset of 18 million transactions from Mt. Gox, once the largest Bitcoin exchange, I find that wash trading intensifies when legitimate trading volume is low and diminishes when it is high, indicating strategic timing to maximize impact in less liquid markets. The activity also exhibits spillover effects across platforms and decreases when trading volumes in other asset classes like stocks or gold rise, suggesting sensitivity to broader market dynamics. Additionally, wash traders exploit periods of heightened media attention and online rumors to amplify their influence, causing rapid but short-lived spikes in legitimate trading volume. Using an exogenous demand shock associated with illicit online marketplaces, I find that wash trading responds to contemporaneous events affecting Bitcoin demand. These results advance the understanding of manipulative practices in digital currency markets and have significant implications for regulators aiming to detect and prevent wash trading.</p>
@@ -192,14 +228,14 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 
 **Accounting Information Systems**
 
-- Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit (IRB Approved)
+- <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit
   - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, Shantel Deleon (EY LLC)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-ticketing-bot" onclick="toggleAbstract('ticketing-bot', 'link-ticketing-bot')">[show abstract]</a>
   <div id="ticketing-bot" class="abstract-box">
     <p>The verification of Information Technology (IT) controls is a core responsibility of IT auditors. This case places students in the role of IT auditors assigned to assess the effectiveness of controls over a sandboxed online ticketing system. Students first participate in limited ticket drops, inspect the website’s Document Object Model (DOM), and use AI-assisted coding to understand how automated purchasing can occur. Students then evaluate whether the system’s controls over purchase limits, transaction authorization, backend logging, exception reporting, and monitoring are effective. The case introduces students to technical skills such as browser inspection, basic automation logic, and AI-assisted coding while maintaining an internal-control focus. Students document their work through a DOM discovery worksheet, ticket-drop observation sheet, internal-control review matrix, and short reflection. The case is relevant to Accounting Information Systems (AIS), IT Audit, and Audit courses because it connects digital trust, automated transactions, IT controls, and AI-assisted technical fluency. Instructors may use the case at either the undergraduate or graduate level.</p>
   </div>
 
-- Scalable Data Analytics Pedagogy in Accounting: Randomized Case Studies and Automated Assessment (IRB Approved)  
+- <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Scalable Data Analytics Pedagogy in Accounting: Randomized Case Studies and Automated Assessment
   - Coauthors: 
     <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/carol-marquardt/">Carol Marquardt</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-scalable-da" onclick="toggleAbstract('scalable-da', 'link-scalable-da')">[show abstract]</a>
@@ -209,7 +245,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 
 **Econometrics**
 
-- Vine Copula VAR
+- <span class="role-tag paper-working">Working Paper</span> Vine Copula VAR
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-vcvar" onclick="toggleAbstract('abs-vcvar', 'link-abs-vcvar')">[show abstract]</a>
   <div id="abs-vcvar" class="abstract-box">
     <p>This paper introduces a scalable and order-invariant framework for modeling high-dimensional macro-financial dynamics. We develop a Time-Varying Parameter VAR with Vine Copula Dependence (VCVAR), which couples a lightweight TVP backbone with a flexible copula representation of cross-sectional dependence. The approach separates marginal dynamics from joint dependence, allowing the model to capture structural drift together with asymmetric, nonlinear, and tail-dependent co-movements that standard Gaussian or Cholesky-based VARs cannot represent. Despite this flexibility, the VCVAR remains computationally tractable through discounted recursive estimation and simplified vine construction. Applications to empirical macroeconomic data and controlled simulation designs show that the VCVAR offers consistent improvements in medium- and long-horizon forecasting, demonstrating the value of combining time variation with non-Gaussian dependence in large systems.</p>
@@ -226,19 +262,19 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 
 **General Economics, Sociology, Anthropology**
 
-- Legitimacy and the Fluid Singaporean Welfare State (Published in [Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))
+- <span class="role-tag paper-published">Published</span> Legitimacy and the Fluid Singaporean Welfare State ([Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
   <div id="abs-welfare" class="abstract-box">
     <p>This paper develops a theory of the fluid welfare state, in which legitimacy rather than efficiency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.</p>
   </div>
 
-- Secularization of Curses by LLM Guardrails
+- <span class="role-tag paper-working">Working Paper</span> Secularization of Curses by LLM Guardrails
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-curses" onclick="toggleAbstract('abs-curses', 'link-abs-curses')">[show abstract]</a>
   <div id="abs-curses" class="abstract-box">
     <p>This article studies how AI guardrails classify curse-talk, meaning the language through which ritual harm is requested, described, translated, fictionalized, feared, resisted, or explained. Curses are useful because they separate hostile intent from material mechanism. A curse is not a bomb or a poison, but a request to curse someone may still express revenge, coercion, or harm. I argue that AI guardrails secularize curse-talk. They do not decide whether magic is real. They decide whether ritual language is acceptable speech, translating curses into platform categories such as harassment, coercion, coping, fiction, scholarship, or prohibited harm. Using a controlled prompt audit across five models, I find that guardrails do not treat curse-talk as a single unsafe category. Historical, cultural, translational, fictional, and enhancement-oriented prompts were usually allowed, while direct harm, justified revenge, and protection-through-harm prompts produced the strongest refusals. The results suggest that guardrails respond less to ritual vocabulary itself than to the inferred social function of the request.</p>
   </div>
 
-- Why is it so hard to find a job now? Enter Ghost Jobs
+- <span class="role-tag paper-working">Working Paper</span> Why is it so hard to find a job now? Enter Ghost Jobs
   - Coauthors: <a href="https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee">Yen Tong</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-ghostjobs" onclick="toggleAbstract('abs-ghostjobs', 'link-abs-ghostjobs')">[show abstract]</a>
   <div id="abs-ghostjobs" class="abstract-box">
@@ -247,38 +283,8 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
   </div>
 
 **Notes on Becoming a Researcher**
-- [True Seeker – An Accounting PhD Journey](https://papers.ssrn.com/abstract=5611810)
-- [History of Economic Thought: A Dialogue Format](https://papers.ssrn.com/abstract=5668870)
-
-</div>
-</details>
-
-<details class="research-section">
-<summary>Dissertation Committee and Advisors</summary>
-<div class="research-section__content" markdown="1">
-
-**Dissertation Committee**
-- Edward Li (Baruch College)
-- Lin Peng (Baruch College)
-- Hagit Levy-Shalev (Baruch College)
-- Svenja Dube (Baruch College)
-- Diana Weng (University of South Florida, Tampa)
-
-**Advisors**
-- Yen Tong (Nanyang Technological University)
-
-</div>
-</details>
-
-<details class="research-section">
-<summary>Peer Reviews</summary>
-<div class="research-section__content" markdown="1">
-
-- 2026 Reviewer for Cogent
-- 2026 Reviewer for Journal of International Financial Markets, Institutions & Money
-- 2025 Reviewer for Cogent
-- 2025 Reviewer for Journal of International Financial Markets, Institutions & Money
-- 2023 Management Science Reproducibility Project
+- <span class="role-tag paper-working">Working Paper</span> [True Seeker – An Accounting PhD Journey](https://papers.ssrn.com/abstract=5611810)
+- <span class="role-tag paper-working">Working Paper</span> [History of Economic Thought: A Dialogue Format](https://papers.ssrn.com/abstract=5668870)
 
 </div>
 </details>
@@ -318,9 +324,46 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 </div>
 </details>
 
-**Awards**
+<details class="research-section">
+<summary>Dissertation Committee and Advisors</summary>
+<div class="research-section__content" markdown="1">
+
+**Dissertation Committee**
+- Edward Li (Baruch College)
+- Lin Peng (Baruch College)
+- Hagit Levy-Shalev (Baruch College)
+- Svenja Dube (Baruch College)
+- Diana Weng (University of South Florida, Tampa)
+
+**Advisors**
+- Yen Tong (Nanyang Technological University)
+
+</div>
+</details>
+
+<details class="research-section">
+<summary>Peer Reviews</summary>
+<div class="research-section__content" markdown="1">
+
+- 2026 Reviewer for Cogent
+- 2026 Reviewer for Journal of International Financial Markets, Institutions & Money
+- 2025 Reviewer for Cogent
+- 2025 Reviewer for Journal of International Financial Markets, Institutions & Money
+- 2023 Management Science Reproducibility Project
+
+</div>
+</details>
+
+<details class="research-section">
+<summary>Awards</summary>
+<div class="research-section__content" markdown="1">
+
+- 2025/2026 Zicklin Dean’s Teaching Award
 - Mills & Tannenbaum Award 2025
 - Donald Vredenburgh Research Grant 2025
+
+</div>
+</details>
 
 <script>
 function toggleAbstract(contentId, linkId) {

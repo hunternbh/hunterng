@@ -32,6 +32,31 @@ redirect_from:
 .abstract-box ul {
   margin: 0.4rem 0 0 1.2rem;
 }
+
+.role-tag {
+  display: inline-block;
+  margin-right: 0.35rem;
+  padding: 0.08rem 0.45rem;
+  border-radius: 999px;
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1.45;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  vertical-align: 0.08em;
+}
+
+.role-presenter {
+  color: #0b3d91;
+  background: #e8f1ff;
+  border: 1px solid #9dbff2;
+}
+
+.role-participant {
+  color: #3f4650;
+  background: #f0f1f2;
+  border: 1px solid #c7cbd1;
+}
 </style>
 
 Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Escrows, Prediction Markets, Digital Assets/Distributed Ledgers
@@ -62,9 +87,9 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331995">Download Paper</a></p>
     <p>Conferences and Presentations</p>
     <ul>
-      <li>Financial Manipulation Conference, University of Lancaster, September 2026 <a href="{{ site.baseurl }}/files/FFMM2026-Programme-v3.pdf">Download Agenda</a></li>
-      <li>Finance Seminar, Baruch College, June 2025</li>
-      <li>Finance Seminar, The Hong Kong Polytechnic University, Oct 2025</li>
+      <li><span class="role-tag role-presenter">Presenter</span> Financial Manipulation Conference, University of Lancaster, September 2026 <a href="{{ site.baseurl }}/files/FFMM2026-Programme-v3.pdf">Download Agenda</a></li>
+      <li><span class="role-tag role-presenter">Presenter</span> Finance Seminar, Baruch College, June 2025</li>
+      <li><span class="role-tag role-presenter">Presenter</span> Finance Seminar, The Hong Kong Polytechnic University, Oct 2025</li>
     </ul>
   </div>
 
@@ -75,7 +100,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     <p><a href="{{ site.baseurl }}/files/washtrading.pdf">Download Paper</a></p>
     <p>Conferences and Presentations</p>
     <ul>
-      <li>The Annual Baruch College/CUNY Southwestern University of Finance and Economics (SWUFE) Research Symposium, Baruch College, May 2025</li>
+      <li><span class="role-tag role-presenter">Presenter</span> The Annual Baruch College/CUNY Southwestern University of Finance and Economics (SWUFE) Research Symposium, Baruch College, May 2025</li>
     </ul>
   </div>
 
@@ -166,14 +191,14 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 - 2023 Management Science Reproducibility Project
 
 **Conferences and Presentations**
-- Baruch Workshop on AI in Finance and Accounting <a href="{{ site.baseurl }}/files/baruck-ai-finance-workshop-2026.pdf">Download Agenda</a>
-- The 24th Annual Financial Reporting Conference 2026 <a href="{{ site.baseurl }}/files/baruch-24-annual-financial-reporting-conference.pdf">Download Agenda</a>
-- AAA/Deloitte/Michael Cook Doctoral Consortium 2026 <a href="{{ site.baseurl }}/files/2026-michael-cook-consortium.png">Download Agenda</a>
-  - Presented - [Download PPT]({{ site.baseurl }}/files/hunter-dc.pptx) - [Download PPT]({{ site.baseurl }}/files/hunter-dc.pdf)
-- Four-School Conference (Baruch, Fordham, Rutgers, UConn) 2026
-- AES Baruch Accounting Theory Summer School 2025
+- <span class="role-tag role-participant">Participant</span> Baruch Workshop on AI in Finance and Accounting <a href="{{ site.baseurl }}/files/baruck-ai-finance-workshop-2026.pdf">Download Agenda</a>
+- <span class="role-tag role-participant">Participant</span> The 24th Annual Financial Reporting Conference 2026 <a href="{{ site.baseurl }}/files/baruch-24-annual-financial-reporting-conference.pdf">Download Agenda</a>
+- <span class="role-tag role-presenter">Presenter</span> AAA/Deloitte/Michael Cook Doctoral Consortium 2026 <a href="{{ site.baseurl }}/files/2026-michael-cook-consortium.png">Download Agenda</a>
+  - [Download PPTX]({{ site.baseurl }}/files/hunter-dc.pptx) - [Download PDF]({{ site.baseurl }}/files/hunter-dc.pdf)
+- <span class="role-tag role-participant">Participant</span> Four-School Conference (Baruch, Fordham, Rutgers, UConn) 2026
+- <span class="role-tag role-participant">Participant</span> AES Baruch Accounting Theory Summer School 2025
   - Taught by Ivan Marinovic, Jon Glover, Jeremy Bertomeu
-- Hawaii Doctoral Institute Summer 2025
+- <span class="role-tag role-presenter">Presenter</span> Hawaii Doctoral Institute Summer 2025
   - Taught by Hans Christensen, Brian White, Joe Schroeder, Jennifer Blouin
   - Gave presentations in class on selected papers
     - [Download Certificate]({{ site.baseurl }}/files/HARDI.pdf)
@@ -181,25 +206,19 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     - [Download BlouinClass_PPT]({{ site.baseurl }}/files/hardi_blouin.pdf)
     - [Download WhiteClass_PPT]({{ site.baseurl }}/files/white_ppt.pdf)
     - [Download ChristensenClass_PPT]({{ site.baseurl }}/files/christensen_ppt.pdf)
-- 2025 Baruch-SWUFE Research Symposium
-  - Presented paper
+- <span class="role-tag role-presenter">Presenter</span> 2025 Baruch-SWUFE Research Symposium
   - [Download Agenda]({{ site.baseurl }}/files/2025 Baruch-SWUFE Research Symposium Agenda.pdf)
-- 2025 Baruch PhD Research Day in Finance
-  - Presented Paper
+- <span class="role-tag role-presenter">Presenter</span> 2025 Baruch PhD Research Day in Finance
   - [Download Agenda]({{ site.baseurl }}/files/2025 Baruch PhD Research Day in Finance V3.pdf)
-- 2025 Finance Brownbag
-  - Presented Paper
+- <span class="role-tag role-presenter">Presenter</span> 2025 Finance Brownbag
   - [Download Agenda]({{ site.baseurl }}/files/2025-finance-brownbag.PNG)
-- 2025 Baruch/JFQA Climate Finance Conference
-  - Participant
-- 2025 Baruch-Fordham-Rutgers Trischool Conference
-  - Participant
-- 2024 The Chinese Finance Association TCFA 30th Annual Conference
-  - Participant
-- NYU Accounting Theory Summer School 2024
+- <span class="role-tag role-participant">Participant</span> 2025 Baruch/JFQA Climate Finance Conference
+- <span class="role-tag role-participant">Participant</span> 2025 Baruch-Fordham-Rutgers Trischool Conference
+- <span class="role-tag role-participant">Participant</span> 2024 The Chinese Finance Association TCFA 30th Annual Conference
+- <span class="role-tag role-participant">Participant</span> NYU Accounting Theory Summer School 2024
   - Taught by Ilan Guttman, Judson Caskey, Jeremy Bertomeu
-- Duke University Accounting Theory Summer School 2024
-  - Presented paper - "Cybersecurity Disclosures".
+- <span class="role-tag role-presenter">Presenter</span> Duke University Accounting Theory Summer School 2024
+  - Presented "Cybersecurity Disclosures"
   - Taught by Itay Goldstein, Qi Chen, Chandra Kanodia, Thomas Hemmer
 
 **Awards**

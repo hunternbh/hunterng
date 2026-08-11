@@ -126,6 +126,9 @@ body.dark-mode .teaching-section[open] > summary {
 - ACC 3202 Accounting Information Systems and Data Analytics - Summer 2024
   - Instructor Rating: Excellent
 
+**IT Fellow - Baruch College**
+- Support the IT Help Desk in administering standardized Excel assignments for all Baruch College students - Fall 2026 and Spring 2027
+
 **Tutor - Marxe School of Public and International Affairs**
 - Quantitative tutor for Masters of Public Administration and Masters of International Affairs - Spring 2024
   - PAF9130, PAF 9415, PAF9272, PAF9271

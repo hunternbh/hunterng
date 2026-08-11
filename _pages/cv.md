@@ -15,11 +15,40 @@ redirect_from:
     margin-bottom: 1.25rem;
   }
 
+  .cv-section {
+    margin: 0 0 0.9rem;
+    border: 1px solid #d9d9d9;
+    border-radius: 0.45rem;
+    background: #fff;
+  }
+
+  .cv-section summary {
+    padding: 0.85rem 1rem;
+    cursor: pointer;
+    font-weight: 700;
+  }
+
+  .cv-section[open] summary {
+    border-bottom: 1px solid #e5e5e5;
+  }
+
+  .cv-section__content {
+    padding: 1rem;
+  }
+
+  .cv-section__content > :first-child {
+    margin-top: 0;
+  }
+
+  .cv-section__content > :last-child {
+    margin-bottom: 0;
+  }
+
   .photo-gallery {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 1.25rem;
-    margin-top: 1.25rem;
+    margin: 0;
   }
 
   .photo-card {
@@ -53,6 +82,15 @@ redirect_from:
   }
 
   @media (prefers-color-scheme: dark) {
+    .cv-section {
+      border-color: #555;
+      background: #252a2e;
+    }
+
+    .cv-section[open] summary {
+      border-bottom-color: #555;
+    }
+
     .photo-card {
       border-color: #555;
       background: #252a2e;
@@ -66,19 +104,25 @@ redirect_from:
 
 <p class="cv-intro">Curriculum vitae and selected moments from teaching and academic engagements.</p>
 
-[Download my CV]({{ site.baseurl }}/files/cv.docx){: .btn .btn--primary }
+<details class="cv-section">
+  <summary>CV</summary>
+  <div class="cv-section__content">
+    <a href="{{ site.baseurl }}/files/cv.docx" class="btn btn--primary">Download my CV</a>
+  </div>
+</details>
 
-## Photos
-
-<div class="photo-gallery">
+<details class="cv-section">
+  <summary>Photos</summary>
+  <div class="cv-section__content">
+    <div class="photo-gallery">
   <figure class="photo-card">
     <img src="{{ site.baseurl }}/files/photos/baruch-may-2026-square.jpg" alt="Faculty and colleagues gathered at Baruch College" width="1000" height="1000" loading="lazy">
     <figcaption>Academic workshop with faculty and colleagues at Baruch College, May 2026.</figcaption>
   </figure>
 
   <figure class="photo-card">
-    <img src="{{ site.baseurl }}/files/photos/hawaii-consortium-square.jpg" alt="Hawaii Doctoral Institute Summer Consortium participants at Diamond Head State Monument" width="1000" height="1000" loading="lazy">
-    <figcaption>Hawaii Doctoral Institute Summer Consortium, 2025.</figcaption>
+    <img src="{{ site.baseurl }}/files/photos/hunter-hawaii-doctoral-consortium-award-square.jpg" alt="Award presentation at the Hawaii Doctoral Institute Summer Consortium" width="1000" height="1000" loading="lazy">
+    <figcaption>Award presentation at the Hawaii Doctoral Institute Summer Consortium, 2025.</figcaption>
   </figure>
 
   <figure class="photo-card">
@@ -90,4 +134,6 @@ redirect_from:
     <img src="{{ site.baseurl }}/files/photos/ntu-2022-square.jpg" alt="Classroom teaching activity at Nanyang Technological University" width="1000" height="1000" loading="lazy">
     <figcaption>Classroom teaching activity at Nanyang Technological University, 2022.</figcaption>
   </figure>
-</div>
+    </div>
+  </div>
+</details>

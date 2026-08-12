@@ -140,6 +140,16 @@ redirect_from:
   </figure>
 
   <figure class="photo-card">
+    <img src="{{ site.baseurl }}/files/photos/unga-2024-square.jpg" alt="Youth delegates and guests at the United Nations General Assembly" width="1000" height="1000" loading="lazy">
+    <figcaption>Youth engagement at the United Nations General Assembly, 2024.</figcaption>
+  </figure>
+
+  <figure class="photo-card">
+    <img src="{{ site.baseurl }}/files/photos/economics-gathering-2024-square.jpg" alt="Faculty and graduate colleagues at an economics gathering" width="1000" height="1000" loading="lazy">
+    <figcaption>Economics gathering with faculty and graduate colleagues, 2024.</figcaption>
+  </figure>
+
+  <figure class="photo-card">
     <img src="{{ site.baseurl }}/files/photos/ntu-2022-square.jpg" alt="Classroom teaching activity at Nanyang Technological University" width="1000" height="1000" loading="lazy">
     <figcaption>Classroom teaching activity at Nanyang Technological University, 2022.</figcaption>
   </figure>

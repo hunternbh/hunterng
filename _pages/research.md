@@ -200,7 +200,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331995">Download Paper</a></p>
     <p>Conferences and Presentations</p>
     <ul>
-      <li>Financial Manipulation Conference, University of Lancaster, September 2026 <a href="{{ site.baseurl }}/files/FFMM2026-Programme-v3.pdf">Download Agenda</a></li>
+      <li><strong><a href="https://wp.lancs.ac.uk/ffmm2026/">3rd Financial Fraud, Misconduct and Market Manipulation Conference 2026</a></strong> - <a href="https://wp.lancs.ac.uk/ffmm2026/travel-accommodation/">Travel &amp; Accommodation</a> - <a href="{{ site.baseurl }}/files/FFMM2026-Programme-v3.pdf">Download Agenda</a></li>
       <li>Finance Seminar, Baruch College, June 2025</li>
       <li>Finance Seminar, The Hong Kong Polytechnic University, October 2025</li>
     </ul>
@@ -294,7 +294,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 <div class="research-section__content" markdown="1">
 
 - <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> Midwest Econometrics Group (MEG) Annual Meeting - [Download Invitation]({{ site.baseurl }}/files/MEG 2026 decision.pdf) - [Download Information]({{ site.baseurl }}/files/2026 meg-info.pdf)
-- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> Financial Manipulation Conference, University of Lancaster, September - [Download Schedule]({{ site.baseurl }}/files/FFMM2026-Programme-v3.pdf)
+- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> [**3rd Financial Fraud, Misconduct and Market Manipulation Conference 2026**](https://wp.lancs.ac.uk/ffmm2026/) - [Travel & Accommodation](https://wp.lancs.ac.uk/ffmm2026/travel-accommodation/) - [Download Schedule]({{ site.baseurl }}/files/FFMM2026-Programme-v3.pdf)
 - <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> AAA Global Connect Annual Meeting - [Download Participant List]({{ site.baseurl }}/files/aaa-participants-2026.pdf)
 - <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> Baruch Workshop on AI in Finance and Accounting <a href="{{ site.baseurl }}/files/baruck-ai-finance-workshop-2026.pdf">Download Agenda</a>
 - <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> The 24th Annual Financial Reporting Conference <a href="{{ site.baseurl }}/files/baruch-24-annual-financial-reporting-conference.pdf">Download Agenda</a>

@@ -111,12 +111,14 @@ body.dark-mode .teaching-section[open] > summary {
 <div class="teaching-section__content" markdown="1">
 
 **Instructor - Baruch College**
+- ACC 3202 Accounting Information Systems and Data Analytics - Spring 2027
+  - Instructor Rating: NA
 - ACC 3202 Accounting Information Systems and Data Analytics - Fall 2026
   - Instructor Rating: NA
-- ACC 3202 Accounting Information Systems and Data Analytics - Summer 2026
-  - Instructor Rating: NA
+- ACC 3202 Accounting Information Systems and Data Analytics - Summer 2026 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-summer-2026.pdf)
+  - Instructor Rating: Excellent
 - ACC 3202 Accounting Information Systems and Data Analytics - Spring 2026 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-spring-2026.pdf)
-  - Instructor Rating: NA
+  - Instructor Rating: Excellent
 - ACC 3202 Accounting Information Systems and Data Analytics - Fall 2025 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-fall-2025.pdf)
   - Instructor Rating: Excellent
 - ACC 2203 Cost Accounting - Spring 2025

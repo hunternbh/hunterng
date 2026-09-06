@@ -76,6 +76,12 @@ redirect_from:
   border: 1px solid #8bc5a0;
 }
 
+.paper-reflective {
+  color: #4b4f58;
+  background: #eef0f4;
+  border: 1px solid #b9bec8;
+}
+
 .paper-irb {
   color: #5a3976;
   background: #f3eafa;
@@ -161,6 +167,12 @@ body.dark-mode .paper-published {
   border-color: #4d8c63;
 }
 
+body.dark-mode .paper-reflective {
+  color: #e2e5ec;
+  background: #30343b;
+  border-color: #747b87;
+}
+
 body.dark-mode .paper-irb {
   color: #ead8f7;
   background: #3e2850;
@@ -188,6 +200,10 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
   <div id="abs-daubert" class="abstract-box">
     <p>This paper studies whether the value of expert testimony lies primarily in its informational content or in the institutional role of the expert witness. Using federal district court <em>Daubert</em> rulings in copyright cases, we show that admissibility is not determined by methodology alone, but also by institutional considerations. We develop a model to ground this intuition and to show how AI can compress differences in methodological production while making institutional signals more important for judicial evaluation. Empirically, we then compare observed expert packages to AI-generated packages from neutralized case descriptions and find that AI reproduces much of the methodology and topic coverage of retained experts, while systematically proposing broader and more credentialed expert designs. AI-generated packages are closest to experts whose testimony is admitted and furthest from those whose testimony is excluded. The results show that methodology is increasingly reproducible, but institutional features of the expert still matter for admissibility.</p>
+    <p>Conferences and Presentations</p>
+    <ul>
+      <li><a href="https://sovereignai-workshop.github.io/#overview">The First Workshop on Sovereign AI for Collaborative and Pluralistic AI Ecosystems, HCOMP 2026</a>, Washington, D.C., September 2026; Information or Institution? AI's role in Expert Testimony (with Shou-Ming Chang)</li>
+    </ul>
   </div>
 
 **Digital Assets**
@@ -283,8 +299,8 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
   </div>
 
 **Notes on Becoming a Researcher**
-- <span class="role-tag paper-working">Working Paper</span> [True Seeker – An Accounting PhD Journey](https://papers.ssrn.com/abstract=5611810)
-- <span class="role-tag paper-working">Working Paper</span> [History of Economic Thought: A Dialogue Format](https://papers.ssrn.com/abstract=5668870)
+- <span class="role-tag paper-reflective">Reflective Essay</span> [True Seeker – An Accounting PhD Journey](https://papers.ssrn.com/abstract=5611810)
+- <span class="role-tag paper-reflective">Reflective Essay</span> [History of Economic Thought: A Dialogue Format](https://papers.ssrn.com/abstract=5668870)
 
 </div>
 </details>
@@ -294,6 +310,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 <div class="research-section__content" markdown="1">
 
 - <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> Midwest Econometrics Group (MEG) Annual Meeting - [Download Invitation]({{ site.baseurl }}/files/MEG 2026 decision.pdf) - [Download Information]({{ site.baseurl }}/files/2026 meg-info.pdf)
+- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> [The First Workshop on Sovereign AI for Collaborative and Pluralistic AI Ecosystems, HCOMP 2026](https://sovereignai-workshop.github.io/#overview), Washington, D.C., September 2026; Information or Institution? AI's role in Expert Testimony (with Shou-Ming Chang)
 - <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> [**3rd Financial Fraud, Misconduct and Market Manipulation Conference 2026**](https://wp.lancs.ac.uk/ffmm2026/) - [Travel & Accommodation](https://wp.lancs.ac.uk/ffmm2026/travel-accommodation/) - [Download Schedule]({{ site.baseurl }}/files/FFMM2026-Programme-v3.pdf)
 - <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> AAA Global Connect Annual Meeting - [Download Participant List]({{ site.baseurl }}/files/aaa-participants-2026.pdf)
 - <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> Baruch Workshop on AI in Finance and Accounting <a href="{{ site.baseurl }}/files/baruck-ai-finance-workshop-2026.pdf">Download Agenda</a>

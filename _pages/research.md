@@ -332,6 +332,8 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 - Edward Li (Baruch College)
 - Lin Peng (Baruch College)
 - Hagit Levy-Shalev (Baruch College)
+- [Michael Grossman](https://www.gc.cuny.edu/people/michael-grossman) (CUNY Graduate Center)
+
 <!-- - Svenja Dube (Baruch College)
 - Diana Weng (University of South Florida, Tampa) -->
 

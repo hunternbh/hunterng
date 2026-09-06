@@ -329,16 +329,18 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 <div class="research-section__content" markdown="1">
 
 **Dissertation Committee**
-- Edward Li (Baruch College)
-- Lin Peng (Baruch College)
-- Hagit Levy-Shalev (Baruch College)
+- [Edward Li](https://zicklin.baruch.cuny.edu/faculty-profile/edward-x-li/) (Baruch College)
+- [Lin Peng](https://zicklin.baruch.cuny.edu/faculty-profile/lin-peng/) (Baruch College)
+- [Hagit Levy-Shalev](https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/) (Baruch College)
 - [Michael Grossman](https://www.gc.cuny.edu/people/michael-grossman) (CUNY Graduate Center)
 
 <!-- - Svenja Dube (Baruch College)
 - Diana Weng (University of South Florida, Tampa) -->
 
 **Advisors**
-- Yen Tong (Nanyang Technological University)
+- [Yen Tong](https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee) (Nanyang Technological University)
+- [Diana Weng](https://www.usf.edu/business/about/bios/weng-diana.aspx) (University of South Florida)
+- [Hun-Tong Tan](https://dr.ntu.edu.sg/entities/person/Tan-Hun-Tong) (Nanyang Technological University)
 
 </div>
 </details>

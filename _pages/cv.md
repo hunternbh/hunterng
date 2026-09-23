@@ -125,6 +125,11 @@ redirect_from:
   <div class="cv-section__content">
     <div class="photo-gallery">
   <figure class="photo-card">
+    <img src="{{ site.baseurl }}/files/photos/lancaster-university-sept-2026-square.jpg" alt="Conference presentation visit at Lancaster University" width="1000" height="1000" loading="lazy">
+    <figcaption>Conference presentation visit at Lancaster University, September 2026.</figcaption>
+  </figure>
+
+  <figure class="photo-card">
     <img src="{{ site.baseurl }}/files/photos/baruch-may-2026-square.jpg" alt="Faculty and colleagues gathered at Baruch College" width="1000" height="1000" loading="lazy">
     <figcaption>Academic workshop with faculty and colleagues at Baruch College, May 2026.</figcaption>
   </figure>

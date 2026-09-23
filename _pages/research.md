@@ -366,11 +366,12 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 <summary>Peer Reviews</summary>
 <div class="research-section__content" markdown="1">
 
-- 2026 Reviewer for Cogent
-- 2026 Reviewer for Journal of International Financial Markets, Institutions & Money
-- 2025 Reviewer for Cogent
-- 2025 Reviewer for Journal of International Financial Markets, Institutions & Money
-- 2023 Management Science Reproducibility Project
+- 2026 FARS Conference Review - Categories: Cybersecurity Disclosures; AI and Pricing of Earnings; Mutual Fund Disclosure
+- 2026 Reviewer for Cogent - Category: Prediction Markets
+- 2026 Reviewer for Journal of International Financial Markets, Institutions & Money - Category: Prediction Markets
+- 2025 Reviewer for Cogent - Category: Prediction Markets
+- 2025 Reviewer for Journal of International Financial Markets, Institutions & Money - Category: Prediction Markets
+- 2023 Management Science Reproducibility Project - Category: 10-K Footnote Disclosure
 
 </div>
 </details>

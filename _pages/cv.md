@@ -125,6 +125,11 @@ redirect_from:
   <div class="cv-section__content">
     <div class="photo-gallery">
   <figure class="photo-card">
+    <img src="{{ site.baseurl }}/files/photos/sovereign-ai-photo-square.jpg" alt="Workshop organizers at Virginia Tech for the Sovereign AI workshop" width="1000" height="1000" loading="lazy">
+    <figcaption>Photo with workshop organizers at Virginia Tech, September 2026.</figcaption>
+  </figure>
+
+  <figure class="photo-card">
     <img src="{{ site.baseurl }}/files/photos/lancaster-university-sept-2026-square.jpg" alt="Conference presentation visit at Lancaster University" width="1000" height="1000" loading="lazy">
     <figcaption>Conference presentation visit at Lancaster University, September 2026.</figcaption>
   </figure>

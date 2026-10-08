@@ -61,6 +61,48 @@ body.dark-mode .teaching-section[open] > summary {
 </style>
 
 <details class="teaching-section">
+<summary>Courses Taught</summary>
+<div class="teaching-section__content" markdown="1">
+
+**Instructor - Baruch College**
+- ACC 3202 Accounting Information Systems and Data Analytics - Spring 2027
+  - Instructor Rating: NA
+- ACC 3202 Accounting Information Systems and Data Analytics - Fall 2026
+  - Instructor Rating: NA
+- ACC 3202 Accounting Information Systems and Data Analytics - Summer 2026 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-summer-2026.pdf)
+  - Instructor Rating: Excellent
+- ACC 3202 Accounting Information Systems and Data Analytics - Spring 2026 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-spring-2026.pdf)
+  - Instructor Rating: Excellent
+- ACC 3202 Accounting Information Systems and Data Analytics - Fall 2025 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-fall-2025.pdf)
+  - Instructor Rating: Excellent
+- ACC 2203 Cost Accounting - Spring 2025
+  - Instructor Rating: Excellent
+- ACC 3202 Accounting Information Systems and Data Analytics - Fall 2024
+  - Instructor Rating: Excellent
+- ACC 3202 Accounting Information Systems and Data Analytics - Summer 2024
+  - Instructor Rating: Excellent
+
+**IT Fellow - Baruch College**
+- Support the IT Help Desk in administering standardized Excel assignments for all Baruch College students - Fall 2026 and Spring 2027
+
+**Tutor - Marxe School of Public and International Affairs**
+- Quantitative tutor for Masters of Public Administration and Masters of International Affairs - Spring 2024
+  - PAF9130, PAF 9415, PAF9272, PAF9271
+
+**Teaching Assistant - Baruch College**
+- ACC 3202 Accounting Information Systems and Data Analytics - Spring 2024
+  - Instructor Rating: Excellent
+- ACC 2203 Cost Accounting - Fall 2023
+- ACC 2101 Financial Accounting - Fall 2023
+
+**Instructor - Nanyang Technological University**
+- ACC 2101 Financial Accounting - Fall 2022
+  - Instructor Rating: Excellent
+
+</div>
+</details>
+
+<details class="teaching-section">
 <summary>Recognition</summary>
 <div class="teaching-section__content" markdown="1">
 - 2025/2026 Zicklin Dean’s Teaching Award
@@ -102,48 +144,6 @@ body.dark-mode .teaching-section[open] > summary {
     - This project site introduces students to AI-assisted coding through practical, hands-on exercises. It is designed to help learners experiment with building simple applications and understand how coding tools can support problem-solving.
     - [Access Website](https://hunternbh.github.io/acc3202-hunter-gym/)
 
-
-</div>
-</details>
-
-<details class="teaching-section">
-<summary>Courses Taught</summary>
-<div class="teaching-section__content" markdown="1">
-
-**Instructor - Baruch College**
-- ACC 3202 Accounting Information Systems and Data Analytics - Spring 2027
-  - Instructor Rating: NA
-- ACC 3202 Accounting Information Systems and Data Analytics - Fall 2026
-  - Instructor Rating: NA
-- ACC 3202 Accounting Information Systems and Data Analytics - Summer 2026 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-summer-2026.pdf)
-  - Instructor Rating: Excellent
-- ACC 3202 Accounting Information Systems and Data Analytics - Spring 2026 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-spring-2026.pdf)
-  - Instructor Rating: Excellent
-- ACC 3202 Accounting Information Systems and Data Analytics - Fall 2025 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-fall-2025.pdf)
-  - Instructor Rating: Excellent
-- ACC 2203 Cost Accounting - Spring 2025
-  - Instructor Rating: Excellent
-- ACC 3202 Accounting Information Systems and Data Analytics - Fall 2024
-  - Instructor Rating: Excellent
-- ACC 3202 Accounting Information Systems and Data Analytics - Summer 2024
-  - Instructor Rating: Excellent
-
-**IT Fellow - Baruch College**
-- Support the IT Help Desk in administering standardized Excel assignments for all Baruch College students - Fall 2026 and Spring 2027
-
-**Tutor - Marxe School of Public and International Affairs**
-- Quantitative tutor for Masters of Public Administration and Masters of International Affairs - Spring 2024
-  - PAF9130, PAF 9415, PAF9272, PAF9271
-
-**Teaching Assistant - Baruch College**
-- ACC 3202 Accounting Information Systems and Data Analytics - Spring 2024
-  - Instructor Rating: Excellent
-- ACC 2203 Cost Accounting - Fall 2023
-- ACC 2101 Financial Accounting - Fall 2023
-  
-**Instructor - Nanyang Technological University**
-- ACC 2101 Financial Accounting - Fall 2022
-  - Instructor Rating: Excellent
 
 </div>
 </details>

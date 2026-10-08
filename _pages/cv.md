@@ -46,6 +46,18 @@ redirect_from:
     margin-bottom: 0;
   }
 
+  .cv-download {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem 1rem;
+  }
+
+  .cv-updated {
+    color: #5f6670;
+    font-size: 0.9rem;
+  }
+
   .photo-gallery {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -109,6 +121,10 @@ redirect_from:
   body.dark-mode .photo-card figcaption {
     color: #f2f2f2;
   }
+
+  body.dark-mode .cv-updated {
+    color: #c7cbd1;
+  }
 </style>
 
 <p class="cv-intro">Curriculum vitae and selected moments from teaching and academic engagements.</p>
@@ -116,7 +132,10 @@ redirect_from:
 <details class="cv-section">
   <summary>CV</summary>
   <div class="cv-section__content">
-    <a href="{{ site.baseurl }}/files/cv.docx" class="btn btn--primary">Download my CV</a>
+    <div class="cv-download">
+      <a href="{{ site.baseurl }}/files/cv.docx" class="btn btn--primary">Download my CV</a>
+      <span class="cv-updated">Last updated: {{ site.time | date: "%B %d, %Y" }}</span>
+    </div>
   </div>
 </details>
 

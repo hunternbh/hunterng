@@ -222,10 +222,10 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     </ul>
   </div>
 
-- <span class="role-tag paper-working">Working Paper</span> How Wash Traders Exploit Market Conditions in Cryptocurrency Markets
+- <span class="role-tag paper-working">Working Paper</span> Outsourced Cryptocurrency Wash Trading
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-washtrading" onclick="toggleAbstract('abs-washtrading', 'link-abs-washtrading')">[show abstract]</a>
   <div id="abs-washtrading" class="abstract-box">
-    <p>Wash trading, the practice of simultaneously placing buy and sell orders for the same asset to inflate trading volume, has been prevalent in cryptocurrency markets. This paper investigates whether wash traders in Bitcoin act deliberately to exploit market conditions and identifies the characteristics of such manipulative behavior. Using a unique dataset of 18 million transactions from Mt. Gox, once the largest Bitcoin exchange, I find that wash trading intensifies when legitimate trading volume is low and diminishes when it is high, indicating strategic timing to maximize impact in less liquid markets. The activity also exhibits spillover effects across platforms and decreases when trading volumes in other asset classes like stocks or gold rise, suggesting sensitivity to broader market dynamics. Additionally, wash traders exploit periods of heightened media attention and online rumors to amplify their influence, causing rapid but short-lived spikes in legitimate trading volume. Using an exogenous demand shock associated with illicit online marketplaces, I find that wash trading responds to contemporaneous events affecting Bitcoin demand. These results advance the understanding of manipulative practices in digital currency markets and have significant implications for regulators aiming to detect and prevent wash trading.</p>
+    <p>I show that outsourced cryptocurrency wash trading is shaped by the objective assigned to the outside firm. When hired to manufacture volume, wash traders buy and sell nearly equal amounts, repeatedly turning over the same inventory. When also tasked with selling issuer holdings, trading becomes markedly more one-sided, with sales exceeding purchases. Using documented enforcement cases and transaction records, I trace these differences in net selling, two-way trading, and inventory replenishment across controlled wallets. The results show that similar reported trading volume can mask fundamentally different economic activity as contractual objectives shape whether manipulation recycles inventory or liquidates issuer holdings.</p>
     <p><a href="{{ site.baseurl }}/files/washtrading.pdf">Download Paper</a></p>
     <p>Conferences and Presentations</p>
     <ul>
@@ -242,7 +242,17 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     <p>This paper studies why mandatory ESG disclosure rules spread unevenly across countries, focusing first on greenhouse-gas disclosure and framing adoption through the classic policy-diffusion channels of learning, competition, imitation, and coercion. Using a country-year panel and discrete-time hazard models, it finds that broad diffusion pressure and especially competitive exposure to already regulated jurisdictions are associated with adoption, while the current proxies for learning and imitation do not perform as expected in the data. The consequences of disclosure regulation depend not just on whether countries adopt, but on how they adopt, with the broader goal of linking diffusion mechanisms to later market outcomes such as liquidity and policy credibility.</p>
   </div> -->
 
-**Accounting Information Systems**
+**Accounting Education**
+
+**Applied AI in Accounting**
+
+- <span class="role-tag paper-working">Working Paper</span> Recovering Accounting Judgment with AI: Textual and Non-Textual Experiments
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-accounting-judgment-ai" onclick="toggleAbstract('accounting-judgment-ai', 'link-accounting-judgment-ai')">[show abstract]</a>
+  <div id="accounting-judgment-ai" class="abstract-box">
+    <p>Prior research shows that financial-statement presentation affects how users process and weight accounting information. However, artificial intelligence (AI) may not respond to presentation in the same way as human users, even when it receives the same underlying accounting information. This paper develops an empirical approach to examine whether AI recovers established human treatment effects from experimental accounting research. Using an exhaustive sample of published standard-setting experiments in leading accounting journals from 1995 through 2025, the analysis compares AI treatment effects with reported human responses and distinguishes textual from presentation-based manipulations. AI recovers human treatment effects less consistently when the manipulation depends on financial-statement presentation than when it is conveyed primarily through text. Further tests distinguish representation, processing, and judgment explanations for this difference. The evidence is most consistent with judgment differences: AI generally identifies and processes the relevant accounting information correctly but does not give presentation the same influence on judgment as human users. These findings suggest that AI can recover the underlying accounting facts without reproducing how presentation affects human decisions, limiting its use as a proxy for financial-statement users.</p>
+  </div>
+
+**Teaching Cases**
 
 - <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit
   - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, Shantel Deleon (EY LLC)

@@ -276,7 +276,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     <p><a href="{{ site.baseurl }}/files/deepfake.pdf">Download Paper</a></p>
   </div> -->
 
-**General Economics, Sociology, Anthropology**
+**General Economics**
 
 - <span class="role-tag paper-published">Published</span> Legitimacy and the Fluid Singaporean Welfare State ([Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
@@ -284,10 +284,10 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     <p>This paper develops a theory of the fluid welfare state, in which legitimacy rather than efficiency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.</p>
   </div>
 
-- <span class="role-tag paper-working">Working Paper</span> Secularization of Curses by LLM Guardrails
+- <span class="role-tag paper-working">Working Paper</span> AI Guardrails in Ambiguous Harm Settings: Evidence from Curses
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-curses" onclick="toggleAbstract('abs-curses', 'link-abs-curses')">[show abstract]</a>
   <div id="abs-curses" class="abstract-box">
-    <p>This article studies how AI guardrails classify curse-talk, meaning the language through which ritual harm is requested, described, translated, fictionalized, feared, resisted, or explained. Curses are useful because they separate hostile intent from material mechanism. A curse is not a bomb or a poison, but a request to curse someone may still express revenge, coercion, or harm. I argue that AI guardrails secularize curse-talk. They do not decide whether magic is real. They decide whether ritual language is acceptable speech, translating curses into platform categories such as harassment, coercion, coping, fiction, scholarship, or prohibited harm. Using a controlled prompt audit across five models, I find that guardrails do not treat curse-talk as a single unsafe category. Historical, cultural, translational, fictional, and enhancement-oriented prompts were usually allowed, while direct harm, justified revenge, and protection-through-harm prompts produced the strongest refusals. The results suggest that guardrails respond less to ritual vocabulary itself than to the inferred social function of the request.</p>
+    <p>This study examines how AI guardrails respond when a request has a hostile objective but uncertain practical capacity to cause harm. I study whether models preserve the request, selectively change the hostile objective, or refuse the request altogether. When a prompt combines permissible content with a hostile objective, models are often able to disentangle the two components. Rather than refusing the request outright, they frequently transform it by preserving the permissible content while changing the hostile objective. Hostile requests intended to be sent directly to the target of the hostile content are preserved less often than otherwise similar requests described as private. These patterns appear across model families, while neither later model releases nor higher reasoning settings produce a consistent directional change in preservation.</p>
   </div>
 
 - <span class="role-tag paper-working">Working Paper</span> Why is it so hard to find a job now? Enter Ghost Jobs

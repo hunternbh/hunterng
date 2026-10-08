@@ -186,7 +186,15 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 <summary>Papers</summary>
 <div class="research-section__content" markdown="1">
 
-**Large Language Models**
+**Applied AI in Accounting**
+
+- <span class="role-tag paper-working">Working Paper</span> Recovering Accounting Judgment with AI: Textual and Non-Textual Experiments
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-accounting-judgment-ai" onclick="toggleAbstract('accounting-judgment-ai', 'link-accounting-judgment-ai')">[show abstract]</a>
+  <div id="accounting-judgment-ai" class="abstract-box">
+    <p>Prior research shows that financial-statement presentation affects how users process and weight accounting information. However, artificial intelligence (AI) may not respond to presentation in the same way as human users, even when it receives the same underlying accounting information. This paper develops an empirical approach to examine whether AI recovers established human treatment effects from experimental accounting research. Using an exhaustive sample of published standard-setting experiments in leading accounting journals from 1995 through 2025, the analysis compares AI treatment effects with reported human responses and distinguishes textual from presentation-based manipulations. AI recovers human treatment effects less consistently when the manipulation depends on financial-statement presentation than when it is conveyed primarily through text. Further tests distinguish representation, processing, and judgment explanations for this difference. The evidence is most consistent with judgment differences: AI generally identifies and processes the relevant accounting information correctly but does not give presentation the same influence on judgment as human users. These findings suggest that AI can recover the underlying accounting facts without reproducing how presentation affects human decisions, limiting its use as a proxy for financial-statement users.</p>
+  </div>
+
+**Law and Economics**
 
 <!-- - AI Agents and Accounting Standards Experiments (Thesis)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-thesis" onclick="toggleAbstract('abs-thesis', 'link-abs-thesis')">[show abstract]</a>
@@ -243,16 +251,6 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
   </div> -->
 
 **Accounting Education**
-
-**Applied AI in Accounting**
-
-- <span class="role-tag paper-working">Working Paper</span> Recovering Accounting Judgment with AI: Textual and Non-Textual Experiments
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-accounting-judgment-ai" onclick="toggleAbstract('accounting-judgment-ai', 'link-accounting-judgment-ai')">[show abstract]</a>
-  <div id="accounting-judgment-ai" class="abstract-box">
-    <p>Prior research shows that financial-statement presentation affects how users process and weight accounting information. However, artificial intelligence (AI) may not respond to presentation in the same way as human users, even when it receives the same underlying accounting information. This paper develops an empirical approach to examine whether AI recovers established human treatment effects from experimental accounting research. Using an exhaustive sample of published standard-setting experiments in leading accounting journals from 1995 through 2025, the analysis compares AI treatment effects with reported human responses and distinguishes textual from presentation-based manipulations. AI recovers human treatment effects less consistently when the manipulation depends on financial-statement presentation than when it is conveyed primarily through text. Further tests distinguish representation, processing, and judgment explanations for this difference. The evidence is most consistent with judgment differences: AI generally identifies and processes the relevant accounting information correctly but does not give presentation the same influence on judgment as human users. These findings suggest that AI can recover the underlying accounting facts without reproducing how presentation affects human decisions, limiting its use as a proxy for financial-statement users.</p>
-  </div>
-
-**Teaching Cases**
 
 - <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit
   - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, Shantel Deleon (EY LLC)

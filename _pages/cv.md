@@ -133,7 +133,7 @@ redirect_from:
   <summary>CV</summary>
   <div class="cv-section__content">
     <div class="cv-download">
-      <a href="{{ site.baseurl }}/files/cv.docx" class="btn btn--primary">Download my CV</a>
+      <a href="{{ site.baseurl }}/files/cv/cv.docx" class="btn btn--primary">Download my CV</a>
       <span class="cv-updated">Last updated: {{ site.time | date: "%B %d, %Y" }}</span>
     </div>
   </div>
@@ -143,6 +143,11 @@ redirect_from:
   <summary>Photos</summary>
   <div class="cv-section__content">
     <div class="photo-gallery">
+  <figure class="photo-card">
+    <img src="{{ site.baseurl }}/files/photos/meg-photo-square.jpg" alt="Presentation at the Midwest Econometrics Group at the University of Cincinnati" width="1000" height="1000" loading="lazy">
+    <figcaption>Presentation at Midwest Econometrics Group at University of Cincinnati, October 2026.</figcaption>
+  </figure>
+
   <figure class="photo-card">
     <img src="{{ site.baseurl }}/files/photos/sovereign-ai-photo-square.jpg" alt="Workshop organizers at Virginia Tech for the Sovereign AI workshop" width="1000" height="1000" loading="lazy">
     <figcaption>Conference Presentation at Sovereign AI Workshop at Virginia Tech, September 2026.</figcaption>

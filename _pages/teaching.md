@@ -69,11 +69,11 @@ body.dark-mode .teaching-section[open] > summary {
   - Instructor Rating: NA
 - ACC 3202 Accounting Information Systems and Data Analytics - Fall 2026
   - Instructor Rating: NA
-- ACC 3202 Accounting Information Systems and Data Analytics - Summer 2026 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-summer-2026.pdf)
+- ACC 3202 Accounting Information Systems and Data Analytics - Summer 2026 [Download Syllabus]({{ site.baseurl }}/files/teaching/acc3202-syllabus-summer-2026.pdf)
   - Instructor Rating: Excellent
-- ACC 3202 Accounting Information Systems and Data Analytics - Spring 2026 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-spring-2026.pdf)
+- ACC 3202 Accounting Information Systems and Data Analytics - Spring 2026 [Download Syllabus]({{ site.baseurl }}/files/teaching/acc3202-syllabus-spring-2026.pdf)
   - Instructor Rating: Excellent
-- ACC 3202 Accounting Information Systems and Data Analytics - Fall 2025 [Download Syllabus]({{ site.baseurl }}/files/acc3202-syllabus-fall-2025.pdf)
+- ACC 3202 Accounting Information Systems and Data Analytics - Fall 2025 [Download Syllabus]({{ site.baseurl }}/files/teaching/acc3202-syllabus-fall-2025.pdf)
   - Instructor Rating: Excellent
 - ACC 2203 Cost Accounting - Spring 2025
   - Instructor Rating: Excellent
@@ -126,7 +126,7 @@ body.dark-mode .teaching-section[open] > summary {
 
   **ACC3202 (Accounting Information Systems and Data Analytics @ Baruch College)**
   - Lecture Notes - Hunter Ng © {{ site.time | date: "%Y" }}
-    - [Download Notes]({{ site.baseurl }}/files/lecture-notes.pdf)
+    - [Download Notes]({{ site.baseurl }}/files/teaching/lecture-notes.pdf)
 
   - Introduction to AIS MOOC ACC2203 - Hunter Ng © {{ site.time | date: "%Y" }}
     - This website introduces to students basic AIS using a talking avatar and points from my introduction to the syllabus.

@@ -11,27 +11,34 @@ redirect_from:
 
 {% include base_path %}
 
-## Author's Note
-I wrote a Singaporean novel during the Covid pandemic as I was about to begin my life overseas and feared losing the precious memories I had of Upper Serangoon Shopping Centre, a quaint old shopping mall which I had grown up in. I would remember running like a wild monkey up and down the escalators in the building, playing catching with the children of the other tenants. The memories are fading but poignant. I want to present these true memories in a way that would be easy for the reader and in a uniquely Singaporean manner. As such, I chose a thriller novel as the genre. About 95% of the incidents in the book are true and it would be like a glimpse into the past of the shopping centers in Singapore. I didn't do much publicizing of the book when I wrote it and self-published but I hope that the book continues to carry on these forgotten stories of what truly happened in old malls in Singapore. Thank you.
-
 ![As Coarse As Emporium book cover]({{ site.baseurl }}/files/books/bookcover.JPG)
 
-**As Coarse As Emporium** is a Singaporean noir thriller novel about **ten-year-old Bee**, who grows up inside a Singapore shopping mall known as **The Emporium**.
+**As Coarse As Emporium** is a Singaporean noir thriller about memory, childhood, and the hidden life of an old neighborhood shopping mall.
 
 ## Summary
-In a Singapore shopping mall known only as The Emporium, ten-year-old Bee finds himself dealing with many weird and strange tenants. From a mysterious shop selling illegal gameboy cartridges to the disappearance of a Four-Faced Buddha Statue, Bee witnesses these incidents and must make sense of them. Together with helen, his adoptive mother, who works in a salon to make ends meet, Bee matures quickly to handle what The Emporium throws at him. However, can the duo take on the odds in this building? Or will they burn their hands playing with fire? Join them in this uniquely Singaporean noir thriller.
+
+Set in a Singapore shopping mall known only as **The Emporium**, the novel follows **ten-year-old Bee** as he grows up among shopkeepers, tenants, and rumors that blur the line between ordinary life and danger. From a mysterious shop selling illegal Game Boy cartridges to the disappearance of a Four-Faced Buddha statue, Bee is drawn into the secrets of the building and the people who inhabit it.
+
+Together with **Helen**, his adoptive mother who works in a salon to make ends meet, Bee learns to navigate a world that is comic, unsettling, and unmistakably Singaporean. As the incidents around The Emporium become harder to ignore, both mother and child must decide how far they are willing to go to survive inside a place that feels at once like home and a trap.
 
 ## Author's Note
-I wrote this novel during the Covid pandemic as I was about to begin my life overseas and feared losing the precious memories I had of Upper Serangoon Shopping Centre, which I had grown up in. I would remember running like a wild monkey up and down the escalators in the building, playing catching with the children of the other tenants. The memories are fading but poignant. I want to present these true memories in a way that would be easy for the reader and in a uniquely Singaporean manner. As such, I chose a thriller novel as the genre. About 95% of the incidents in the book are true and it would be like a glimpse into the past of the shopping centers in Singapore, in particular, Upper Serangoon Shopping Center. I didn't do much publicizing of the book when I wrote it and self-published but I hope that the book continues to carry on these forgotten stories of what truly happened in old malls in Singapore. Thank you.
+
+I wrote this novel during the Covid-19 pandemic, shortly before beginning my life overseas. At the time, I found myself thinking often about Upper Serangoon Shopping Centre, the old mall where I had spent much of my childhood. I remembered running up and down the escalators, playing with the children of other tenants, and absorbing the small dramas, rumors, and routines that made the building feel like a world of its own.
+
+Although the novel is fictionalized, many of its incidents are drawn from real memories and stories associated with old shopping centers in Singapore. I chose the form of a noir thriller because it allowed me to preserve those memories in a vivid and accessible way, while still capturing the strangeness, humor, and danger that can exist inside familiar places. My hope is that the book helps carry forward a record of a vanishing part of Singapore's neighborhood mall culture.
 
 ## Read
-- [Download Book (pdf)]({{ site.baseurl }}/files/books/ASCOARSEASEMPORIUM_HUNTERNG.pdf)
-- [Download Book (epub)]({{ site.baseurl }}/files/books/ascoarseasemporium.epub)
 
-## Purchase Hard-copy
-- $10 SGD - Self-collect at Upper Serangoon Shopping Center, #04-15, Singapore Daily 9am to 3.30pm (Excluding Mon and Wed)
-- For Deliveries within Singapore, Please Whatsapp +6591832179
-- International Deliveries are not available at the moment
+- [Download PDF]({{ site.baseurl }}/files/books/ASCOARSEASEMPORIUM_HUNTERNG.pdf)
+- [Download EPUB]({{ site.baseurl }}/files/books/ascoarseasemporium.epub)
+
+## Print Copies
+
+- S$10 per copy
+- Self-collection is available at Upper Serangoon Shopping Centre, #04-15, Singapore, daily from 9:00 a.m. to 3:30 p.m. (excluding Mondays and Wednesdays)
+- For delivery within Singapore, please WhatsApp +65 9183 2179
+- International delivery is currently unavailable
 
 ## Borrowing
+
 - Available at National Library Board Singapore

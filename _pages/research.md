@@ -210,7 +210,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     <p>This paper studies whether the value of expert testimony lies primarily in its informational content or in the institutional role of the expert witness. Using federal district court <em>Daubert</em> rulings in copyright cases, we show that admissibility is not determined by methodology alone, but also by institutional considerations. We develop a model to ground this intuition and to show how AI can compress differences in methodological production while making institutional signals more important for judicial evaluation. Empirically, we then compare observed expert packages to AI-generated packages from neutralized case descriptions and find that AI reproduces much of the methodology and topic coverage of retained experts, while systematically proposing broader and more credentialed expert designs. AI-generated packages are closest to experts whose testimony is admitted and furthest from those whose testimony is excluded. The results show that methodology is increasingly reproducible, but institutional features of the expert still matter for admissibility.</p>
     <p>Conferences and Presentations</p>
     <ul>
-      <li><a href="https://sovereignai-workshop.github.io/#overview">The First Workshop on Sovereign AI for Collaborative and Pluralistic AI Ecosystems, HCOMP 2026</a> - <a href="{{ site.baseurl }}/files/sovereign-ai-invitation.png">Download Invitation</a> - <a href="{{ site.baseurl }}/files/sovereign-ai-workshop-schedule.pdf">Download Schedule</a> - <a href="{{ site.baseurl }}/files/sovereign-ai-slides.pdf">Download Slides</a></li>
+      <li><a href="https://sovereignai-workshop.github.io/#overview">The First Workshop on Sovereign AI for Collaborative and Pluralistic AI Ecosystems, HCOMP 2026</a> - <a href="{{ site.baseurl }}/files/conferences/sovereign-ai-invitation.png">Download Invitation</a> - <a href="{{ site.baseurl }}/files/conferences/sovereign-ai-workshop-schedule.pdf">Download Schedule</a> - <a href="{{ site.baseurl }}/files/conferences/sovereign-ai-slides.pdf">Download Slides</a></li>
     </ul>
   </div>
 
@@ -224,7 +224,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
     <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331995">Download Paper</a></p>
     <p>Conferences and Presentations</p>
     <ul>
-      <li><strong><a href="https://wp.lancs.ac.uk/ffmm2026/">3rd Financial Fraud, Misconduct and Market Manipulation Conference 2026</a></strong> - <a href="{{ site.baseurl }}/files/FFMM2026-Programme-v3.pdf">Download Agenda</a> - <a href="{{ site.baseurl }}/files/ff-slides_v20260905.pdf">Download PPTX</a></li>
+      <li><strong><a href="https://wp.lancs.ac.uk/ffmm2026/">3rd Financial Fraud, Misconduct and Market Manipulation Conference 2026</a></strong> - <a href="{{ site.baseurl }}/files/conferences/FFMM2026-Programme-v3.pdf">Download Agenda</a> - <a href="{{ site.baseurl }}/files/conferences/ff-slides_v20260905.pdf">Download PPTX</a></li>
       <li>Finance Seminar, Baruch College, June 2025</li>
       <li>Finance Seminar, The Hong Kong Polytechnic University, October 2025</li>
     </ul>
@@ -269,12 +269,12 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 
 **Econometrics**
 
-- <span class="role-tag paper-working">Working Paper</span> Vine Copula VAR
+- <span class="role-tag paper-working">Working Paper</span> Vine Copula VAR: From Recursive Margins to Joint Forecast Inference
+  - Coauthors: <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-vcvar" onclick="toggleAbstract('abs-vcvar', 'link-abs-vcvar')">[show abstract]</a>
   <div id="abs-vcvar" class="abstract-box">
     <p>This paper introduces a scalable and order-invariant framework for modeling high-dimensional macro-financial dynamics. We develop a Time-Varying Parameter VAR with Vine Copula Dependence (VCVAR), which couples a lightweight TVP backbone with a flexible copula representation of cross-sectional dependence. The approach separates marginal dynamics from joint dependence, allowing the model to capture structural drift together with asymmetric, nonlinear, and tail-dependent co-movements that standard Gaussian or Cholesky-based VARs cannot represent. Despite this flexibility, the VCVAR remains computationally tractable through discounted recursive estimation and simplified vine construction. Applications to empirical macroeconomic data and controlled simulation designs show that the VCVAR offers consistent improvements in medium- and long-horizon forecasting, demonstrating the value of combining time variation with non-Gaussian dependence in large systems.</p>
-    <p><a href="{{ site.baseurl }}/files/vinecopulavar.pdf">Download Paper</a></p>
-    <p><a href="https://github.com/hunternbh/vinecopulavar">Code for Python Package</a></p>
+    <p><a href="https://drive.google.com/file/d/1II1D8fBJrgDYes-beBlTT-64qZ2pjnmY/view">Download Paper</a></p>
   </div>
 
 <!-- - Beyond Words: The Differential Impact of Fed Chairs' Facial Expressions on Financial Markets
@@ -317,26 +317,27 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 <summary>Conferences and Presentations</summary>
 <div class="research-section__content" markdown="1">
 
-- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> Midwest Econometrics Group (MEG) Annual Meeting - [Download Invitation]({{ site.baseurl }}/files/meg-invitation.png) - [Download Schedule]({{ site.baseurl }}/files/MEG-2026-schedule.pdf) - [Download Slides]({{ site.baseurl }}/files/vine_copula_var_full.pdf)
-- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> [The First Workshop on Sovereign AI for Collaborative and Pluralistic AI Ecosystems, HCOMP 2026](https://sovereignai-workshop.github.io/#overview) - [Download Invitation]({{ site.baseurl }}/files/sovereign-ai-invitation.png) - [Download Schedule]({{ site.baseurl }}/files/sovereign-ai-workshop-schedule.pdf) - [Download Slides]({{ site.baseurl }}/files/sovereign-ai-slides.pdf)
-- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> [**3rd Financial Fraud, Misconduct and Market Manipulation Conference 2026**](https://wp.lancs.ac.uk/ffmm2026/) - [Download Schedule]({{ site.baseurl }}/files/FFMM2026-Programme-v3.pdf) - [Download PPTX]({{ site.baseurl }}/files/ff-slides_v20260905.pdf)
-- <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> AAA Global Connect Annual Meeting - [Download Participant List]({{ site.baseurl }}/files/aaa-participants-2026.pdf)
-- <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> Baruch Workshop on AI in Finance and Accounting <a href="{{ site.baseurl }}/files/baruck-ai-finance-workshop-2026.pdf">Download Agenda</a>
-- <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> The 24th Annual Financial Reporting Conference <a href="{{ site.baseurl }}/files/baruch-24-annual-financial-reporting-conference.pdf">Download Agenda</a>
-- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> AAA/Deloitte/Michael Cook Doctoral Consortium <a href="{{ site.baseurl }}/files/2026-michael-cook-consortium.png">Download Agenda</a>
-  - [Download PPTX]({{ site.baseurl }}/files/hunter-dc.pptx) - [Download PDF]({{ site.baseurl }}/files/hunter-dc.pdf)
+- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> Midwest Econometrics Group (MEG) Annual Meeting - [Download Invitation]({{ site.baseurl }}/files/conferences/meg-invitation.png) - [Download Schedule]({{ site.baseurl }}/files/conferences/MEG-2026-schedule.pdf) - [Download Slides]({{ site.baseurl }}/files/conferences/vine_copula_var_full.pdf)
+- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> 17th Annual Pre-ICIS Workshop on Accounting Information Systems (SIG ASYS), Lisbon Congress Centre (Centro de Congressos de Lisboa), Lisbon, Portugal, December 12, 2026 - [Download Invitation]({{ site.baseurl }}/files/conferences/sig-asys-invitation.png)
+- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> [The First Workshop on Sovereign AI for Collaborative and Pluralistic AI Ecosystems, HCOMP 2026](https://sovereignai-workshop.github.io/#overview) - [Download Invitation]({{ site.baseurl }}/files/conferences/sovereign-ai-invitation.png) - [Download Schedule]({{ site.baseurl }}/files/conferences/sovereign-ai-workshop-schedule.pdf) - [Download Slides]({{ site.baseurl }}/files/conferences/sovereign-ai-slides.pdf)
+- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> [**3rd Financial Fraud, Misconduct and Market Manipulation Conference 2026**](https://wp.lancs.ac.uk/ffmm2026/) - [Download Schedule]({{ site.baseurl }}/files/conferences/FFMM2026-Programme-v3.pdf) - [Download PPTX]({{ site.baseurl }}/files/conferences/ff-slides_v20260905.pdf)
+- <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> AAA Global Connect Annual Meeting - [Download Participant List]({{ site.baseurl }}/files/conferences/aaa-participants-2026.pdf)
+- <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> Baruch Workshop on AI in Finance and Accounting <a href="{{ site.baseurl }}/files/conferences/baruck-ai-finance-workshop-2026.pdf">Download Agenda</a>
+- <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> The 24th Annual Financial Reporting Conference <a href="{{ site.baseurl }}/files/conferences/baruch-24-annual-financial-reporting-conference.pdf">Download Agenda</a>
+- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> AAA/Deloitte/Michael Cook Doctoral Consortium <a href="{{ site.baseurl }}/files/conferences/2026-michael-cook-consortium.png">Download Agenda</a>
+  - [Download PPTX]({{ site.baseurl }}/files/conferences/hunter-dc.pptx) - [Download PDF]({{ site.baseurl }}/files/conferences/hunter-dc.pdf)
 - <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2026</span> Four-School Conference (Baruch, Fordham, Rutgers, UConn)
 - <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2025</span> AES Baruch Accounting Theory Summer School
   - Taught by Ivan Marinovic, Jon Glover, Jeremy Bertomeu
 - <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2025</span> Hawaii Doctoral Institute Summer
   - Taught by Hans Christensen, Brian White, Joe Schroeder, Jennifer Blouin
-  - Gave presentations in class on selected papers - [Download Certificate]({{ site.baseurl }}/files/HARDI.pdf) - [Download Schroeder PPT]({{ site.baseurl }}/files/hardi_2025_presentation.pdf) - [Download Blouin PPT]({{ site.baseurl }}/files/hardi_blouin.pdf) - [Download White PPT]({{ site.baseurl }}/files/white_ppt.pdf) - [Download Christensen PPT]({{ site.baseurl }}/files/christensen_ppt.pdf)
+  - Gave presentations in class on selected papers - [Download Certificate]({{ site.baseurl }}/files/conferences/HARDI.pdf) - [Download Schroeder PPT]({{ site.baseurl }}/files/conferences/hardi_2025_presentation.pdf) - [Download Blouin PPT]({{ site.baseurl }}/files/conferences/hardi_blouin.pdf) - [Download White PPT]({{ site.baseurl }}/files/conferences/white_ppt.pdf) - [Download Christensen PPT]({{ site.baseurl }}/files/conferences/christensen_ppt.pdf)
 - <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2025</span> Baruch-SWUFE Research Symposium
-  - [Download Agenda]({{ site.baseurl }}/files/2025 Baruch-SWUFE Research Symposium Agenda.pdf)
+  - [Download Agenda]({{ site.baseurl }}/files/conferences/2025 Baruch-SWUFE Research Symposium Agenda.pdf)
 - <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2025</span> Baruch PhD Research Day in Finance
-  - [Download Agenda]({{ site.baseurl }}/files/2025 Baruch PhD Research Day in Finance V3.pdf)
+  - [Download Agenda]({{ site.baseurl }}/files/conferences/2025 Baruch PhD Research Day in Finance V3.pdf)
 - <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2025</span> Finance Brownbag
-  - [Download Agenda]({{ site.baseurl }}/files/2025-finance-brownbag.PNG)
+  - [Download Agenda]({{ site.baseurl }}/files/conferences/2025-finance-brownbag.PNG)
 - <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2025</span> Baruch/JFQA Climate Finance Conference
 - <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2025</span> Baruch-Fordham-Rutgers Trischool Conference
 - <span class="role-tag role-participant">Participant</span><span class="role-tag year-tag">2024</span> The Chinese Finance Association TCFA 30th Annual Conference

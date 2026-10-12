@@ -356,6 +356,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 - [Yen Tong](https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee) (Nanyang Technological University)
 - [Diana Weng](https://www.usf.edu/business/about/bios/weng-diana.aspx) (University of South Florida)
 - [Lin Peng](https://zicklin.baruch.cuny.edu/faculty-profile/lin-peng/) (Baruch College)
+- [Lun-Wei Ku](https://homepage.iis.sinica.edu.tw/pages/lwku/vita_en.html) (Academia Sinica)
 - [Svenja Dube](https://www.baruch.cuny.edu/profiles/faculty/Svenja-Dube) (Baruch College)
 
 </div>

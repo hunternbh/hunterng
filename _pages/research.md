@@ -368,7 +368,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 
 - 2027 AAA Auditing Section Midyear Meeting Reviewer <span class="role-tag paper-working">Artificial Intelligence Experiment</span>
 - 2027 Reviewer for Joint Midyear Meeting of the AIS and SET Sections <span class="role-tag paper-working">Teaching Case</span>
-- 2027 Reviewer for 2027 FARS Accounting Conference <span class="role-tag paper-working">Cybersecurity Disclosures</span><span class="role-tag paper-working">AI and Pricing of Earnings</span><span class="role-tag paper-working">Mutual Fund Disclosure</span>
+- 2027 Reviewer for 2027 FARS Accounting Conference <span class="role-tag paper-working">Cybersecurity Disclosures</span><span class="role-tag paper-working">Innovation Protection</span><span class="role-tag paper-working">AI and Pricing of Earnings</span><span class="role-tag paper-working">Mutual Fund Disclosure</span>
 - 2026 Reviewer for Cogent <span class="role-tag paper-working">Prediction Markets</span>
 - 2026 Reviewer for Journal of International Financial Markets, Institutions & Money <span class="role-tag paper-working">Prediction Markets</span>
 - 2025 Reviewer for Cogent <span class="role-tag paper-working">Prediction Markets</span>

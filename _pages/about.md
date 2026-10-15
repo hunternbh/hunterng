@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am both a full-stack developer and an accountant by training. I graduated with two 1st Class Honours Degrees in Accountancy and Business Analytics from Nanyang Technological University, Singapore and a MBA from Baruch College. I have a Graduate Certificate in Technopreneurship and Innovation from Nanyang Technological University.
+I am both a full-stack developer and an accountant by training.
+
+I graduated with two 1st Class Honours Degrees in Accountancy and Business Analytics from Nanyang Technological University, Singapore and a MBA from Baruch College.
 
 I previously worked in Fujitsu's cloud computing department, Tokyo Japan and Singapore's Central Bank's (MAS) fintech division on Project Ubin, distributed ledgers and a stablecoin used for market clearing with the central bank under [Toh Wee Kee](https://daweek.org/speaker/wee-kee-toh/). I also worked in KPMG Singapore's Digital Trust Department on projects involving IT security audits. 
 
-In 2021, I set up my own floral boutique school in Singapore. I have also incorporated my own sole-proprietor publish a noir-thriller novel that is listed for borrowing in public libraries in Singapore.
+In 2021, I set up my own floral boutique school in Singapore. I incorporated a sole-proprietor firm to publish a noir-thriller novel that is listed for borrowing in public libraries in Singapore.
 
 I have sat on the executive committee board of a SGD$800 million private shopping mall in Singapore together with [Lawrence Leow](https://www.sgengrs.com/our-team) from Crescendas Group.
 

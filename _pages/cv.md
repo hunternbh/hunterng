@@ -144,6 +144,11 @@ redirect_from:
   <div class="cv-section__content">
     <div class="photo-gallery">
   <figure class="photo-card">
+    <img src="{{ site.baseurl }}/files/photos/baruch-ey-alumni-acc3202.jpeg" alt="Invitation of Baruch EY Alumni to ACC3202 to talk to students" width="1000" height="1000" loading="lazy">
+    <figcaption>Invitation of Baruch EY Alumni to ACC3202 to talk to students</figcaption>
+  </figure>
+
+  <figure class="photo-card">
     <img src="{{ site.baseurl }}/files/photos/meg-photo-square.jpg" alt="Presentation at the Midwest Econometrics Group at the University of Cincinnati" width="1000" height="1000" loading="lazy">
     <figcaption>Presentation at Midwest Econometrics Group at University of Cincinnati, October 2026.</figcaption>
   </figure>

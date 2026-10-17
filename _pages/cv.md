@@ -145,7 +145,7 @@ redirect_from:
     <div class="photo-gallery">
   <figure class="photo-card">
     <img src="{{ site.baseurl }}/files/photos/baruch-ey-alumni-acc3202.jpeg" alt="Invitation of Baruch EY Alumni to ACC3202 to talk to students" width="1000" height="1000" loading="lazy">
-    <figcaption>Invitation of Baruch EY Alumni to ACC3202 to talk to students</figcaption>
+    <figcaption>Invitation of Baruch EY Alumni to ACC3202 to talk to students, October 2026.</figcaption>
   </figure>
 
   <figure class="photo-card">

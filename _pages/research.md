@@ -10,6 +10,87 @@ redirect_from:
 {% include base_path %}
 
 <style>
+.research-areas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.25rem 0 1.4rem;
+}
+
+.research-area {
+  display: inline-block;
+  max-width: 100%;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid var(--area-border);
+  border-radius: 999px;
+  color: var(--area-text);
+  background: var(--area-background);
+  font-size: 0.8em;
+  font-weight: 600;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.research-area--ai {
+  --area-text: #4338ca;
+  --area-background: #eef2ff;
+  --area-border: #c7d2fe;
+  --area-dark-text: #c7d2fe;
+  --area-dark-background: #25234b;
+  --area-dark-border: #59559a;
+}
+
+.research-area--trust {
+  --area-text: #115e59;
+  --area-background: #f0fdfa;
+  --area-border: #99f6e4;
+  --area-dark-text: #99f6e4;
+  --area-dark-background: #153c38;
+  --area-dark-border: #39796d;
+}
+
+.research-area--escrows {
+  --area-text: #6b21a8;
+  --area-background: #faf5ff;
+  --area-border: #e9d5ff;
+  --area-dark-text: #e9d5ff;
+  --area-dark-background: #382344;
+  --area-dark-border: #805397;
+}
+
+.research-area--markets {
+  --area-text: #075985;
+  --area-background: #f0f9ff;
+  --area-border: #bae6fd;
+  --area-dark-text: #bae6fd;
+  --area-dark-background: #19364a;
+  --area-dark-border: #416c8a;
+}
+
+.research-area--assets {
+  --area-text: #92400e;
+  --area-background: #fffbeb;
+  --area-border: #fde68a;
+  --area-dark-text: #fde68a;
+  --area-dark-background: #443416;
+  --area-dark-border: #8b7134;
+}
+
+.research-area--economics {
+  --area-text: #9f1239;
+  --area-background: #fff1f2;
+  --area-border: #fecdd3;
+  --area-dark-text: #fecdd3;
+  --area-dark-background: #472530;
+  --area-dark-border: #945468;
+}
+
+body.dark-mode .research-area {
+  color: var(--area-dark-text);
+  background: var(--area-dark-background);
+  border-color: var(--area-dark-border);
+}
+
 .abstract-toggle {
   margin-left: 0.4rem;
   font-size: 0.95em;
@@ -180,7 +261,15 @@ body.dark-mode .paper-irb {
 }
 </style>
 
-Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Escrows, Prediction Markets, Digital Assets/Distributed Ledgers
+<p><strong>Research Areas</strong></p>
+<div class="research-areas">
+  <span class="research-area research-area--ai">Agentic AI/Small Language Models</span>
+  <span class="research-area research-area--trust">Information Systems Trust</span>
+  <span class="research-area research-area--escrows">Escrows</span>
+  <span class="research-area research-area--markets">Prediction Markets</span>
+  <span class="research-area research-area--assets">Digital Assets/Distributed Ledgers</span>
+  <span class="research-area research-area--economics">Applied Economics</span>
+</div>
 
 <details class="research-section">
 <summary>Papers</summary>
@@ -204,8 +293,9 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
   </div> -->
 
 - <span class="role-tag paper-working">Working Paper</span> Information or Institution? AI's role in Expert Testimony
-  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
+  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
+  - Presentations: <a href="https://sovereignai-workshop.github.io/#overview">Sovereign AI / HCOMP 2026</a>
   <div id="abs-daubert" class="abstract-box">
     <p>This paper studies whether the value of expert testimony lies primarily in its informational content or in the institutional role of the expert witness. Using federal district court <em>Daubert</em> rulings in copyright cases, we show that admissibility is not determined by methodology alone, but also by institutional considerations. We develop a model to ground this intuition and to show how AI can compress differences in methodological production while making institutional signals more important for judicial evaluation. Empirically, we then compare observed expert packages to AI-generated packages from neutralized case descriptions and find that AI reproduces much of the methodology and topic coverage of retained experts, while systematically proposing broader and more credentialed expert designs. AI-generated packages are closest to experts whose testimony is admitted and furthest from those whose testimony is excluded. The results show that methodology is increasingly reproducible, but institutional features of the expert still matter for admissibility.</p>
     <p>Conferences and Presentations</p>
@@ -217,8 +307,9 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 **Digital Assets**
 
 - <span class="role-tag paper-working">Working Paper</span> Price Discovery and Trading in Prediction Markets
-  - Coauthors: <a href="https://sites.google.com/site/linpengbaruch/home">Lin Peng</a>, <a href="https://dzfinance.notion.site/">Dexin Zhou</a>, <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-prediction" onclick="toggleAbstract('abs-prediction', 'link-abs-prediction')">[show abstract]</a>
+  - Coauthors: <a href="https://sites.google.com/site/linpengbaruch/home">Lin Peng</a>, <a href="https://dzfinance.notion.site/">Dexin Zhou</a>, <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
+  - Presentations: <a href="https://wp.lancs.ac.uk/ffmm2026/">FFMM 2026</a>; Baruch Finance 2025; Hong Kong PolyU Finance 2025
   <div id="abs-prediction" class="abstract-box">
     <p>This study investigates price discovery and trading across major prediction markets in the days leading up to the 2024 U.S. presidential election, using novel self-assembled data. We document that the prices in these markets strongly lead election polls, reflecting their informativeness. Polymarket, with higher liquidity, plays a dominant role in price discovery, particularly during periods of heightened liquidity and trading activity. Furthermore, order imbalances from "whale" trades, defined as the top one percent of trade size in our setting, are highly predictive of future returns. There are also significant and persistent crossplatform price disparities, giving rise to profitable cross-platform arbitrage opportunities. These results highlight the economic significance of prediction markets in aggregating information and emphasize the importance of trading activity in shaping market outcomes.</p>
     <p><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EtIbnu4AAAAJ&citation_for_view=EtIbnu4AAAAJ:YsMSGLbcyi4C">Download Paper</a></p>
@@ -232,6 +323,7 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 
 - <span class="role-tag paper-working">Working Paper</span> Outsourced Cryptocurrency Wash Trading
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-washtrading" onclick="toggleAbstract('abs-washtrading', 'link-abs-washtrading')">[show abstract]</a>
+  - Presentations: Baruch–SWUFE Symposium 2025
   <div id="abs-washtrading" class="abstract-box">
     <p>I show that outsourced cryptocurrency wash trading is shaped by the objective assigned to the outside firm. When hired to manufacture volume, wash traders buy and sell nearly equal amounts, repeatedly turning over the same inventory. When also tasked with selling issuer holdings, trading becomes markedly more one-sided, with sales exceeding purchases. Using documented enforcement cases and transaction records, I trace these differences in net selling, two-way trading, and inventory replenishment across controlled wallets. The results show that similar reported trading volume can mask fundamentally different economic activity as contractual objectives shape whether manipulation recycles inventory or liquidates issuer holdings.</p>
     <p><a href="{{ site.baseurl }}/files/washtrading.pdf">Download Paper</a></p>
@@ -253,8 +345,9 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 **Accounting Education**
 
 - <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit
-  - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, Shantel Deleon (EY LLC)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-ticketing-bot" onclick="toggleAbstract('ticketing-bot', 'link-ticketing-bot')">[show abstract]</a>
+  - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, Shantel Deleon (EY LLC)
+  - Upcoming presentation: Pre-ICIS SIG ASYS 2026
   <div id="ticketing-bot" class="abstract-box">
     <p>The verification of Information Technology (IT) controls is a core responsibility of IT auditors. This case places students in the role of IT auditors assigned to assess the effectiveness of controls over a sandboxed online ticketing system. Students first participate in limited ticket drops, inspect the website’s Document Object Model (DOM), and use AI-assisted coding to understand how automated purchasing can occur. Students then evaluate whether the system’s controls over purchase limits, transaction authorization, backend logging, exception reporting, and monitoring are effective. The case introduces students to technical skills such as browser inspection, basic automation logic, and AI-assisted coding while maintaining an internal-control focus. Students document their work through a DOM discovery worksheet, ticket-drop observation sheet, internal-control review matrix, and short reflection. The case is relevant to Accounting Information Systems (AIS), IT Audit, and Audit courses because it connects digital trust, automated transactions, IT controls, and AI-assisted technical fluency. Instructors may use the case at either the undergraduate or graduate level.</p>
   </div>
@@ -270,8 +363,9 @@ Research Areas: Agentic AI/Small Language Models, Information Systems Trust, Esc
 **Econometrics**
 
 - <span class="role-tag paper-working">Working Paper</span> Vine Copula VAR: From Recursive Margins to Joint Forecast Inference
-  - Coauthors: <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-vcvar" onclick="toggleAbstract('abs-vcvar', 'link-abs-vcvar')">[show abstract]</a>
+  - Coauthors: <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
+  - Presentations: MEG 2026
   <div id="abs-vcvar" class="abstract-box">
     <p>This paper introduces a scalable and order-invariant framework for modeling high-dimensional macro-financial dynamics. We develop a Time-Varying Parameter VAR with Vine Copula Dependence (VCVAR), which couples a lightweight TVP backbone with a flexible copula representation of cross-sectional dependence. The approach separates marginal dynamics from joint dependence, allowing the model to capture structural drift together with asymmetric, nonlinear, and tail-dependent co-movements that standard Gaussian or Cholesky-based VARs cannot represent. Despite this flexibility, the VCVAR remains computationally tractable through discounted recursive estimation and simplified vine construction. Applications to empirical macroeconomic data and controlled simulation designs show that the VCVAR offers consistent improvements in medium- and long-horizon forecasting, demonstrating the value of combining time variation with non-Gaussian dependence in large systems.</p>
     <p><a href="https://drive.google.com/file/d/1II1D8fBJrgDYes-beBlTT-64qZ2pjnmY/view">Download Paper</a></p>

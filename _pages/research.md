@@ -283,27 +283,6 @@ body.dark-mode .paper-irb {
     <p>Prior research shows that financial-statement presentation affects how users process and weight accounting information. However, artificial intelligence (AI) may not respond to presentation in the same way as human users, even when it receives the same underlying accounting information. This paper develops an empirical approach to examine whether AI recovers established human treatment effects from experimental accounting research. Using an exhaustive sample of published standard-setting experiments in leading accounting journals from 1995 through 2025, the analysis compares AI treatment effects with reported human responses and distinguishes textual from presentation-based manipulations. AI recovers human treatment effects less consistently when the manipulation depends on financial-statement presentation than when it is conveyed primarily through text. Further tests distinguish representation, processing, and judgment explanations for this difference. The evidence is most consistent with judgment differences: AI generally identifies and processes the relevant accounting information correctly but does not give presentation the same influence on judgment as human users. These findings suggest that AI can recover the underlying accounting facts without reproducing how presentation affects human decisions, limiting its use as a proxy for financial-statement users.</p>
   </div>
 
-**Law and Economics**
-
-<!-- - AI Agents and Accounting Standards Experiments (Thesis)
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-thesis" onclick="toggleAbstract('abs-thesis', 'link-abs-thesis')">[show abstract]</a>
-  <div id="abs-thesis" class="abstract-box">
-    <p>This study uses AI agents to replicatively re-run accounting experiments published on FASB accounting standards. The results show that AI agents consistently mitigate a high proportion of cognitive biases observed in human participants, regardless of expertise, across tasks in information processing, auditing, and management accounting. AI agents can also be configured to simulate specific biases, enabling controlled testing of behavioral assumptions. A comparison across old and new model generations reveals a clear shift from heuristic-driven to more consistent and rational decision-making. Additionally, AI agents can be used to identify design flaws in experiments and support cross-cultural replication at scale. Some prior experimental findings may also reflect design artifacts rather than genuine behavioral effects.</p>
-    <p>Conferences and Presentations</p>
-  </div> -->
-
-- <span class="role-tag paper-working">Working Paper</span> Information or Institution? AI's role in Expert Testimony
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
-  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
-  - Presentations: <a href="https://sovereignai-workshop.github.io/#overview">Sovereign AI / HCOMP 2026</a>
-  <div id="abs-daubert" class="abstract-box">
-    <p>This paper studies whether the value of expert testimony lies primarily in its informational content or in the institutional role of the expert witness. Using federal district court <em>Daubert</em> rulings in copyright cases, we show that admissibility is not determined by methodology alone, but also by institutional considerations. We develop a model to ground this intuition and to show how AI can compress differences in methodological production while making institutional signals more important for judicial evaluation. Empirically, we then compare observed expert packages to AI-generated packages from neutralized case descriptions and find that AI reproduces much of the methodology and topic coverage of retained experts, while systematically proposing broader and more credentialed expert designs. AI-generated packages are closest to experts whose testimony is admitted and furthest from those whose testimony is excluded. The results show that methodology is increasingly reproducible, but institutional features of the expert still matter for admissibility.</p>
-    <p>Conferences and Presentations</p>
-    <ul>
-      <li><a href="https://sovereignai-workshop.github.io/#overview">The First Workshop on Sovereign AI for Collaborative and Pluralistic AI Ecosystems, HCOMP 2026</a> - <a href="{{ site.baseurl }}/files/conferences/sovereign-ai-invitation.png">Download Invitation</a> - <a href="{{ site.baseurl }}/files/conferences/sovereign-ai-workshop-schedule.pdf">Download Schedule</a> - <a href="{{ site.baseurl }}/files/conferences/sovereign-ai-slides.pdf">Download Slides</a></li>
-    </ul>
-  </div>
-
 **Digital Assets**
 
 - <span class="role-tag paper-working">Working Paper</span> Price Discovery and Trading in Prediction Markets
@@ -330,6 +309,27 @@ body.dark-mode .paper-irb {
     <p>Conferences and Presentations</p>
     <ul>
       <li>The Annual Baruch College/CUNY Southwestern University of Finance and Economics (SWUFE) Research Symposium, Baruch College, May 2025</li>
+    </ul>
+  </div>
+
+**Law and Economics**
+
+<!-- - AI Agents and Accounting Standards Experiments (Thesis)
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-thesis" onclick="toggleAbstract('abs-thesis', 'link-abs-thesis')">[show abstract]</a>
+  <div id="abs-thesis" class="abstract-box">
+    <p>This study uses AI agents to replicatively re-run accounting experiments published on FASB accounting standards. The results show that AI agents consistently mitigate a high proportion of cognitive biases observed in human participants, regardless of expertise, across tasks in information processing, auditing, and management accounting. AI agents can also be configured to simulate specific biases, enabling controlled testing of behavioral assumptions. A comparison across old and new model generations reveals a clear shift from heuristic-driven to more consistent and rational decision-making. Additionally, AI agents can be used to identify design flaws in experiments and support cross-cultural replication at scale. Some prior experimental findings may also reflect design artifacts rather than genuine behavioral effects.</p>
+    <p>Conferences and Presentations</p>
+  </div> -->
+
+- <span class="role-tag paper-working">Working Paper</span> Information or Institution? AI's role in Expert Testimony
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
+  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
+  - Presentations: <a href="https://sovereignai-workshop.github.io/#overview">Sovereign AI / HCOMP 2026</a>
+  <div id="abs-daubert" class="abstract-box">
+    <p>This paper studies whether the value of expert testimony lies primarily in its informational content or in the institutional role of the expert witness. Using federal district court <em>Daubert</em> rulings in copyright cases, we show that admissibility is not determined by methodology alone, but also by institutional considerations. We develop a model to ground this intuition and to show how AI can compress differences in methodological production while making institutional signals more important for judicial evaluation. Empirically, we then compare observed expert packages to AI-generated packages from neutralized case descriptions and find that AI reproduces much of the methodology and topic coverage of retained experts, while systematically proposing broader and more credentialed expert designs. AI-generated packages are closest to experts whose testimony is admitted and furthest from those whose testimony is excluded. The results show that methodology is increasingly reproducible, but institutional features of the expert still matter for admissibility.</p>
+    <p>Conferences and Presentations</p>
+    <ul>
+      <li><a href="https://sovereignai-workshop.github.io/#overview">The First Workshop on Sovereign AI for Collaborative and Pluralistic AI Ecosystems, HCOMP 2026</a> - <a href="{{ site.baseurl }}/files/conferences/sovereign-ai-invitation.png">Download Invitation</a> - <a href="{{ site.baseurl }}/files/conferences/sovereign-ai-workshop-schedule.pdf">Download Schedule</a> - <a href="{{ site.baseurl }}/files/conferences/sovereign-ai-slides.pdf">Download Slides</a></li>
     </ul>
   </div>
 

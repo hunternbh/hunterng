@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a full-stack developer and an accountant by training. I enjoy building things, and my work has taken me from cloud computing and fintech to flowers and fiction.
+I am a full-stack developer and an accountant by training.
 
 I graduated with two First Class Honours degrees in Accountancy and Business Analytics from Nanyang Technological University, Singapore, and an MBA from Baruch College, CUNY.
 

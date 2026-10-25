@@ -460,15 +460,15 @@ body.dark-mode .paper-irb {
 <summary>Peer Reviews</summary>
 <div class="research-section__content" markdown="1">
 
-- 2027 AAA Auditing Section Midyear Meeting Reviewer (1x) <span class="role-tag paper-working">Artificial Intelligence Experiment</span>
-- 2027 Reviewer (1x) for Joint Midyear Meeting of the AIS and SET Sections <span class="role-tag paper-working">Teaching Case</span>
-- 2027 Reviewer (4x) for 2027 FARS Accounting Conference <span class="role-tag paper-working">Cybersecurity Disclosures</span><span class="role-tag paper-working">Innovation Protection</span><span class="role-tag paper-working">AI and Pricing of Earnings</span><span class="role-tag paper-working">Mutual Fund Disclosure</span>
-- 2026 Invited Reviewer for Journal of King Saud University Computer and Information Sciences <span class="role-tag paper-working">RAG / Financial Document QA</span>
-- 2026 Reviewer (1x) for Cogent <span class="role-tag paper-working">Prediction Markets</span>
-- 2026 Reviewer (1x) for Journal of International Financial Markets, Institutions & Money <span class="role-tag paper-working">Prediction Markets</span>
-- 2025 Reviewer (1x) for Cogent <span class="role-tag paper-working">Prediction Markets</span>
-- 2025 Reviewer (1x) for Journal of International Financial Markets, Institutions & Money <span class="role-tag paper-working">Prediction Markets</span>
-- 2023 Management Science Reproducibility Project (1x) <span class="role-tag paper-working">10-K Footnote Disclosure</span>
+- Reviewer (1x) for AAA Auditing Section Midyear Meeting (2027) <span class="role-tag paper-working">Artificial Intelligence Experiment</span>
+- Reviewer (1x) for Joint Midyear Meeting of the AIS and SET Sections (2027) <span class="role-tag paper-working">Teaching Case</span>
+- Reviewer (4x) for FARS Accounting Conference (2027) <span class="role-tag paper-working">Cybersecurity Disclosures</span><span class="role-tag paper-working">Innovation Protection</span><span class="role-tag paper-working">AI and Pricing of Earnings</span><span class="role-tag paper-working">Mutual Fund Disclosure</span>
+- Reviewer (1x) for Journal of King Saud University Computer and Information Sciences (2026; invited) <span class="role-tag paper-working">RAG / Financial Document QA</span>
+- Reviewer (1x) for Cogent (2026) <span class="role-tag paper-working">Prediction Markets</span>
+- Reviewer (1x) for Journal of International Financial Markets, Institutions & Money (2026) <span class="role-tag paper-working">Prediction Markets</span>
+- Reviewer (1x) for Cogent (2025) <span class="role-tag paper-working">Prediction Markets</span>
+- Reviewer (1x) for Journal of International Financial Markets, Institutions & Money (2025) <span class="role-tag paper-working">Prediction Markets</span>
+- Reviewer (1x) for Management Science Reproducibility Project (2023) <span class="role-tag paper-working">10-K Footnote Disclosure</span>
 
 </div>
 </details>

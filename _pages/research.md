@@ -32,15 +32,6 @@ redirect_from:
 }
 
 .research-area--accounting {
-  --area-text: #155e75;
-  --area-background: #ecfeff;
-  --area-border: #a5f3fc;
-  --area-dark-text: #a5f3fc;
-  --area-dark-background: #163942;
-  --area-dark-border: #427b89;
-}
-
-.research-area--ai {
   --area-text: #4338ca;
   --area-background: #eef2ff;
   --area-border: #c7d2fe;
@@ -49,6 +40,7 @@ redirect_from:
   --area-dark-border: #59559a;
 }
 
+.research-area--ai,
 .research-area--trust {
   --area-text: #115e59;
   --area-background: #f0fdfa;
@@ -58,16 +50,10 @@ redirect_from:
   --area-dark-border: #39796d;
 }
 
-.research-area--escrows {
-  --area-text: #6b21a8;
-  --area-background: #faf5ff;
-  --area-border: #e9d5ff;
-  --area-dark-text: #e9d5ff;
-  --area-dark-background: #382344;
-  --area-dark-border: #805397;
-}
-
-.research-area--markets {
+.research-area--escrows,
+.research-area--markets,
+.research-area--assets,
+.research-area--microstructure {
   --area-text: #075985;
   --area-background: #f0f9ff;
   --area-border: #bae6fd;
@@ -76,49 +62,15 @@ redirect_from:
   --area-dark-border: #416c8a;
 }
 
-.research-area--assets {
-  --area-text: #92400e;
-  --area-background: #fffbeb;
-  --area-border: #fde68a;
-  --area-dark-text: #fde68a;
-  --area-dark-background: #443416;
-  --area-dark-border: #8b7134;
-}
-
-.research-area--economics {
+.research-area--economics,
+.research-area--welfare,
+.research-area--econometrics {
   --area-text: #9f1239;
   --area-background: #fff1f2;
   --area-border: #fecdd3;
   --area-dark-text: #fecdd3;
   --area-dark-background: #472530;
   --area-dark-border: #945468;
-}
-
-.research-area--microstructure {
-  --area-text: #1e40af;
-  --area-background: #eff6ff;
-  --area-border: #bfdbfe;
-  --area-dark-text: #bfdbfe;
-  --area-dark-background: #1e3054;
-  --area-dark-border: #4d6f9e;
-}
-
-.research-area--welfare {
-  --area-text: #166534;
-  --area-background: #f0fdf4;
-  --area-border: #bbf7d0;
-  --area-dark-text: #bbf7d0;
-  --area-dark-background: #1b3b2a;
-  --area-dark-border: #4c8060;
-}
-
-.research-area--econometrics {
-  --area-text: #9a3412;
-  --area-background: #fff7ed;
-  --area-border: #fed7aa;
-  --area-dark-text: #fed7aa;
-  --area-dark-background: #452c20;
-  --area-dark-border: #996b4b;
 }
 
 body.dark-mode .research-area {
@@ -305,8 +257,8 @@ body.dark-mode .paper-irb {
   <span class="research-area research-area--escrows">Escrows</span>
   <span class="research-area research-area--markets">Prediction Markets</span>
   <span class="research-area research-area--assets">Digital Assets/Distributed Ledgers</span>
-  <span class="research-area research-area--economics">Applied Economics</span>
   <span class="research-area research-area--microstructure">Market Microstructure</span>
+  <span class="research-area research-area--economics">Applied Economics</span>
   <span class="research-area research-area--welfare">Welfare Economics</span>
   <span class="research-area research-area--econometrics">Econometric Theory</span>
 </div>

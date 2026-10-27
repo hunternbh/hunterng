@@ -372,6 +372,14 @@ body.dark-mode .paper-irb {
 
 **General Economics**
 
+- <span class="role-tag paper-working">Working Paper</span> U.S. most-favored-nation pricing and foreign drug funding
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-mfn" onclick="toggleAbstract('abs-mfn', 'link-abs-mfn')">[show abstract]</a>
+  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>, Yung-Cheng Lin
+  - [Download Slides]({{ site.baseurl }}/files/conferences/mfn-pricing-slides.pdf)
+  <div id="abs-mfn" class="abstract-box">
+    <p>We examine whether the May 2025 U.S. most-favored-nation pricing announcement was followed by changes in foreign public funding of medicines. International price discrimination theory predicts a tension where accepting lower foreign reimbursement prices under MFN expands sales abroad but risks reducing U.S. revenues, potentially delaying public-funding agreements for medicines with higher U.S. spending. We find that these medicines experienced a larger relative decline in new public-funding entries in potential reference markets. Using records from three OECD and three non-OECD markets, we compare documented funding entry before and after the announcement through May 2026. Among 361 medicines linked to earlier U.S. spending, balancing FDA approval age yields a larger relative OECD decline for higher-spending medicines of 0.261 entries per 100 medicines per month. This negative association persists across alternative weights and robustness tests.</p>
+  </div>
+
 - <span class="role-tag paper-published">Published</span> Legitimacy and the Fluid Singaporean Welfare State ([Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
   <div id="abs-welfare" class="abstract-box">

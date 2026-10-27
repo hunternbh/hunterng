@@ -393,7 +393,7 @@ body.dark-mode .paper-irb {
   </div>
 
 - <span class="role-tag paper-working">Working Paper</span> Why is it so hard to find a job now? Enter Ghost Jobs
-  - Coauthors: <a href="https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee">Yen Tong</a>, <a href="https://www.reveliolabs.com/products/consulting">Loujaina Abdelwahed</a> (Head of Economic Research, Revelio Labs)
+  - Coauthors: <a href="https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee">Yen Tong</a>, <a href="https://www.reveliolabs.com/products/consulting">Loujaina Abdelwahed</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-ghostjobs" onclick="toggleAbstract('abs-ghostjobs', 'link-abs-ghostjobs')">[show abstract]</a>
   <div id="abs-ghostjobs" class="abstract-box">
     <p>This paper investigates "ghost jobs", which are vacancies posted without intent to hire, using a novel dataset of interview reviews from Glassdoor. Using a fine-tuned BERT model, I find that approximately 21% of job postings exhibit patterns consistent with ghost jobs. These are disproportionately concentrated in larger firms and high-skill industries, where firms may benefit from resume collection, market intelligence, or signaling. I also show that incorporating ghost job prevalence helps reconcile the recent disconnect in the Beveridge Curve between vacancy and hiring rates. The results highlight how ghost hiring imposes costs on job seekers, distorts labor market indicators, and warrants closer scrutiny from policymakers.</p>

@@ -374,7 +374,7 @@ body.dark-mode .paper-irb {
 
 - <span class="role-tag paper-working">Working Paper</span> U.S. most-favored-nation pricing and foreign drug funding
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-mfn" onclick="toggleAbstract('abs-mfn', 'link-abs-mfn')">[show abstract]</a>
-  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>, Yung-Cheng Lin
+  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>, <a href="https://www.law.upenn.edu/live/profiles/14638-yung-cheng-lin">Yung-Cheng Lin</a>
   - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7652061) · [Download Slides]({{ site.baseurl }}/files/conferences/mfn-pricing-slides.pdf)
   <div id="abs-mfn" class="abstract-box">
     <p>We examine whether the May 2025 U.S. most-favored-nation pricing announcement was followed by changes in foreign public funding of medicines. International price discrimination theory predicts a tension where accepting lower foreign reimbursement prices under MFN expands sales abroad but risks reducing U.S. revenues, potentially delaying public-funding agreements for medicines with higher U.S. spending. We find that these medicines experienced a larger relative decline in new public-funding entries in potential reference markets. Using records from three OECD and three non-OECD markets, we compare documented funding entry before and after the announcement through May 2026. Among 361 medicines linked to earlier U.S. spending, balancing FDA approval age yields a larger relative OECD decline for higher-spending medicines of 0.261 entries per 100 medicines per month. This negative association persists across alternative weights and robustness tests.</p>

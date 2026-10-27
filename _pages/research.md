@@ -85,6 +85,33 @@ redirect_from:
   --area-dark-border: #945468;
 }
 
+.research-area--microstructure {
+  --area-text: #1e40af;
+  --area-background: #eff6ff;
+  --area-border: #bfdbfe;
+  --area-dark-text: #bfdbfe;
+  --area-dark-background: #1e3054;
+  --area-dark-border: #4d6f9e;
+}
+
+.research-area--welfare {
+  --area-text: #166534;
+  --area-background: #f0fdf4;
+  --area-border: #bbf7d0;
+  --area-dark-text: #bbf7d0;
+  --area-dark-background: #1b3b2a;
+  --area-dark-border: #4c8060;
+}
+
+.research-area--econometrics {
+  --area-text: #9a3412;
+  --area-background: #fff7ed;
+  --area-border: #fed7aa;
+  --area-dark-text: #fed7aa;
+  --area-dark-background: #452c20;
+  --area-dark-border: #996b4b;
+}
+
 body.dark-mode .research-area {
   color: var(--area-dark-text);
   background: var(--area-dark-background);
@@ -269,6 +296,9 @@ body.dark-mode .paper-irb {
   <span class="research-area research-area--markets">Prediction Markets</span>
   <span class="research-area research-area--assets">Digital Assets/Distributed Ledgers</span>
   <span class="research-area research-area--economics">Applied Economics</span>
+  <span class="research-area research-area--microstructure">Market Microstructure</span>
+  <span class="research-area research-area--welfare">Welfare Economics</span>
+  <span class="research-area research-area--econometrics">Econometric Theory</span>
 </div>
 
 <details class="research-section">

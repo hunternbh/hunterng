@@ -31,6 +31,15 @@ redirect_from:
   overflow-wrap: anywhere;
 }
 
+.research-area--accounting {
+  --area-text: #155e75;
+  --area-background: #ecfeff;
+  --area-border: #a5f3fc;
+  --area-dark-text: #a5f3fc;
+  --area-dark-background: #163942;
+  --area-dark-border: #427b89;
+}
+
 .research-area--ai {
   --area-text: #4338ca;
   --area-background: #eef2ff;
@@ -290,6 +299,7 @@ body.dark-mode .paper-irb {
 
 <p><strong>Research Areas</strong></p>
 <div class="research-areas">
+  <span class="research-area research-area--accounting">Accounting Standards</span>
   <span class="research-area research-area--ai">Agentic AI/Small Language Models</span>
   <span class="research-area research-area--trust">Information Systems Trust</span>
   <span class="research-area research-area--escrows">Escrows</span>

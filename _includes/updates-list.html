@@ -1,0 +1,20 @@
+{% assign entries = include.updates | sort: 'date' | reverse %}
+{% if include.limit %}
+  {% assign entries = entries | slice: 0, include.limit %}
+{% endif %}
+{% assign entry_heading = include.heading | default: 'h2' %}
+<ol class="recent-updates__list" role="list">
+  {% for update in entries %}
+    <li>
+      <time datetime="{{ update.date | escape }}">{{ update.date | date: '%B %-d, %Y' }}</time>
+      <{{ entry_heading }} class="recent-updates__entry-title">
+        {% if update.url %}
+          <a href="{{ update.url | relative_url }}">{{ update.title | escape }}</a>
+        {% else %}
+          {{ update.title | escape }}
+        {% endif %}
+      </{{ entry_heading }}>
+      {{ update.summary | markdownify }}
+    </li>
+  {% endfor %}
+</ol>

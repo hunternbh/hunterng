@@ -1,19 +1,10 @@
-{% assign recent_updates = include.updates | sort: 'date' | reverse %}
 <aside class="recent-updates" aria-labelledby="recent-updates-title">
   <h2 id="recent-updates-title">Recent Updates</h2>
-  <ol class="recent-updates__list" role="list">
-    {% for update in recent_updates %}
-      <li>
-        <time datetime="{{ update.date | escape }}">{{ update.date | date: '%B %-d, %Y' }}</time>
-        <h3>
-          {% if update.url %}
-            <a href="{{ update.url | relative_url }}">{{ update.title | escape }}</a>
-          {% else %}
-            {{ update.title | escape }}
-          {% endif %}
-        </h3>
-        <p>{{ update.summary | escape }}</p>
-      </li>
-    {% endfor %}
-  </ol>
+  {% include updates-list.html updates=include.updates limit=3 heading="h3" %}
+  <div class="recent-updates__footer">
+    <a href="{{ '/updates/' | relative_url }}">Updates archive</a>
+    {% if site.author.email %}
+      <a href="mailto:{{ site.author.email | escape }}">{{ site.author.email | escape }}</a>
+    {% endif %}
+  </div>
 </aside>

@@ -70,8 +70,23 @@
     margin: 0 0 0.85rem;
     font-size: $type-size-5;
   }
+}
 
-  h3 {
+.recent-updates__footer {
+  display: grid;
+  gap: 0.35rem;
+  margin-top: 0.8rem;
+  padding-top: 0.8rem;
+  border-top: 1px solid $border-color;
+  overflow-wrap: anywhere;
+}
+
+.recent-updates__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  .recent-updates__entry-title {
     margin: 0.25rem 0;
     font-size: 1em;
   }
@@ -83,13 +98,6 @@
   p {
     margin: 0;
   }
-}
-
-.recent-updates__list {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-
   li + li {
     margin-top: 0.8rem;
     padding-top: 0.8rem;
@@ -97,14 +105,15 @@
   }
 }
 
-body.dark-mode .recent-updates {
-  &,
-  h2,
+body.dark-mode {
+  .recent-updates,
+  .recent-updates h2,
+  .recent-updates__footer,
   .recent-updates__list li + li {
     border-color: #444;
   }
 
-  time {
+  .recent-updates__list time {
     color: #bac2ca;
   }
 }

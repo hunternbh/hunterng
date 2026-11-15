@@ -278,13 +278,12 @@ body.dark-mode .paper-irb {
 
 **Digital Assets**
 
-- <span class="role-tag paper-working">Working Paper</span> Price Discovery and Trading in Prediction Markets
+- <span class="role-tag paper-working">Working Paper</span> [Price Discovery and Trading in Prediction Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331995)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-prediction" onclick="toggleAbstract('abs-prediction', 'link-abs-prediction')">[show abstract]</a>
   - Coauthors: <a href="https://sites.google.com/site/linpengbaruch/home">Lin Peng</a>, <a href="https://dzfinance.notion.site/">Dexin Zhou</a>, <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
   - Presentations: <a href="https://wp.lancs.ac.uk/ffmm2026/">FFMM 2026</a>; Baruch Finance 2025; Hong Kong PolyU Finance 2025
   <div id="abs-prediction" class="abstract-box">
     <p>This study investigates price discovery and trading across major prediction markets in the days leading up to the 2024 U.S. presidential election, using novel self-assembled data. We document that the prices in these markets strongly lead election polls, reflecting their informativeness. Polymarket, with higher liquidity, plays a dominant role in price discovery, particularly during periods of heightened liquidity and trading activity. Furthermore, order imbalances from "whale" trades, defined as the top one percent of trade size in our setting, are highly predictive of future returns. There are also significant and persistent crossplatform price disparities, giving rise to profitable cross-platform arbitrage opportunities. These results highlight the economic significance of prediction markets in aggregating information and emphasize the importance of trading activity in shaping market outcomes.</p>
-    <p><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=EtIbnu4AAAAJ&citation_for_view=EtIbnu4AAAAJ:YsMSGLbcyi4C">Download Paper</a></p>
     <p>Conferences and Presentations</p>
     <ul>
       <li><strong><a href="https://wp.lancs.ac.uk/ffmm2026/">3rd Financial Fraud, Misconduct and Market Manipulation Conference 2026</a></strong> - <a href="{{ site.baseurl }}/files/conferences/FFMM2026-Programme-v3.pdf">Download Agenda</a> - <a href="{{ site.baseurl }}/files/conferences/ff-slides_v20260905.pdf">Download PPTX</a></li>
@@ -325,10 +324,9 @@ body.dark-mode .paper-irb {
 
 **Economics**
 
-- <span class="role-tag paper-working">Working Paper</span> <em>When girls study, who does the housework? Evidence from time-use surveys and cash transfer programs</em>
+- <span class="role-tag paper-working">Working Paper</span> [*When girls study, who does the housework? Evidence from time-use surveys and cash transfer programs*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7706958)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-housework" onclick="toggleAbstract('abs-housework', 'link-abs-housework')">[show abstract]</a>
   - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
-  - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7706958)
   <div id="abs-housework" class="abstract-box">
     <p>We study how girls’ schooling relates to the division of unpaid work at home. Across seven national time-use survey waves in India, Colombia, Mexico, and Peru, an extra hour of daily homework per girl is associated with about 15 additional minutes of unpaid work per adult woman. In all four settings, the association is larger for women than for men in the same household. We also examine randomized cash transfer rollouts in Nicaragua and Indonesia. In Nicaragua, girls’ enrollment and the share of women reporting housework as their main activity both rose after the first year of the rollout.</p>
   </div>
@@ -340,7 +338,7 @@ body.dark-mode .paper-irb {
     <p>Conferences and Presentations</p>
   </div> -->
 
-- <span class="role-tag paper-working">Working Paper</span> Information or Institution? AI's role in Expert Testimony
+- <span class="role-tag paper-working">Working Paper</span> [Information or Institution? AI's Role in Expert Testimony](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7616503)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-daubert" onclick="toggleAbstract('abs-daubert', 'link-abs-daubert')">[show abstract]</a>
   - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
   - Presentations: <a href="https://sovereignai-workshop.github.io/#overview">Sovereign AI / HCOMP 2026</a>
@@ -377,12 +375,19 @@ body.dark-mode .paper-irb {
     <p><a href="{{ site.baseurl }}/files/deepfake.pdf">Download Paper</a></p>
   </div> -->
 
-- <span class="role-tag paper-working">Working Paper</span> U.S. most-favored-nation pricing and foreign drug funding
+- <span class="role-tag paper-working">Working Paper</span> [U.S. most-favored-nation pricing and foreign drug funding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7661669)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-mfn" onclick="toggleAbstract('abs-mfn', 'link-abs-mfn')">[show abstract]</a>
   - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>, <a href="https://www.law.upenn.edu/live/profiles/14638-yung-cheng-lin">Yung-Cheng Lin</a>
-  - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7652061) · [Download Slides]({{ site.baseurl }}/files/conferences/mfn-pricing-slides.pdf)
+  - [Download Slides]({{ site.baseurl }}/files/conferences/mfn-pricing-slides.pdf)
   <div id="abs-mfn" class="abstract-box">
     <p>We examine whether the May 2025 U.S. most-favored-nation pricing announcement was followed by changes in foreign public funding of medicines. International price discrimination theory predicts a tension where accepting lower foreign reimbursement prices under MFN expands sales abroad but risks reducing U.S. revenues, potentially delaying public-funding agreements for medicines with higher U.S. spending. We find that these medicines experienced a larger relative decline in new public-funding entries in potential reference markets. Using records from three OECD and three non-OECD markets, we compare documented funding entry before and after the announcement through May 2026. Among 361 medicines linked to earlier U.S. spending, balancing FDA approval age yields a larger relative OECD decline for higher-spending medicines of 0.261 entries per 100 medicines per month. This negative association persists across alternative weights and robustness tests.</p>
+  </div>
+
+- <span class="role-tag paper-working">Working Paper</span> [Financial Access, Study Organisation and Assessment Rubrics When Studying with LLMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7616519)
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-financial-access" onclick="toggleAbstract('abs-financial-access', 'link-abs-financial-access')">[show abstract]</a>
+  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
+  <div id="abs-financial-access" class="abstract-box">
+    <p>We study how financial resources, study habits, and assessment rubrics shape AI-assisted learning. In two international student surveys, students with greater financial resources were more likely to have paid AI access and practice for exams. A randomized tutoring experiment found that guided tutoring prompted students to show their work more often. In controlled economics exams, rubrics improved some models’ accuracy on challenging questions, with smaller gains on introductory questions and no average accuracy gain for a newer low-cost model.</p>
   </div>
 
 - <span class="role-tag paper-published">Published</span> Legitimacy and the Fluid Singaporean Welfare State ([Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))

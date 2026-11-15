@@ -1,5 +1,11 @@
 <aside class="recent-updates" aria-labelledby="recent-updates-title">
-  <h2 id="recent-updates-title">Recent Updates</h2>
+  <h2 id="recent-updates-title">
+    Recent Updates
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="{{ '/images/academic-rabbit.png' | relative_url }}">
+      <img class="recent-updates__rabbit" src="{{ '/images/academic-rabbit.gif' | relative_url }}" alt="" width="36" height="36">
+    </picture>
+  </h2>
   {% include updates-list.html updates=include.updates limit=5 heading="h3" %}
   <div class="recent-updates__footer">
     <a href="{{ '/updates/' | relative_url }}">See Archived Updates</a>

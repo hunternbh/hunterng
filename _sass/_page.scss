@@ -73,25 +73,60 @@
     margin: 0 0 0.85rem;
     font-size: 1.2rem;
     line-height: 1.2;
-
-    picture {
-      flex: none;
-    }
   }
 }
 
-.recent-updates__rabbit {
+.academic-rabbit-line {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.teaching-intro {
+  margin: 0 0 1.25rem;
+
+  blockquote {
+    margin: 0;
+    padding-right: 0;
+  }
+
+  p {
+    margin: 0 0 0.25rem;
+  }
+}
+
+.academic-rabbit {
   display: block;
+  flex: none;
   width: 2rem;
-  height: 2rem;
-  image-rendering: pixelated;
+  aspect-ratio: 1;
 
-  @media (prefers-reduced-motion: no-preference) {
-    animation: recent-updates-rabbit-hop 3.4s ease-in-out infinite;
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+    image-rendering: pixelated;
   }
 }
 
-@keyframes recent-updates-rabbit-hop {
+.academic-rabbit--teaching,
+.academic-rabbit--cv {
+  width: 2.75rem;
+  aspect-ratio: 5 / 4;
+}
+
+.academic-rabbit--research img {
+  filter: hue-rotate(252deg);
+}
+
+.academic-rabbit--updates,
+.academic-rabbit--research {
+  @media (prefers-reduced-motion: no-preference) {
+    animation: academic-rabbit-hop 3.4s ease-in-out infinite;
+  }
+}
+
+@keyframes academic-rabbit-hop {
   0%, 14%, 28%, 100% {
     transform: translateY(0);
   }

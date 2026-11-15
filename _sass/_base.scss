@@ -425,5 +425,11 @@ body.dark-mode {
 }
 
 html.dark-mode {
+  color-scheme: dark;
   background-color: #121212;
+
+  body {
+    background-color: #121212;
+    color: #f4f4f4;
+  }
 }

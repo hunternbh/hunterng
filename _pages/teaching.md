@@ -60,6 +60,14 @@ body.dark-mode .teaching-section[open] > summary {
 }
 </style>
 
+<figure class="academic-rabbit-line teaching-intro">
+  <blockquote>
+    <p>Teaching is the craft of making the complicated simple.</p>
+    <cite>Hunter</cite>
+  </blockquote>
+  {% include academic-rabbit.html kind='teaching' %}
+</figure>
+
 <details class="teaching-section">
 <summary>Courses Taught</summary>
 <div class="teaching-section__content" markdown="1">

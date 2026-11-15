@@ -1,31 +1,42 @@
-document.addEventListener("DOMContentLoaded", function () {
-  const button = document.getElementById("theme-toggle");
-  if (!button) return;
-
-  function setToggleState(isDark) {
-    const label = isDark ? "Switch to light mode" : "Switch to dark mode";
-
-    button.textContent = isDark ? "☀️" : "🌙";
-    button.setAttribute("aria-label", label);
-    button.setAttribute("title", label);
-    button.setAttribute("aria-pressed", isDark ? "true" : "false");
-    button.dataset.tooltip = label;
+(function () {
+  let isDark = true;
+  try {
+    isDark = localStorage.getItem("theme") !== "light";
+  } catch {
+    // Use the default when storage is unavailable.
   }
 
-  const savedTheme = localStorage.getItem("theme");
-  const isDarkMode = savedTheme === "dark";
+  document.documentElement.classList.toggle("dark-mode", isDark);
 
-  document.documentElement.classList.toggle("dark-mode", isDarkMode);
-  document.body.classList.toggle("dark-mode", isDarkMode);
-  setToggleState(isDarkMode);
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.getElementById("theme-toggle");
 
-  button.addEventListener("click", function (e) {
-    e.preventDefault();
-    document.body.classList.toggle("dark-mode");
-    const isDark = document.body.classList.contains("dark-mode");
+    function applyTheme() {
+      document.documentElement.classList.toggle("dark-mode", isDark);
+      document.body.classList.toggle("dark-mode", isDark);
+      if (!button) return;
 
-    document.documentElement.classList.toggle("dark-mode", isDark);
-    localStorage.setItem("theme", isDark ? "dark" : "light");
-    setToggleState(isDark);
+      const label = isDark ? "Switch to light mode" : "Switch to dark mode";
+      button.textContent = isDark ? "☀️" : "🌙";
+      button.setAttribute("aria-label", label);
+      button.setAttribute("title", label);
+      button.setAttribute("aria-pressed", isDark ? "true" : "false");
+      button.dataset.tooltip = label;
+    }
+
+    applyTheme();
+    if (!button) return;
+
+    button.addEventListener("click", function (event) {
+      event.preventDefault();
+      isDark = !isDark;
+      applyTheme();
+
+      try {
+        localStorage.setItem("theme", isDark ? "dark" : "light");
+      } catch {
+        // The current page can still switch themes.
+      }
+    });
   });
-});
+})();

@@ -127,7 +127,7 @@ redirect_from:
   }
 </style>
 
-<p class="cv-intro">Curriculum vitae and selected moments from teaching and academic engagements.</p>
+<p class="cv-intro academic-rabbit-line"><span>Curriculum vitae and selected moments from teaching and academic engagements.</span> {% include academic-rabbit.html kind='cv' %}</p>
 
 <details class="cv-section">
   <summary>CV</summary>

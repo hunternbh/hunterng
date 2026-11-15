@@ -249,7 +249,7 @@ body.dark-mode .paper-irb {
 }
 </style>
 
-<p><strong>Research Areas</strong></p>
+<p class="academic-rabbit-line"><strong>Research Areas</strong> {% include academic-rabbit.html kind='research' %}</p>
 <div class="research-areas">
   <span class="research-area research-area--accounting">Accounting Standards</span>
   <span class="research-area research-area--ai">Agentic AI/Small Language Models</span>
@@ -421,7 +421,7 @@ body.dark-mode .paper-irb {
 <div class="research-section__content" markdown="1">
 
 - <span class="role-tag role-presenter">Accepted</span><span class="role-tag year-tag">2027</span> [2027 Joint Midyear Meeting of the AIS and SET Sections](https://aaahq.org/Meetings/2027/AIS-SET), Rutgers University–Newark, Newark, NJ, February 4–6, 2027 — “Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit” - [Download Invitation]({{ site.baseurl }}/files/conferences/ais-set-2027-invitation.png)
-- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> 17th Annual Pre-ICIS Workshop on Accounting Information Systems (SIG ASYS), Lisbon Congress Centre (Centro de Congressos de Lisboa), Lisbon, Portugal, December 12, 2026 - [Download Invitation]({{ site.baseurl }}/files/conferences/sig-asys-invitation.png) - [Download Schedule]({{ site.baseurl }}/files/conferences/sig-asys-2026-preliminary-program-v3.docx)
+- <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> 17th Annual Pre-ICIS Workshop on Accounting Information Systems (SIG ASYS), Lisbon Congress Centre (Centro de Congressos de Lisboa), Lisbon, Portugal, December 12, 2026 - [Download Invitation]({{ site.baseurl }}/files/conferences/sig-asys-invitation.png?v=redacted) - [Download Schedule]({{ site.baseurl }}/files/conferences/sig-asys-2026-preliminary-program-v3.docx)
 - <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> Midwest Econometrics Group (MEG) Annual Meeting, Graduate by Hilton Cincinnati, Cincinnati, OH, October 9-10, 2026 - [Download Invitation]({{ site.baseurl }}/files/conferences/meg-invitation.png) - [Download Schedule]({{ site.baseurl }}/files/conferences/MEG-2026-schedule.pdf) - [Download Slides]({{ site.baseurl }}/files/conferences/vine_copula_var_full.pdf)
 - <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> [The First Workshop on Sovereign AI for Collaborative and Pluralistic AI Ecosystems, HCOMP 2026](https://sovereignai-workshop.github.io/#overview), Virginia Tech, Washington, DC, September 27, 2026 - [Download Invitation]({{ site.baseurl }}/files/conferences/sovereign-ai-invitation.png) - [Download Schedule]({{ site.baseurl }}/files/conferences/sovereign-ai-workshop-schedule.pdf) - [Download Slides]({{ site.baseurl }}/files/conferences/sovereign-ai-slides.pdf)
 - <span class="role-tag role-presenter">Presenter</span><span class="role-tag year-tag">2026</span> [**3rd Financial Fraud, Misconduct and Market Manipulation Conference 2026**](https://wp.lancs.ac.uk/ffmm2026/), Lancaster University, Lancaster, UK, September 10-11, 2026 - [Download Schedule]({{ site.baseurl }}/files/conferences/FFMM2026-Programme-v3.pdf) - [Download PPTX]({{ site.baseurl }}/files/conferences/ff-slides_v20260905.pdf)

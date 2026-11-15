@@ -281,14 +281,20 @@ body.dark-mode .paper-irb {
 - <span class="role-tag paper-working">Working Paper</span> [Price Discovery and Trading in Prediction Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331995)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-prediction" onclick="toggleAbstract('abs-prediction', 'link-abs-prediction')">[show abstract]</a>
   - Coauthors: <a href="https://sites.google.com/site/linpengbaruch/home">Lin Peng</a>, <a href="https://dzfinance.notion.site/">Dexin Zhou</a>, <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
-  - Presentations: <a href="https://wp.lancs.ac.uk/ffmm2026/">FFMM 2026</a>; Baruch Finance 2025; Hong Kong PolyU Finance 2025
+  - Presentations: <a href="https://wp.lancs.ac.uk/ffmm2026/">FFMM 2026</a>; FMA 2026; Baruch Finance 2025; CUFE; PKU–NSD; Fudan; Hong Kong PolyU Finance 2025; University of Macau; University of South Carolina
   <div id="abs-prediction" class="abstract-box">
     <p>This study investigates price discovery and trading across major prediction markets in the days leading up to the 2024 U.S. presidential election, using novel self-assembled data. We document that the prices in these markets strongly lead election polls, reflecting their informativeness. Polymarket, with higher liquidity, plays a dominant role in price discovery, particularly during periods of heightened liquidity and trading activity. Furthermore, order imbalances from "whale" trades, defined as the top one percent of trade size in our setting, are highly predictive of future returns. There are also significant and persistent crossplatform price disparities, giving rise to profitable cross-platform arbitrage opportunities. These results highlight the economic significance of prediction markets in aggregating information and emphasize the importance of trading activity in shaping market outcomes.</p>
     <p>Conferences and Presentations</p>
     <ul>
       <li><strong><a href="https://wp.lancs.ac.uk/ffmm2026/">3rd Financial Fraud, Misconduct and Market Manipulation Conference 2026</a></strong> - <a href="{{ site.baseurl }}/files/conferences/FFMM2026-Programme-v3.pdf">Download Agenda</a> - <a href="{{ site.baseurl }}/files/conferences/ff-slides_v20260905.pdf">Download PPTX</a></li>
+      <li>FMA 2026</li>
       <li>Finance Seminar, Baruch College, June 2025</li>
+      <li>Central University of Finance and Economics (CUFE)</li>
+      <li>National School of Development, Peking University (PKU–NSD)</li>
+      <li>Fudan University</li>
       <li>Finance Seminar, The Hong Kong Polytechnic University, October 2025</li>
+      <li>University of Macau</li>
+      <li>University of South Carolina</li>
     </ul>
   </div>
 
@@ -309,12 +315,12 @@ body.dark-mode .paper-irb {
 - <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit
   <a href="javascript:void(0);" class="abstract-toggle" id="link-ticketing-bot" onclick="toggleAbstract('ticketing-bot', 'link-ticketing-bot')">[show abstract]</a>
   - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, Shantel Deleon (EY LLC)
-  - Presentations: Pre-ICIS SIG ASYS 2026, [AIS/SET Midyear 2027](https://aaahq.org/Meetings/2027/AIS-SET)
+  - Presentations: SIG ASYS, [AIS/SET Midyear 2027](https://aaahq.org/Meetings/2027/AIS-SET)
   <div id="ticketing-bot" class="abstract-box">
     <p>The verification of Information Technology (IT) controls is a core responsibility of IT auditors. This case places students in the role of IT auditors assigned to assess the effectiveness of controls over a sandboxed online ticketing system. Students first participate in limited ticket drops, inspect the website’s Document Object Model (DOM), and use AI-assisted coding to understand how automated purchasing can occur. Students then evaluate whether the system’s controls over purchase limits, transaction authorization, backend logging, exception reporting, and monitoring are effective. The case introduces students to technical skills such as browser inspection, basic automation logic, and AI-assisted coding while maintaining an internal-control focus. Students document their work through a DOM discovery worksheet, ticket-drop observation sheet, internal-control review matrix, and short reflection. The case is relevant to Accounting Information Systems (AIS), IT Audit, and Audit courses because it connects digital trust, automated transactions, IT controls, and AI-assisted technical fluency. Instructors may use the case at either the undergraduate or graduate level.</p>
   </div>
 
-- <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Scalable Data Analytics Pedagogy in Accounting: Randomized Case Studies and Automated Assessment
+- <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Scalable and AI-Resilient Data Analytics Education Through Randomized Accounting Cases
   - Coauthors:
     <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/carol-marquardt/">Carol Marquardt</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-scalable-da" onclick="toggleAbstract('scalable-da', 'link-scalable-da')">[show abstract]</a>
@@ -385,7 +391,7 @@ body.dark-mode .paper-irb {
 - <span class="role-tag paper-working">Working Paper</span> [U.S. most-favored-nation pricing and foreign drug funding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7661669)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-mfn" onclick="toggleAbstract('abs-mfn', 'link-abs-mfn')">[show abstract]</a>
   - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>, <a href="https://www.law.upenn.edu/live/profiles/14638-yung-cheng-lin">Yung-Cheng Lin</a>
-  - [Download Slides]({{ site.baseurl }}/files/conferences/mfn-pricing-slides.pdf)
+  - Presentations: CUNY Graduate Center
   <div id="abs-mfn" class="abstract-box">
     <p>We examine whether the May 2025 U.S. most-favored-nation pricing announcement was followed by changes in foreign public funding of medicines. International price discrimination theory predicts a tension where accepting lower foreign reimbursement prices under MFN expands sales abroad but risks reducing U.S. revenues, potentially delaying public-funding agreements for medicines with higher U.S. spending. We find that these medicines experienced a larger relative decline in new public-funding entries in potential reference markets. Using records from three OECD and three non-OECD markets, we compare documented funding entry before and after the announcement through May 2026. Among 361 medicines linked to earlier U.S. spending, balancing FDA approval age yields a larger relative OECD decline for higher-spending medicines of 0.261 entries per 100 medicines per month. This negative association persists across alternative weights and robustness tests.</p>
   </div>

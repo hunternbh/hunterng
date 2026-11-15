@@ -109,14 +109,11 @@
   }
 }
 
+.academic-rabbit--research,
 .academic-rabbit--teaching,
 .academic-rabbit--cv {
   width: 2.75rem;
   aspect-ratio: 5 / 4;
-}
-
-.academic-rabbit--research img {
-  filter: hue-rotate(252deg);
 }
 
 .academic-rabbit--professional {
@@ -130,7 +127,6 @@
 }
 
 .academic-rabbit--updates,
-.academic-rabbit--research,
 .academic-rabbit--professional {
   @media (prefers-reduced-motion: no-preference) {
     animation: academic-rabbit-hop 3.4s ease-in-out infinite;

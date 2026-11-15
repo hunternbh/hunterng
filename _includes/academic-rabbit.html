@@ -1,5 +1,5 @@
 {% assign rabbit_asset = '/images/academic-rabbit' %}
-{% if include.kind == 'teaching' or include.kind == 'cv' %}
+{% if include.kind == 'research' or include.kind == 'teaching' or include.kind == 'cv' %}
   {% assign rabbit_asset = rabbit_asset | append: '-' | append: include.kind %}
 {% endif %}
 <picture class="academic-rabbit academic-rabbit--{{ include.kind }}">

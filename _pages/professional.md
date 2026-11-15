@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p>I’ve worked in a variety of corporate roles, from cloud computing and fintech to IT security and business operations. I’ve enjoyed learning from people with different skills and working together on practical problems. I also worked in a government role on fintech projects focused on compliance. {% include academic-rabbit.html kind='professional' %}</p>
+<p>I’ve worked in a variety of corporate roles, from cloud computing and fintech to IT security and business operations. I’ve enjoyed learning from people with different skills and working together on practical problems. I also worked in a government role on fintech projects focused on cryptocurrency and sandboxed environments. {% include academic-rabbit.html kind='professional' %}</p>
 
 <details class="experience-section">
 <summary>Professional Experience</summary>

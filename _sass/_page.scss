@@ -119,8 +119,19 @@
   filter: hue-rotate(252deg);
 }
 
+.academic-rabbit--professional {
+  display: inline-block;
+  margin-left: 0.25em;
+  vertical-align: middle;
+
+  img {
+    filter: hue-rotate(145deg);
+  }
+}
+
 .academic-rabbit--updates,
-.academic-rabbit--research {
+.academic-rabbit--research,
+.academic-rabbit--professional {
   @media (prefers-reduced-motion: no-preference) {
     animation: academic-rabbit-hop 3.4s ease-in-out infinite;
   }

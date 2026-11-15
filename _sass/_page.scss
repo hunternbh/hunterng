@@ -43,6 +43,72 @@
   }
 }
 
+.page--with-updates {
+  @include breakpoint($large) {
+    padding-right: 0;
+  }
+}
+
+.page__columns {
+  display: grid;
+  gap: 1.5rem;
+
+  @include breakpoint($large) {
+    grid-template-columns: minmax(0, 1fr) minmax(13rem, 28%);
+    gap: 2rem;
+    align-items: start;
+  }
+}
+
+.recent-updates {
+  padding: 1rem;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  font-size: $type-size-6;
+
+  h2 {
+    margin: 0 0 0.85rem;
+    font-size: $type-size-5;
+  }
+
+  h3 {
+    margin: 0.25rem 0;
+    font-size: 1em;
+  }
+
+  time {
+    color: #59636d;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+.recent-updates__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li + li {
+    margin-top: 0.8rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid $border-color;
+  }
+}
+
+body.dark-mode .recent-updates {
+  &,
+  h2,
+  .recent-updates__list li + li {
+    border-color: #444;
+  }
+
+  time {
+    color: #bac2ca;
+  }
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;

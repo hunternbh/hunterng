@@ -319,18 +319,20 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   position: relative;
 }
 
+.greedy-nav .theme-toggle__item > a.theme-toggle {
+  display: inline-grid;
+  place-items: center;
+  width: 2.1rem;
+  height: 2.1rem;
+  padding: 0;
+  line-height: 1;
+}
+
 .theme-toggle {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 2.1rem;
-  min-height: 2.1rem;
-  padding: 0.25rem 0.55rem;
   border: 1px solid $light-gray;
   border-radius: 6px;
   background: #fff;
   color: $text-color;
-  line-height: 1;
   text-decoration: none;
 
   &:hover,

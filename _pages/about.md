@@ -2,6 +2,7 @@
 permalink: /
 title: "Hunter Ng"
 author_profile: true
+recent_updates: true
 redirect_from: 
   - /about/
   - /about.html

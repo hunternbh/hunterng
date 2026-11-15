@@ -38,6 +38,9 @@
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
+      {% if author.ssrn %}
+        <li><a href="{{ author.ssrn }}"><i class="ai ai-ssrn ai-fw icon-pad-right" aria-hidden="true"></i>SSRN</a></li>
+      {% endif %}
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
       {% endif %}      

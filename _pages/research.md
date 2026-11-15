@@ -267,7 +267,7 @@ body.dark-mode .paper-irb {
 <summary>Papers</summary>
 <div class="research-section__content" markdown="1">
 
-**Applied AI in Accounting**
+**Accounting**
 
 - <span class="role-tag paper-working">Working Paper</span> Recovering Accounting Judgment with AI: Textual and Non-Textual Experiments
   <a href="javascript:void(0);" class="abstract-toggle" id="link-accounting-judgment-ai" onclick="toggleAbstract('accounting-judgment-ai', 'link-accounting-judgment-ai')">[show abstract]</a>
@@ -305,7 +305,25 @@ body.dark-mode .paper-irb {
     </ul>
   </div>
 
-**Law and Economics**
+**Education**
+
+- <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-ticketing-bot" onclick="toggleAbstract('ticketing-bot', 'link-ticketing-bot')">[show abstract]</a>
+  - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, Shantel Deleon (EY LLC)
+  - Presentations: Pre-ICIS SIG ASYS 2026, [AIS/SET Midyear 2027](https://aaahq.org/Meetings/2027/AIS-SET)
+  <div id="ticketing-bot" class="abstract-box">
+    <p>The verification of Information Technology (IT) controls is a core responsibility of IT auditors. This case places students in the role of IT auditors assigned to assess the effectiveness of controls over a sandboxed online ticketing system. Students first participate in limited ticket drops, inspect the website’s Document Object Model (DOM), and use AI-assisted coding to understand how automated purchasing can occur. Students then evaluate whether the system’s controls over purchase limits, transaction authorization, backend logging, exception reporting, and monitoring are effective. The case introduces students to technical skills such as browser inspection, basic automation logic, and AI-assisted coding while maintaining an internal-control focus. Students document their work through a DOM discovery worksheet, ticket-drop observation sheet, internal-control review matrix, and short reflection. The case is relevant to Accounting Information Systems (AIS), IT Audit, and Audit courses because it connects digital trust, automated transactions, IT controls, and AI-assisted technical fluency. Instructors may use the case at either the undergraduate or graduate level.</p>
+  </div>
+
+- <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Scalable Data Analytics Pedagogy in Accounting: Randomized Case Studies and Automated Assessment
+  - Coauthors:
+    <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/carol-marquardt/">Carol Marquardt</a>
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-scalable-da" onclick="toggleAbstract('scalable-da', 'link-scalable-da')">[show abstract]</a>
+  <div id="scalable-da" class="abstract-box">
+    <p>The growing importance of data analytics (DA) in accounting has changed how accounting professionals collect, analyze, and interpret data. As DA becomes increasingly integrated into accounting practice, accounting students need assignments that combine analytical, technical, and professional judgment skills. This paper presents a scalable teaching case that uses randomized datasets and automated grading to support individualized student analysis in larger classes. Each student receives a unique dataset generated from a common underlying structure, preserving consistent learning objectives while reducing the usefulness of shared solutions. In the case, students estimate the allowance for doubtful accounts using historical customer-level accounts receivable data and compare the percentage-of-sales method with the aging-of-receivables method. Students complete spreadsheet-based analysis and prepare a written recommendation supported by their results. Automated grading evaluates the technical outputs, while the written report assesses interpretation and communication. The case provides a flexible model for integrating DA competencies into accounting courses without requiring extensive programming expertise from instructors.</p>
+  </div>
+
+**Economics**
 
 <!-- - AI Agents and Accounting Standards Experiments (Thesis)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-thesis" onclick="toggleAbstract('abs-thesis', 'link-abs-thesis')">[show abstract]</a>
@@ -335,26 +353,6 @@ body.dark-mode .paper-irb {
     <p>This paper studies why mandatory ESG disclosure rules spread unevenly across countries, focusing first on greenhouse-gas disclosure and framing adoption through the classic policy-diffusion channels of learning, competition, imitation, and coercion. Using a country-year panel and discrete-time hazard models, it finds that broad diffusion pressure and especially competitive exposure to already regulated jurisdictions are associated with adoption, while the current proxies for learning and imitation do not perform as expected in the data. The consequences of disclosure regulation depend not just on whether countries adopt, but on how they adopt, with the broader goal of linking diffusion mechanisms to later market outcomes such as liquidity and policy credibility.</p>
   </div> -->
 
-**Accounting Education**
-
-- <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Using a Sandboxed Ticketing Bot to Teach Digital Trust and IT Audit
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-ticketing-bot" onclick="toggleAbstract('ticketing-bot', 'link-ticketing-bot')">[show abstract]</a>
-  - Coauthors: <a href="https://uncw.edu/profiles/l/leel">Lorraine Lee</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, Shantel Deleon (EY LLC)
-  - Presentations: Pre-ICIS SIG ASYS 2026, [AIS/SET Midyear 2027](https://aaahq.org/Meetings/2027/AIS-SET)
-  <div id="ticketing-bot" class="abstract-box">
-    <p>The verification of Information Technology (IT) controls is a core responsibility of IT auditors. This case places students in the role of IT auditors assigned to assess the effectiveness of controls over a sandboxed online ticketing system. Students first participate in limited ticket drops, inspect the website’s Document Object Model (DOM), and use AI-assisted coding to understand how automated purchasing can occur. Students then evaluate whether the system’s controls over purchase limits, transaction authorization, backend logging, exception reporting, and monitoring are effective. The case introduces students to technical skills such as browser inspection, basic automation logic, and AI-assisted coding while maintaining an internal-control focus. Students document their work through a DOM discovery worksheet, ticket-drop observation sheet, internal-control review matrix, and short reflection. The case is relevant to Accounting Information Systems (AIS), IT Audit, and Audit courses because it connects digital trust, automated transactions, IT controls, and AI-assisted technical fluency. Instructors may use the case at either the undergraduate or graduate level.</p>
-  </div>
-
-- <span class="role-tag paper-working">Working Paper</span><span class="role-tag paper-irb">IRB Approved</span> Scalable Data Analytics Pedagogy in Accounting: Randomized Case Studies and Automated Assessment
-  - Coauthors: 
-    <a href="https://zicklin.baruch.cuny.edu/faculty-profile/hagit-levy-shalev/">Hagit Levy-Shalev</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/carol-marquardt/">Carol Marquardt</a>
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-scalable-da" onclick="toggleAbstract('scalable-da', 'link-scalable-da')">[show abstract]</a>
-  <div id="scalable-da" class="abstract-box">
-    <p>The growing importance of data analytics (DA) in accounting has changed how accounting professionals collect, analyze, and interpret data. As DA becomes increasingly integrated into accounting practice, accounting students need assignments that combine analytical, technical, and professional judgment skills. This paper presents a scalable teaching case that uses randomized datasets and automated grading to support individualized student analysis in larger classes. Each student receives a unique dataset generated from a common underlying structure, preserving consistent learning objectives while reducing the usefulness of shared solutions. In the case, students estimate the allowance for doubtful accounts using historical customer-level accounts receivable data and compare the percentage-of-sales method with the aging-of-receivables method. Students complete spreadsheet-based analysis and prepare a written recommendation supported by their results. Automated grading evaluates the technical outputs, while the written report assesses interpretation and communication. The case provides a flexible model for integrating DA competencies into accounting courses without requiring extensive programming expertise from instructors.</p>
-  </div>
-
-**Econometrics**
-
 - <span class="role-tag paper-working">Working Paper</span> Vine Copula VAR: From Recursive Margins to Joint Forecast Inference
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-vcvar" onclick="toggleAbstract('abs-vcvar', 'link-abs-vcvar')">[show abstract]</a>
   - Coauthors: <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
@@ -370,8 +368,6 @@ body.dark-mode .paper-irb {
     <p>This paper explores how Federal Reserve Chairs' facial expressions during FOMC press conferences influence investor behavior and financial markets. Using facial recognition technology and deepfake simulations on press conference videos from April 2011 to December 2020, I quantify changes in nonverbal signals while controlling for verbal content. My findings reveal that nonverbal cues act as independent public signals that significantly affect market outcomes. Using deepfakes, I uniquely demonstrate that identical facial expressions elicit different market reactions and this depends on the Fed Chair's identity, tenure, and experience, indicating that investor interpretations are dynamically shaped by perceptions of the Chair. Moreover, the evolving market response over time aligns with the dual-processing, bounded memory model of information processing. Lastly, I find no evidence that Fed Chairs strategically change their facial expressions to influence markets, highlighting the unintentional yet impactful nature of nonverbal communication.</p>
     <p><a href="{{ site.baseurl }}/files/deepfake.pdf">Download Paper</a></p>
   </div> -->
-
-**General Economics**
 
 - <span class="role-tag paper-working">Working Paper</span> U.S. most-favored-nation pricing and foreign drug funding
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-mfn" onclick="toggleAbstract('abs-mfn', 'link-abs-mfn')">[show abstract]</a>
@@ -401,7 +397,6 @@ body.dark-mode .paper-irb {
     <!-- <p><a href="{{ site.baseurl }}/files/ghost-jobs.pdf">Download Paper</a></p> -->
   </div>
 
-**Notes on Becoming a Researcher**
 - <span class="role-tag paper-reflective">Reflective Essay</span> [True Seeker – An Accounting PhD Journey](https://papers.ssrn.com/abstract=5611810)
 - <span class="role-tag paper-reflective">Reflective Essay</span> [History of Economic Thought: A Dialogue Format](https://papers.ssrn.com/abstract=5668870)
 

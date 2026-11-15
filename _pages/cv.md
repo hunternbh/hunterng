@@ -185,7 +185,7 @@ redirect_from:
 
   <figure class="photo-card">
     <img src="{{ site.baseurl }}/files/photos/economics-gathering-2024-square.jpg" alt="Faculty and graduate colleagues at an economics gathering" width="1000" height="1000" loading="lazy">
-    <figcaption>Economics gathering with faculty and graduate colleagues, 2024.</figcaption>
+    <figcaption>Gathering with faculty and graduate colleagues from Economics Department, Graduate Center CUNY, 2024.</figcaption>
   </figure>
 
   <figure class="photo-card">

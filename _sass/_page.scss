@@ -71,7 +71,12 @@
     align-items: center;
     gap: 0.5rem;
     margin: 0 0 0.85rem;
-    font-size: $type-size-5;
+    font-size: 1.2rem;
+    line-height: 1.2;
+
+    picture {
+      flex: none;
+    }
   }
 }
 
@@ -80,6 +85,24 @@
   width: 2rem;
   height: 2rem;
   image-rendering: pixelated;
+
+  @media (prefers-reduced-motion: no-preference) {
+    animation: recent-updates-rabbit-hop 3.4s ease-in-out infinite;
+  }
+}
+
+@keyframes recent-updates-rabbit-hop {
+  0%, 14%, 28%, 100% {
+    transform: translateY(0);
+  }
+
+  7% {
+    transform: translateY(-0.4rem) rotate(-5deg);
+  }
+
+  21% {
+    transform: translateY(-0.28rem) rotate(4deg);
+  }
 }
 
 .recent-updates__footer {

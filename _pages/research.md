@@ -325,6 +325,14 @@ body.dark-mode .paper-irb {
 
 **Economics**
 
+- <span class="role-tag paper-working">Working Paper</span> When girls study, who does the housework? Evidence from time-use surveys and cash transfer programs
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-housework" onclick="toggleAbstract('abs-housework', 'link-abs-housework')">[show abstract]</a>
+  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
+  - [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7706958)
+  <div id="abs-housework" class="abstract-box">
+    <p>We study how girls’ schooling relates to the division of unpaid work at home. Across seven national time-use survey waves in India, Colombia, Mexico, and Peru, an extra hour of daily homework per girl is associated with about 15 additional minutes of unpaid work per adult woman. In all four settings, the association is larger for women than for men in the same household. We also examine randomized cash transfer rollouts in Nicaragua and Indonesia. In Nicaragua, girls’ enrollment and the share of women reporting housework as their main activity both rose after the first year of the rollout.</p>
+  </div>
+
 <!-- - AI Agents and Accounting Standards Experiments (Thesis)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-thesis" onclick="toggleAbstract('abs-thesis', 'link-abs-thesis')">[show abstract]</a>
   <div id="abs-thesis" class="abstract-box">

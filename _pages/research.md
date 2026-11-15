@@ -322,6 +322,13 @@ body.dark-mode .paper-irb {
     <p>The growing importance of data analytics (DA) in accounting has changed how accounting professionals collect, analyze, and interpret data. As DA becomes increasingly integrated into accounting practice, accounting students need assignments that combine analytical, technical, and professional judgment skills. This paper presents a scalable teaching case that uses randomized datasets and automated grading to support individualized student analysis in larger classes. Each student receives a unique dataset generated from a common underlying structure, preserving consistent learning objectives while reducing the usefulness of shared solutions. In the case, students estimate the allowance for doubtful accounts using historical customer-level accounts receivable data and compare the percentage-of-sales method with the aging-of-receivables method. Students complete spreadsheet-based analysis and prepare a written recommendation supported by their results. Automated grading evaluates the technical outputs, while the written report assesses interpretation and communication. The case provides a flexible model for integrating DA competencies into accounting courses without requiring extensive programming expertise from instructors.</p>
   </div>
 
+- <span class="role-tag paper-working">Working Paper</span> [Financial Access, Study Organisation and Assessment Rubrics When Studying with LLMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7616519)
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-financial-access" onclick="toggleAbstract('abs-financial-access', 'link-abs-financial-access')">[show abstract]</a>
+  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
+  <div id="abs-financial-access" class="abstract-box">
+    <p>We study how financial resources, study habits, and assessment rubrics shape AI-assisted learning. In two international student surveys, students with greater financial resources were more likely to have paid AI access and practice for exams. A randomized tutoring experiment found that guided tutoring prompted students to show their work more often. In controlled economics exams, rubrics improved some models’ accuracy on challenging questions, with smaller gains on introductory questions and no average accuracy gain for a newer low-cost model.</p>
+  </div>
+
 **Economics**
 
 - <span class="role-tag paper-working">Working Paper</span> [*When girls study, who does the housework? Evidence from time-use surveys and cash transfer programs*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7706958)
@@ -381,13 +388,6 @@ body.dark-mode .paper-irb {
   - [Download Slides]({{ site.baseurl }}/files/conferences/mfn-pricing-slides.pdf)
   <div id="abs-mfn" class="abstract-box">
     <p>We examine whether the May 2025 U.S. most-favored-nation pricing announcement was followed by changes in foreign public funding of medicines. International price discrimination theory predicts a tension where accepting lower foreign reimbursement prices under MFN expands sales abroad but risks reducing U.S. revenues, potentially delaying public-funding agreements for medicines with higher U.S. spending. We find that these medicines experienced a larger relative decline in new public-funding entries in potential reference markets. Using records from three OECD and three non-OECD markets, we compare documented funding entry before and after the announcement through May 2026. Among 361 medicines linked to earlier U.S. spending, balancing FDA approval age yields a larger relative OECD decline for higher-spending medicines of 0.261 entries per 100 medicines per month. This negative association persists across alternative weights and robustness tests.</p>
-  </div>
-
-- <span class="role-tag paper-working">Working Paper</span> [Financial Access, Study Organisation and Assessment Rubrics When Studying with LLMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7616519)
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-financial-access" onclick="toggleAbstract('abs-financial-access', 'link-abs-financial-access')">[show abstract]</a>
-  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
-  <div id="abs-financial-access" class="abstract-box">
-    <p>We study how financial resources, study habits, and assessment rubrics shape AI-assisted learning. In two international student surveys, students with greater financial resources were more likely to have paid AI access and practice for exams. A randomized tutoring experiment found that guided tutoring prompted students to show their work more often. In controlled economics exams, rubrics improved some models’ accuracy on challenging questions, with smaller gains on introductory questions and no average accuracy gain for a newer low-cost model.</p>
   </div>
 
 - <span class="role-tag paper-published">Published</span> Legitimacy and the Fluid Singaporean Welfare State ([Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))

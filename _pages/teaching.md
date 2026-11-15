@@ -9,68 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-<style>
-.teaching-section {
-  margin: 0.8rem 0;
-  border: 1px solid #d8dce1;
-  border-radius: 0.35rem;
-  background: #fff;
-}
-
-.teaching-section > summary {
-  padding: 0.7rem 0.9rem;
-  color: #30343b;
-  background: #f5f6f7;
-  cursor: pointer;
-  font-weight: 700;
-}
-
-.teaching-section > summary:hover {
-  background: #eceff2;
-}
-
-.teaching-section[open] > summary {
-  border-bottom: 1px solid #d8dce1;
-}
-
-.teaching-section__content {
-  padding: 0.35rem 1rem 0.8rem;
-}
-
-.teaching-section__content > :last-child {
-  margin-bottom: 0;
-}
-
-body.dark-mode .teaching-section {
-  border-color: #444;
-  background: #181818;
-}
-
-body.dark-mode .teaching-section > summary {
-  color: #f4f4f4;
-  background: #242424;
-}
-
-body.dark-mode .teaching-section > summary:hover {
-  background: #303030;
-}
-
-body.dark-mode .teaching-section[open] > summary {
-  border-bottom-color: #444;
-}
-</style>
-
 <figure class="academic-rabbit-line teaching-intro">
   <blockquote>
     <p>Teaching is the craft of making the complicated simple.</p>
-    <cite>Hunter</cite>
+    <cite>Hunter Ng</cite>
   </blockquote>
   {% include academic-rabbit.html kind='teaching' %}
 </figure>
 
-<details class="teaching-section">
+<details class="experience-section">
 <summary>Courses Taught</summary>
-<div class="teaching-section__content" markdown="1">
+<div class="experience-section__content" markdown="1">
 
 **Instructor - Baruch College**
 - ACC 3202 Accounting Information Systems and Data Analytics - Spring 2027
@@ -110,18 +59,18 @@ body.dark-mode .teaching-section[open] > summary {
 </div>
 </details>
 
-<details class="teaching-section">
+<details class="experience-section">
 <summary>Recognition</summary>
-<div class="teaching-section__content" markdown="1">
+<div class="experience-section__content" markdown="1">
 - 2025/2026 Zicklin Dean’s Teaching Award
   - Recognizes PhD students for teaching excellence in the classroom
 
 </div>
 </details>
 
-<details class="teaching-section">
+<details class="experience-section">
 <summary>Resources</summary>
-<div class="teaching-section__content" markdown="1">
+<div class="experience-section__content" markdown="1">
 
 <div style="position: relative; width: 100%; max-width: 900px; padding-bottom: 56.25%; height: 0; margin-bottom: 30px;">
   <iframe

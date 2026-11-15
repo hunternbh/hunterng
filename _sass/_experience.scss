@@ -1,0 +1,48 @@
+.experience-section {
+  margin: 0.8rem 0;
+  border: 1px solid #d8dce1;
+  border-radius: 0.35rem;
+  background: #fff;
+}
+
+.experience-section > summary {
+  padding: 0.7rem 0.9rem;
+  color: #30343b;
+  background: #f5f6f7;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.experience-section > summary:hover {
+  background: #eceff2;
+}
+
+.experience-section[open] > summary {
+  border-bottom: 1px solid #d8dce1;
+}
+
+.experience-section__content {
+  padding: 0.35rem 1rem 0.8rem;
+}
+
+.experience-section__content > :last-child {
+  margin-bottom: 0;
+}
+
+body.dark-mode .experience-section {
+  border-color: #444;
+  background: #181818;
+}
+
+body.dark-mode .experience-section > summary {
+  color: #f4f4f4;
+  background: #242424;
+}
+
+body.dark-mode .experience-section > summary:hover {
+  background: #303030;
+}
+
+body.dark-mode .experience-section[open] > summary {
+  border-bottom-color: #444;
+}

@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+I've worked in a variety of corporate roles, from cloud computing and fintech to IT security and business operations. I’ve enjoyed learning from people with different skills and working together on practical problems. That curiosity and appreciation for teamwork are things I bring to my research and teaching today.
+
+<details class="experience-section">
+<summary>Professional Experience</summary>
+<div class="experience-section__content" markdown="1">
+
 **Upper Serangoon Shopping Center, Singapore**
 - Executive Committee Member (2021-2022)
 
@@ -26,3 +33,6 @@ redirect_from:
 
 **Fujitsu, Shin-Kawasaki Tokyo Japan**
 - Cloud Computing Department (2020)
+
+</div>
+</details>

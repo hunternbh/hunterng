@@ -41,7 +41,7 @@ redirect_from:
 }
 
 .research-area--ai,
-.research-area--trust {
+.research-area--information-systems {
   --area-text: #115e59;
   --area-background: #f0fdfa;
   --area-border: #99f6e4;
@@ -64,6 +64,8 @@ redirect_from:
 
 .research-area--economics,
 .research-area--welfare,
+.research-area--health,
+.research-area--education,
 .research-area--econometrics {
   --area-text: #9f1239;
   --area-background: #fff1f2;
@@ -253,13 +255,15 @@ body.dark-mode .paper-irb {
 <div class="research-areas">
   <span class="research-area research-area--accounting">Accounting Standards</span>
   <span class="research-area research-area--ai">Agentic AI/Small Language Models</span>
-  <span class="research-area research-area--trust">Information Systems Trust</span>
+  <span class="research-area research-area--information-systems">Information Systems</span>
   <span class="research-area research-area--escrows">Escrows</span>
   <span class="research-area research-area--markets">Prediction Markets</span>
   <span class="research-area research-area--assets">Digital Assets/Distributed Ledgers</span>
   <span class="research-area research-area--microstructure">Market Microstructure</span>
   <span class="research-area research-area--economics">Applied Economics</span>
   <span class="research-area research-area--welfare">Welfare Economics</span>
+  <span class="research-area research-area--health">Health Economics</span>
+  <span class="research-area research-area--education">Education</span>
   <span class="research-area research-area--econometrics">Econometric Theory</span>
 </div>
 

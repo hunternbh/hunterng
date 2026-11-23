@@ -11,7 +11,7 @@ redirect_from:
 
 <figure class="academic-rabbit-line teaching-intro">
   <blockquote>
-    <p>Teaching is the craft of making the complicated simple.</p>
+    <p>Teaching is the craft of the complicated simple. You must look at the joyful faces he lights up.</p>
     <cite>Hunter Ng</cite>
   </blockquote>
   {% include academic-rabbit.html kind='teaching' %}

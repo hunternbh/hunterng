@@ -341,7 +341,7 @@ body.dark-mode .paper-irb {
 
 **Economics**
 
-- <span class="role-tag paper-working">Working Paper</span> [*Educational Opportunity and the Gendered Division of Household Work*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7706958)
+- <span class="role-tag paper-working">Working Paper</span> [*When girls study, who does the housework? Evidence from time-use surveys and cash transfer programs*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7706958)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-housework" onclick="toggleAbstract('abs-housework', 'link-abs-housework')">[show abstract]</a>
   - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
   - Revised November 22, 2026 · [Download Paper]({{ site.baseurl }}/files/papers/educational-opportunity-household-work.pdf)

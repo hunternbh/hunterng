@@ -282,7 +282,7 @@ body.dark-mode .paper-irb {
 
 **Digital Assets**
 
-- <span class="role-tag paper-working">Working Paper</span> [Price Discovery and Trading in Prediction Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331995)
+- <span class="role-tag paper-working">Working Paper</span> [Price Discovery and Trading in Modern Prediction Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331995)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-prediction" onclick="toggleAbstract('abs-prediction', 'link-abs-prediction')">[show abstract]</a>
   - Coauthors: <a href="https://sites.google.com/site/linpengbaruch/home">Lin Peng</a>, <a href="https://dzfinance.notion.site/">Dexin Zhou</a>, <a href="https://sites.google.com/site/ybtao1990/home">Yubo Tao</a>
   - Presentations: <a href="https://wp.lancs.ac.uk/ffmm2026/">FFMM 2026</a>; FMA 2026; Baruch Finance 2025; CUFE; PKU–NSD; Fudan; Hong Kong PolyU Finance 2025; University of Macau; University of South Carolina
@@ -340,6 +340,13 @@ body.dark-mode .paper-irb {
   </div>
 
 **Economics**
+
+- <span class="role-tag paper-working">Working Paper</span> [Robust Detrending in Empirical Macroeconomics]({{ site.baseurl }}/files/papers/robust-detrending-in-empirical-macroeconomics.pdf)
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-robust-detrending" onclick="toggleAbstract('abs-robust-detrending', 'link-abs-robust-detrending')">[show abstract]</a>
+  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
+  <div id="abs-robust-detrending" class="abstract-box">
+    <p>We identify 1,035 articles using the Hodrick–Prescott filter in 50 economics journals between 2000 and November 11, 2026. Fifty-eight percent use only the HP family. We revisit findings from thirteen studies with five filters. Switching from HP to the Christiano–Fitzgerald filter changes whether output or consumption moves together more closely across countries in the pre-pandemic sample. All three international models we evaluate understate output comovement across filters. We propose choosing complementary filters in advance and applying the same procedures to observed and simulated data.</p>
+  </div>
 
 - <span class="role-tag paper-working">Working Paper</span> [*When girls study, who does the housework? Evidence from time-use surveys and cash transfer programs*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7706958)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-housework" onclick="toggleAbstract('abs-housework', 'link-abs-housework')">[show abstract]</a>
@@ -418,14 +425,14 @@ body.dark-mode .paper-irb {
     <!-- <p><a href="{{ site.baseurl }}/files/ghost-jobs.pdf">Download Paper</a></p> -->
   </div>
 
-- <span class="role-tag paper-published">Published</span> Legitimacy and the Fluid Singaporean Welfare State ([Sociology Compass](http://dx.doi.org/10.1111/soc4.70197))
+- <span class="role-tag paper-published">Published</span> Legitimacy and the Fluid Singaporean Welfare State ([Sociology Compass](https://doi.org/10.1111/soc4.70197) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876607))
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
   <div id="abs-welfare" class="abstract-box">
     <p>This paper develops a theory of the fluid welfare state, in which legitimacy rather than efficiency constitutes the central constraint of welfare governance. Using a dynamic model of government–citizen interaction, we show that a state that adjusts its welfare messaging across social groups enhances legitimacy when the persuasive benefit exceeds the credibility cost. The framework is inductively derived from the case of Singapore, which exemplifies how a small, open, and fiscally disciplined East Asian productivist welfare state can sustain public trust through performance and communication rather than extensive redistribution. As welfare communication increasingly takes place through digital platforms and social media, the capacity to adapt these narratives can be a powerful tool for all regimes. The concept of the fluid welfare state therefore provides a framework for understanding how contemporary governments, particularly those facing fiscal and demographic constraints, can preserve welfare legitimacy through adaptive persuasion rather than expansionary spending.</p>
   </div>
 
-- <span class="role-tag paper-reflective">Reflective Essay</span> [True Seeker – An Accounting PhD Journey](https://papers.ssrn.com/abstract=5611810)
-- <span class="role-tag paper-reflective">Reflective Essay</span> [History of Economic Thought: A Dialogue Format](https://papers.ssrn.com/abstract=5668870)
+- <span class="role-tag paper-reflective">Reflective Essay</span> [True Seeker – An Accounting PhD Journey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611810)
+- <span class="role-tag paper-reflective">Reflective Essay</span> [History of Economic Thought: A Dialogue Format](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5668870)
 
 </div>
 </details>

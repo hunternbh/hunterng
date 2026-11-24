@@ -342,6 +342,7 @@ body.dark-mode .paper-irb {
 **Economics**
 
 - <span class="role-tag paper-working">Working Paper</span> [Robust Detrending in Empirical Macroeconomics]({{ site.baseurl }}/files/papers/robust-detrending-in-empirical-macroeconomics.pdf)
+  · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7746920)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-robust-detrending" onclick="toggleAbstract('abs-robust-detrending', 'link-abs-robust-detrending')">[show abstract]</a>
   - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
   <div id="abs-robust-detrending" class="abstract-box">

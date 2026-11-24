@@ -410,12 +410,6 @@ body.dark-mode .paper-irb {
   </div>
 
 
-- <span class="role-tag paper-working">Working Paper</span> AI Guardrails in Ambiguous Harm Settings: Evidence from Curses
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-curses" onclick="toggleAbstract('abs-curses', 'link-abs-curses')">[show abstract]</a>
-  <div id="abs-curses" class="abstract-box">
-    <p>This study examines how AI guardrails respond when a request has a hostile objective but uncertain practical capacity to cause harm. I study whether models preserve the request, selectively change the hostile objective, or refuse the request altogether. When a prompt combines permissible content with a hostile objective, models are often able to disentangle the two components. Rather than refusing the request outright, they frequently transform it by preserving the permissible content while changing the hostile objective. Hostile requests intended to be sent directly to the target of the hostile content are preserved less often than otherwise similar requests described as private. These patterns appear across model families, while neither later model releases nor higher reasoning settings produce a consistent directional change in preservation.</p>
-  </div>
-
 - <span class="role-tag paper-working">Working Paper</span> Why is it so hard to find a job now? Enter Ghost Jobs
   - Coauthors: <a href="https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee">Yen Tong</a>, <a href="https://www.reveliolabs.com/products/consulting">Loujaina Abdelwahed</a>
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-ghostjobs" onclick="toggleAbstract('abs-ghostjobs', 'link-abs-ghostjobs')">[show abstract]</a>

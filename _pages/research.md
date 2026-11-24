@@ -256,12 +256,10 @@ body.dark-mode .paper-irb {
   <span class="research-area research-area--accounting">Accounting Standards</span>
   <span class="research-area research-area--ai">Agentic AI/Small Language Models</span>
   <span class="research-area research-area--information-systems">Information Systems</span>
-  <span class="research-area research-area--escrows">Escrows</span>
   <span class="research-area research-area--markets">Prediction Markets</span>
   <span class="research-area research-area--assets">Digital Assets/Distributed Ledgers</span>
   <span class="research-area research-area--microstructure">Market Microstructure</span>
   <span class="research-area research-area--economics">Applied Economics</span>
-  <span class="research-area research-area--welfare">Welfare Economics</span>
   <span class="research-area research-area--health">Health Economics</span>
   <span class="research-area research-area--education">Education</span>
   <span class="research-area research-area--econometrics">Econometric Theory</span>
@@ -330,13 +328,6 @@ body.dark-mode .paper-irb {
   <a href="javascript:void(0);" class="abstract-toggle" id="link-scalable-da" onclick="toggleAbstract('scalable-da', 'link-scalable-da')">[show abstract]</a>
   <div id="scalable-da" class="abstract-box">
     <p>The growing importance of data analytics (DA) in accounting has changed how accounting professionals collect, analyze, and interpret data. As DA becomes increasingly integrated into accounting practice, accounting students need assignments that combine analytical, technical, and professional judgment skills. This paper presents a scalable teaching case that uses randomized datasets and automated grading to support individualized student analysis in larger classes. Each student receives a unique dataset generated from a common underlying structure, preserving consistent learning objectives while reducing the usefulness of shared solutions. In the case, students estimate the allowance for doubtful accounts using historical customer-level accounts receivable data and compare the percentage-of-sales method with the aging-of-receivables method. Students complete spreadsheet-based analysis and prepare a written recommendation supported by their results. Automated grading evaluates the technical outputs, while the written report assesses interpretation and communication. The case provides a flexible model for integrating DA competencies into accounting courses without requiring extensive programming expertise from instructors.</p>
-  </div>
-
-- <span class="role-tag paper-working">Working Paper</span> [Financial Access, Study Organisation and Assessment Rubrics When Studying with LLMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7616519)
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-financial-access" onclick="toggleAbstract('abs-financial-access', 'link-abs-financial-access')">[show abstract]</a>
-  - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
-  <div id="abs-financial-access" class="abstract-box">
-    <p>We study how financial resources, study habits, and assessment rubrics shape AI-assisted learning. In two international student surveys, students with greater financial resources were more likely to have paid AI access and practice for exams. A randomized tutoring experiment found that guided tutoring prompted students to show their work more often. In controlled economics exams, rubrics improved some models’ accuracy on challenging questions, with smaller gains on introductory questions and no average accuracy gain for a newer low-cost model.</p>
   </div>
 
 **Economics**

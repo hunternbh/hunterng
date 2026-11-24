@@ -254,10 +254,11 @@ body.dark-mode .paper-irb {
 <p class="academic-rabbit-line"><strong>Research Areas</strong> {% include academic-rabbit.html kind='research' %}</p>
 <div class="research-areas">
   <span class="research-area research-area--accounting">Accounting Standards</span>
-  <span class="research-area research-area--ai">Agentic AI/Small Language Models</span>
+  <span class="research-area research-area--ai">Agentic AI</span>
+  <span class="research-area research-area--ai">Small Language Models</span>
   <span class="research-area research-area--information-systems">Information Systems</span>
   <span class="research-area research-area--markets">Prediction Markets</span>
-  <span class="research-area research-area--assets">Digital Assets/Distributed Ledgers</span>
+  <span class="research-area research-area--assets">Digital Assets</span>
   <span class="research-area research-area--microstructure">Market Microstructure</span>
   <span class="research-area research-area--economics">Applied Economics</span>
   <span class="research-area research-area--health">Health Economics</span>

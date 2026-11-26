@@ -279,7 +279,15 @@ body.dark-mode .paper-irb {
     <p><a href="{{ site.baseurl }}/files/accounting-judgment-ai-paper.pdf">Download Paper</a> · <a href="{{ site.baseurl }}/files/accounting-judgment-ai-slides.pdf">Download Slides (PDF)</a> · <a href="{{ site.baseurl }}/files/accounting-judgment-ai-slides.pptx">Download Slides (PowerPoint)</a></p>
   </div>
 
-**Digital Assets**
+- <span class="role-tag paper-working">Working Paper</span> Why is it so hard to find a job now? Enter Ghost Jobs
+  - Coauthors: <a href="https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee">Yen Tong</a>, <a href="https://www.reveliolabs.com/products/consulting">Loujaina Abdelwahed</a>, <a href="https://zicklin.baruch.cuny.edu/faculty-profile/svenja-dube/">Svenja Dube</a>, <a href="https://www.fordham.edu/gabelli-school-of-business/faculty/full-time-faculty/hye-seung-grace-lee/">Hye Lee</a>
+  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-ghostjobs" onclick="toggleAbstract('abs-ghostjobs', 'link-abs-ghostjobs')">[show abstract]</a>
+  <div id="abs-ghostjobs" class="abstract-box">
+    <p>This paper investigates "ghost jobs", which are vacancies posted without intent to hire, using a novel dataset of interview reviews from Glassdoor. Using a fine-tuned BERT model, I find that approximately 21% of job postings exhibit patterns consistent with ghost jobs. These are disproportionately concentrated in larger firms and high-skill industries, where firms may benefit from resume collection, market intelligence, or signaling. I also show that incorporating ghost job prevalence helps reconcile the recent disconnect in the Beveridge Curve between vacancy and hiring rates. The results highlight how ghost hiring imposes costs on job seekers, distorts labor market indicators, and warrants closer scrutiny from policymakers.</p>
+    <!-- <p><a href="{{ site.baseurl }}/files/ghost-jobs.pdf">Download Paper</a></p> -->
+  </div>
+
+**Finance**
 
 - <span class="role-tag paper-working">Working Paper</span> [Price Discovery and Trading in Modern Prediction Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5331995)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-prediction" onclick="toggleAbstract('abs-prediction', 'link-abs-prediction')">[show abstract]</a>
@@ -334,7 +342,6 @@ body.dark-mode .paper-irb {
 **Economics**
 
 - <span class="role-tag paper-working">Working Paper</span> [Robust Detrending in Empirical Macroeconomics]({{ site.baseurl }}/files/papers/robust-detrending-in-empirical-macroeconomics.pdf)
-  · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7746920)
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-robust-detrending" onclick="toggleAbstract('abs-robust-detrending', 'link-abs-robust-detrending')">[show abstract]</a>
   - Coauthors: <a href="https://www.shoumingchang.com/">Shou-Ming Chang</a>
   <div id="abs-robust-detrending" class="abstract-box">
@@ -400,14 +407,6 @@ body.dark-mode .paper-irb {
     <p>We examine whether the May 2025 U.S. most-favored-nation pricing announcement was followed by changes in foreign public funding of medicines. International price discrimination theory predicts a tension where accepting lower foreign reimbursement prices under MFN expands sales abroad but risks reducing U.S. revenues, potentially delaying public-funding agreements for medicines with higher U.S. spending. We find that these medicines experienced a larger relative decline in new public-funding entries in reference OECD markets. Using records from three reference OECD markets and three non-OECD markets, we compare documented funding entry before and after the announcement through May 2026. Among 361 medicines linked to earlier U.S. spending, balancing FDA approval age yields a larger decline in reference OECD markets relative to non-OECD markets for higher-spending medicines of 0.261 entries per 100 medicines per month. This negative association persists across alternative weights and robustness tests.</p>
   </div>
 
-
-- <span class="role-tag paper-working">Working Paper</span> Why is it so hard to find a job now? Enter Ghost Jobs
-  - Coauthors: <a href="https://dr.ntu.edu.sg/entities/person/Tong-Yen-Hee">Yen Tong</a>, <a href="https://www.reveliolabs.com/products/consulting">Loujaina Abdelwahed</a>
-  <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-ghostjobs" onclick="toggleAbstract('abs-ghostjobs', 'link-abs-ghostjobs')">[show abstract]</a>
-  <div id="abs-ghostjobs" class="abstract-box">
-    <p>This paper investigates "ghost jobs", which are vacancies posted without intent to hire, using a novel dataset of interview reviews from Glassdoor. Using a fine-tuned BERT model, I find that approximately 21% of job postings exhibit patterns consistent with ghost jobs. These are disproportionately concentrated in larger firms and high-skill industries, where firms may benefit from resume collection, market intelligence, or signaling. I also show that incorporating ghost job prevalence helps reconcile the recent disconnect in the Beveridge Curve between vacancy and hiring rates. The results highlight how ghost hiring imposes costs on job seekers, distorts labor market indicators, and warrants closer scrutiny from policymakers.</p>
-    <!-- <p><a href="{{ site.baseurl }}/files/ghost-jobs.pdf">Download Paper</a></p> -->
-  </div>
 
 - <span class="role-tag paper-published">Published</span> Legitimacy and the Fluid Singaporean Welfare State ([Sociology Compass](https://doi.org/10.1111/soc4.70197) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4876607))
   <a href="javascript:void(0);" class="abstract-toggle" id="link-abs-welfare" onclick="toggleAbstract('abs-welfare', 'link-abs-welfare')">[show abstract]</a>
